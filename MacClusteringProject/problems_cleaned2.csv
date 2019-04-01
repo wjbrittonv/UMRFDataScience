@@ -1,0 +1,803 @@
+Number,Priority,Business service,Category,Company,Created,Created Time,Created by,Impact,Major Problem,Problem Manager,Related Incidents,Type,Urgency,Incidents Count,Assignment group,Duration Mean,Has Parent
+60146,5,Computer,Application,FedEx Services,2018-06-28 19:56:05,evening,3667964,3,True,Mark Duncan,10,ITCC,3,10,Other,136935.8,True
+60985,5,Server,Application,FedEx Services,2018-07-15 18:14:43,evening,5305519,3,True,Christophe Gurley,9,ITCC,3,9,Other,216472,True
+60147,5,Network,Application,FedEx Services,2018-06-29 07:15:36,morning,483039,3,True,Michael Kennemer,6,ITCC,3,6,Other,223714.166666667,True
+62412,2,Server,Infrastructure,FedEx Services,2019-01-06 12:00:08,afternoon,973921,2,True,Michael Kennemer,6,ITCC,1,6,FXS_WASDRATINGTRACKING,176569.5,True
+63553,3,Server,Hardware,FedEx Services,2019-03-11 14:45:26,afternoon,5305519,2,False,Christopher Barber,6,ITCC,2,6,Other,55476.8333333333,True
+60194,2,Server,Application,FedEx Services,2018-07-06 20:12:25,evening,828618,1,True,Terri Hamilton,4,ITCC,2,4,Other,44839.25,True
+61073,5,Server,Application,FedEx Services,2018-07-23 15:45:04,afternoon,5305519,3,True,Eli Smith,4,ITCC,3,4,Other,15535.25,True
+61373,5,Server,Application,FedEx Services,2018-09-15 07:26:49,morning,5163721,3,True,Eli Smith,4,ITCC,3,4,FXS_SPT_GLB_SharePoint,2220.5,True
+61956,4,Computer,Infrastructure,FedEx Ground,2018-11-17 09:49:37,morning,973921,3,True,Eli Smith,4,ITCC,2,4,FXS_DBA_US_HCL,9536,True
+62207,2,Server,Application,FedEx Express,2018-12-12 00:16:31,night,5163721,1,True,Terri Hamilton,4,ITCC,2,4,Other,12767,True
+62320,4,Database,Infrastructure,FedEx Services,2018-12-18 20:59:13,evening,5305519,3,True,Michael Kennemer,4,ITCC,2,4,Other,47080.75,True
+62358,5,Computer,Application,FedEx Services,2018-12-26 03:58:30,night,5285658,3,True,Michael Kennemer,4,ITCC,3,4,FXS_SA_GLB_ADS,112705,True
+62384,4,Server,Application,FedEx Services,2018-12-31 19:33:56,evening,3732283,3,True,Eli Smith,4,ITCC,2,4,Other,4241,True
+62432,2,Server,Application,FedEx Services,2019-01-07 13:19:16,afternoon,973921,1,True,Christopher Barber,4,ITCC,2,4,Other,16124.75,True
+63543,1,Other,Application,FedEx Services,2019-03-11 03:46:07,night,5163721,1,True,Christophe Gurley,4,ITCC,1,4,Other,82715.75,True
+63610,3,Server,Hardware,FedEx Express,2019-03-13 10:08:25,morning,3699687,2,True,Terri Hamilton,4,ITCC,2,4,Other,159749.25,True
+60075,5,Communication Device,Inquiry / Help,FedEx Office,2018-06-21 08:49:43,morning,847287,3,True,Terri Hamilton,3,ITCC,3,3,Other,20179.3333333333,True
+61283,5,Server,Infrastructure,FedEx Services,2018-08-25 07:39:37,morning,5285658,3,True,Eli Smith,3,Standard,3,3,FXS_SPT_GLB_SharePoint,8890.33333333333,True
+61315,5,Server,Inquiry / Help,FedEx Express,2018-09-03 23:37:53,night,5285658,3,True,Eli Smith,3,ITCC,3,3,Other,15135.3333333333,True
+61343,3,Server,Application,FedEx Services,2018-09-09 15:09:18,afternoon,973921,2,True,Terri Hamilton,3,ITCC,2,3,Other,4486735,True
+61448,4,Computer,Application,FedEx Freight Inc.,2018-09-27 14:37:42,afternoon,973921,3,True,Christina Hanlin,3,ITCC,2,3,Other,69503,True
+62222,4,Server,Application,FedEx Services,2018-12-14 10:46:50,morning,973921,3,True,Randall Painter,3,ITCC,2,3,FXS_WASDRATINGTRACKING,133063,True
+62365,2,Server,Application,FedEx Services,2018-12-27 11:26:00,morning,973921,1,True,Randall Painter,3,ITCC,2,3,Other,8803.33333333333,True
+61026,5,Server,Application,FedEx Services,2018-07-18 13:09:44,afternoon,483039,3,True,Brad Moore,2,ITCC,3,2,FXS_EIS_GLB_ProblemMgmt,1633497,True
+61032,5,Server,Application,FedEx Services,2018-07-18 14:17:20,afternoon,483039,3,True,Terri Hamilton,2,ITCC,3,2,FXS_EIS_GLB_ProblemMgmt,1629251.5,True
+60160,5,Server,Application,FedEx Services,2018-07-02 07:47:11,morning,973921,3,True,Christopher Barber,2,ITCC,3,2,Other,1436212,False
+60187,5,Network,Application,FedEx Services,2018-07-03 19:43:10,evening,828618,3,True,Christophe Gurley,2,ITCC,3,24,Other,21127731.4166667,True
+60251,4,Server,Hardware,FedEx Services,2018-07-12 09:58:06,morning,483039,2,True,Christopher Barber,2,ITCC,3,2,FXS_EIS_GLB_ProblemMgmt,1194659.5,True
+60990,5,Server,Application,FedEx Services,2018-07-16 04:16:01,night,5285658,3,True,Christophe Gurley,2,Standard,3,5,Other,696807.6,True
+61035,3,Server,Application,FedEx Services,2018-07-18 17:17:57,evening,3667964,2,True,Terri Hamilton,2,ITCC,2,2,FXS_SA_Server,1997,True
+61076,3,Server,Application,FedEx Services,2018-07-24 06:04:18,morning,5285658,2,True,Christopher Barber,2,Standard,2,2,Other,191721,True
+61127,3,Computer,Application,FedEx Services,2018-07-30 19:37:07,evening,3667964,2,True,Terri Hamilton,2,ITCC,2,2,Other,8813.5,True
+61137,5,Storage,Hardware,FedEx Services,2018-07-31 20:43:26,evening,3667964,3,True,Michael Kennemer,2,ITCC,3,2,Other,87192.5,True
+61225,5,Network,Hardware,FedEx Services,2018-08-16 11:48:01,morning,836059,3,True,Brad Moore,2,ITCC,3,2,Other,89885,True
+61230,4,Database,Application,FedEx Services,2018-08-17 04:38:24,night,5285658,3,True,Christophe Gurley,2,ITCC,2,2,Other,2061.5,True
+61237,3,Server,Hardware,FedEx Services,2018-08-17 10:11:41,morning,847287,2,True,Christopher Barber,2,ITCC,2,2,FXS_WASDRATINGTRACKING,737.5,True
+61270,5,Server,Application,FedEx Services,2018-08-22 16:23:31,afternoon,5305519,3,True,Eli Smith,2,ITCC,3,2,FXS_SA_GLB_ADS,142364.5,True
+61278,3,Server,Application,FedEx Express,2018-08-24 05:50:21,morning,5285658,2,True,Christopher Barber,2,ITCC,2,2,Other,18965,True
+61286,5,Server,Hardware,TNT Express,2018-08-27 15:05:29,afternoon,973921,3,True,Terri Hamilton,2,ITCC,3,2,Other,3542,True
+61349,4,Server,Hardware,FedEx Services,2018-09-10 14:56:33,afternoon,973921,3,True,Randall Painter,2,ITCC,2,2,FXS_L2ITCC,134168,False
+61386,4,Server,Application,FedEx Services,2018-09-18 10:58:31,morning,847287,3,True,Other,2,ITCC,2,2,FXS_L2ITCC,3452,True
+61387,5,Server,Application,FedEx Services,2018-09-18 11:25:54,morning,847287,3,True,Mark Duncan,2,ITCC,3,2,Other,190898.5,True
+61414,3,Network,Security,FedEx Services,2018-09-21 11:59:53,morning,847287,2,True,Mark Duncan,2,ITCC,2,2,FXS_L2ITCC,1568,True
+61427,5,Server,Application,FedEx Services,2018-09-25 09:45:10,morning,847287,3,True,Michael Kennemer,2,ITCC,3,2,FXS_L2ITCC,18780,True
+61417,5,Database,Hardware,FedEx Services,2018-09-22 10:20:07,morning,973921,3,True,Eli Smith,2,ITCC,3,2,FXS_SPT_GLB_SharePoint,1150,True
+61450,4,Database,Application,FedEx Services,2018-09-28 11:56:20,morning,973921,3,True,Randall Painter,2,ITCC,2,2,FXG_SPT_FASS_SingleSystem,16119,True
+61453,5,Network,Application,FedEx Services,2018-09-29 08:11:52,morning,973921,3,True,Stephen Barch,2,ITCC,3,2,Other,983656,True
+61454,4,Computer,Hardware,FedEx Services,2018-09-29 12:08:46,afternoon,973921,2,True,Mark Duncan,2,ITCC,3,2,FXS_L2ITCC,2627,True
+61460,4,Database,Inquiry / Help,FedEx Ground,2018-10-01 10:59:39,morning,973921,3,True,Eli Smith,2,ITCC,2,2,FXG_SPT_FASS_SingleSystem,8724,True
+61483,5,Server,Application,FedEx Services,2018-10-04 00:33:23,night,5163721,3,True,Mark Duncan,2,ITCC,3,2,Other,2387,True
+61520,4,Server,Application,FedEx Services,2018-10-09 18:50:11,evening,3699687,2,True,Mark Duncan,2,ITCC,3,2,Other,6712.5,True
+61539,3,Server,Application,FedEx Services,2018-10-12 18:55:17,evening,3699687,3,True,Mark Duncan,2,ITCC,1,2,FXS_WASDRATINGTRACKING,5439.5,True
+61547,5,Server,Hardware,FedEx Services,2018-10-14 19:22:22,evening,3659168,3,True,Christophe Gurley,2,ITCC,3,2,Other,295400,True
+61590,4,Communication Device,Application,FedEx Services,2018-10-19 15:38:26,afternoon,5285658,3,True,Christophe Gurley,2,ITCC,2,2,Other,29110.5,True
+61593,5,Server,Inquiry / Help,FedEx Services,2018-10-21 14:02:32,afternoon,3659168,3,True,Eli Smith,2,ITCC,3,2,Other,5320.5,True
+61774,3,Network,Application,FedEx Services,2018-11-05 16:29:44,afternoon,3692199,1,False,Christophe Gurley,2,ITCC,3,2,FXS_WASDRATINGTRACKING,369692.5,True
+61856,4,Communication Device,Application,FedEx Freight Inc.,2018-11-10 08:12:06,morning,192015,3,True,Christina Hanlin,2,ITCC,2,2,Other,240622,True
+61907,3,Server,Application,FedEx Services,2018-11-13 14:44:50,afternoon,3659168,2,True,Mark Duncan,2,ITCC,2,2,FXS_WASDRATINGTRACKING,48044.5,True
+61940,3,Server,Hardware,FedEx Services,2018-11-15 12:14:43,afternoon,973921,2,True,Brad Moore,2,ITCC,2,2,Other,15402,True
+61988,5,Computer,Application,FedEx Freight Inc.,2018-11-20 17:37:34,evening,3667964,3,True,Christina Hanlin,2,ITCC,3,2,Other,8875.5,True
+62008,4,Server,Hardware,FedEx Services,2018-11-21 21:20:35,night,5305519,3,True,Terri Hamilton,2,ITCC,2,2,FXS_SPT_GLB_NOCL2,144077,True
+62011,5,Computer,Application,FedEx Ground,2018-11-22 06:22:03,morning,53640,3,True,Terri Hamilton,2,Standard,3,2,Other,17734.5,True
+62014,5,Network,Application,FedEx Freight Inc.,2018-11-23 07:07:32,morning,192015,3,True,Mark Duncan,2,ITCC,3,2,Other,57638.5,True
+62050,5,Computer,Application,FedEx Services,2018-11-27 13:29:01,afternoon,5285658,3,True,Brad Moore,2,ITCC,3,2,Other,220924.5,True
+62125,4,Server,Application,FedEx Freight Inc.,2018-12-03 07:28:44,morning,973921,3,True,Christina Hanlin,2,ITCC,2,2,FXS_SA_US_ITOWindowsServer,9165.5,True
+62206,5,Server,Application,FedEx Express,2018-12-11 22:21:08,night,5163721,3,True,Eli Smith,2,ITCC,3,2,Other,2920.5,True
+62392,4,Server,Application,FedEx Services,2019-01-02 19:03:47,evening,5305519,3,True,Brad Moore,2,ITCC,2,2,Other,42309,True
+62467,3,Computer,Application,FedEx Freight Inc.,2019-01-09 21:27:10,night,5163721,2,True,Christina Hanlin,2,ITCC,2,2,FXS_L2ITCC,10529,True
+62590,3,Server,Application,FedEx Services,2019-01-21 00:15:28,night,5163721,2,True,Terri Hamilton,2,ITCC,2,2,Other,634,True
+62603,2,Other,Application,FedEx Services,2019-01-21 13:49:38,afternoon,836059,2,True,Brad Moore,2,ITCC,1,2,FXS_WASDRATINGTRACKING,11053.5,True
+62617,2,Server,Application,FedEx Services,2019-01-21 21:53:24,night,3667964,1,True,Christophe Gurley,2,ITCC,2,2,Other,14471,True
+62744,3,Server,Application,FedEx Services,2019-01-24 17:20:01,evening,3667964,2,True,Christina Hanlin,2,ITCC,2,2,FXS_SA_US_ITOWindowsServer,2044,True
+62901,5,Switch,Application,FedEx Services,2019-01-29 18:18:38,evening,3692199,3,True,Randall Painter,2,ITCC,3,2,Other,26863.5,True
+62963,4,Communication Device,Application,FedEx Ground,2019-01-30 22:23:56,night,5285658,3,True,Michael Kennemer,2,ITCC,2,2,Other,49522.5,True
+63463,2,Server,Hardware,FedEx Services,2019-03-03 19:20:32,evening,3692199,2,True,Christopher Barber,2,ITCC,1,2,Other,93972.5,True
+63467,2,Other,Environment,FedEx Services,2019-03-04 19:33:47,evening,3692199,2,True,Randall Painter,2,ITCC,1,2,Other,4302.5,True
+63475,5,Database,Hardware,FedEx Ground,2019-03-05 12:36:48,afternoon,847287,3,True,Christophe Gurley,2,ITCC,3,2,Other,24701,True
+63480,2,Server,Hardware,FedEx Services,2019-03-06 05:53:55,morning,3609339,2,True,Brad Moore,2,ITCC,1,2,Other,11779.5,True
+63739,3,Printer,Hardware,FedEx Freight Inc.,2019-03-16 08:56:29,morning,847287,2,True,Christopher Barber,2,ITCC,2,2,FXS_SA_US_ITOWindowsServer,18492,True
+63831,5,Other,Application,FedEx Services,2019-03-19 16:45:17,afternoon,3692199,3,True,Christophe Gurley,2,ITCC,3,2,Other,244715,True
+63854,5,Server,Hardware,FedEx Services,2019-03-21 05:10:13,morning,3732283,3,True,Christopher Barber,2,ITCC,3,2,Other,17271,True
+61025,5,Mainframe,Application,FedEx Services,2018-07-18 12:59:36,afternoon,483039,3,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1626383,True
+61028,5,Server,Application,FedEx Services,2018-07-18 13:45:05,afternoon,483039,3,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1624643,True
+61023,4,Server,Application,FedEx Services,2018-07-18 12:47:03,afternoon,483039,2,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1624134,True
+61029,4,Server,Application,FedEx Services,2018-07-18 13:51:31,afternoon,483039,3,True,Randall Painter,1,ITCC,2,1,FXS_EIS_GLB_ProblemMgmt,1631068,True
+61031,3,Server,Application,FedEx Services,2018-07-18 14:12:01,afternoon,483039,2,True,Terri Hamilton,1,ITCC,2,1,FXS_EIS_GLB_ProblemMgmt,1631014,True
+61030,5,Server,Application,FedEx Services,2018-07-18 14:01:50,afternoon,483039,3,True,Randall Painter,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1635441,True
+60003,5,Communication Device,Hardware,FedEx Express,2018-06-18 03:04:44,night,572652,3,False,Eli Smith,1,ITCC,3,2,Other,2474298,True
+60019,5,Scanner,Hardware,FedEx Services,2018-06-18 10:57:14,morning,483039,3,True,Christophe Gurley,1,ITCC,3,1,Other,9075,True
+60026,5,Database,Application,FedEx Services,2018-06-18 16:36:54,afternoon,5305519,3,False,Mark Duncan,1,ITCC,3,13,Other,3885203.84615385,True
+60029,5,Database,Application,FedEx Ground,2018-06-19 08:50:59,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,87041,True
+60030,5,Database,Application,FedEx Ground,2018-06-19 09:02:09,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,22042,True
+60037,4,Network,Hardware,FedEx Services,2018-06-19 10:37:07,morning,847287,3,True,Randall Painter,1,ITCC,2,1,Other,618733,True
+60038,5,Communication Device,Application,FedEx Services,2018-06-19 11:34:51,morning,847287,3,True,Michael Kennemer,1,ITCC,3,1,Other,772,True
+60040,3,Server,Application,FedEx Services,2018-06-19 13:16:22,afternoon,836059,2,True,Christopher Barber,1,ITCC,2,1,FXS_SA_Server,12126,True
+60041,5,Network,Application,FedEx Services,2018-06-19 13:38:51,afternoon,847287,3,True,Christophe Gurley,1,ITCC,3,1,Other,59002,True
+60042,5,Computer,Application,FedEx Services,2018-06-19 13:44:53,afternoon,847287,3,True,Eli Smith,1,ITCC,3,1,Other,54693,True
+60044,5,Server,Application,FedEx Services,2018-06-19 18:01:15,evening,3667964,3,False,DZundra Green,1,Standard,3,1,FXS_SA_GLB_ADS,46686,True
+60045,5,Computer,Application,FedEx Services,2018-06-19 18:30:48,evening,3667964,3,False,DZundra Green,1,Standard,3,1,FXS_SA_GLB_ADS,81058,True
+60048,2,Network,Application,FedEx Services,2018-06-20 06:57:09,morning,483039,2,True,Eli Smith,1,ITCC,1,1,Other,16635,True
+60050,5,Database,Application,FedEx Services,2018-06-20 08:30:59,morning,483039,3,True,Randall Painter,1,ITCC,3,1,Other,58950,True
+60053,5,Database,Application,FedEx Services,2018-06-20 08:48:11,morning,483039,3,True,Michael Kennemer,1,ITCC,3,1,Other,34961,True
+60054,5,Server,Application,FedEx Services,2018-06-20 11:37:14,morning,836059,3,True,Christophe Gurley,1,ITCC,3,1,FXS_WASDRATINGTRACKING,1768,True
+60064,5,Computer,Application,FedEx Services,2018-06-20 18:55:25,evening,3667964,3,True,Christophe Gurley,1,ITCC,3,1,Other,4751,True
+60084,5,Communication Device,Hardware,FedEx Services,2018-06-21 16:08:48,afternoon,828618,3,True,Other,1,ITCC,3,1,Other,318323,True
+60085,5,Network,Hardware,FedEx Services,2018-06-22 20:02:22,evening,828618,3,True,Brad Moore,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,10647,True
+60120,5,Server,Hardware,FedEx Services,2018-06-26 15:22:42,afternoon,5305519,3,True,Eli Smith,1,Standard,3,9,Other,3262444.88888889,True
+60086,5,Server,Application,FedEx Services,2018-06-23 10:34:01,morning,847287,3,True,Christina Hanlin,1,ITCC,3,1,Other,12563,True
+60117,4,Server,Application,FedEx Services,2018-06-26 11:35:19,morning,847287,3,True,Terri Hamilton,1,ITCC,2,1,FXS_L2ITCC,3439,True
+60121,5,Network,Application,FedEx Services,2018-06-26 20:39:02,evening,3659168,3,True,Christophe Gurley,1,Standard,3,1,Other,5834,True
+60123,5,Server,Application,FedEx Services,2018-06-27 07:12:15,morning,847287,3,True,Christina Hanlin,1,ITCC,3,1,Other,4452,True
+60135,5,Server,Application,FedEx Services,2018-06-27 14:31:48,afternoon,5305519,3,True,Other,1,Standard,3,1,FXS_L2ITCC,32726,True
+60137,5,Server,Application,FedEx Express,2018-06-27 22:57:55,night,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,1393,True
+60136,5,Server,Application,FedEx Services,2018-06-27 14:43:50,afternoon,5305519,3,True,Randall Painter,1,Standard,3,1,FXS_L2ITCC,147417,True
+60141,5,Scanner,Application,FedEx Ground,2018-06-28 09:03:07,morning,752629,3,False,Other,1,Standard,3,1,Other,73651,True
+60142,5,Server,Application,FedEx Services,2018-06-28 09:21:10,morning,483039,3,True,Mark Duncan,1,ITCC,3,1,Other,234734,True
+60143,4,Computer,Application,FedEx Express,2018-06-28 13:10:08,afternoon,483039,2,True,Christopher Barber,1,ITCC,3,1,Other,11066,True
+60145,5,Database,Application,FedEx Ground,2018-06-28 13:48:02,afternoon,752629,3,False,Other,1,Standard,3,1,Other,30068,True
+60168,5,Printer,Hardware,FedEx Express,2018-07-03 02:28:49,night,3609339,3,True,Mark Duncan,1,ITCC,3,1,Other,846,True
+60169,5,Network,Hardware,FedEx Ground,2018-07-03 02:47:00,night,3609339,3,True,Randall Painter,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,282922,True
+60173,5,Server,Application,FedEx Services,2018-07-03 07:38:04,morning,847287,3,True,Other,1,ITCC,3,1,Other,20656,True
+60177,4,Server,Application,FedEx Services,2018-07-03 10:35:40,morning,847287,2,True,Brad Moore,1,ITCC,3,1,Other,65313,True
+60181,5,Server,Application,FedEx Services,2018-07-03 13:52:09,afternoon,847287,3,True,Mark Duncan,1,ITCC,3,1,Other,758,True
+60184,5,Server,Application,FedEx Services,2018-07-03 14:51:45,afternoon,5305519,3,True,Christophe Gurley,1,ITCC,3,1,Other,130901,True
+60185,5,Database,Inquiry / Help,FedEx Services,2018-07-03 15:07:06,afternoon,3659168,3,True,Christophe Gurley,1,ITCC,3,1,Other,67655,True
+60189,5,Communication Device,Application,FedEx Express,2018-07-04 05:32:45,morning,5285658,3,False,Other,1,Standard,3,1,Other,4166,True
+60186,5,Computer,Network,FedEx Services,2018-07-03 16:00:53,afternoon,3667964,3,True,Christopher Barber,1,ITCC,3,2,Other,475709,True
+60183,5,Server,Application,FedEx Ground,2018-07-03 14:38:11,afternoon,5305519,3,True,Michael Kennemer,1,ITCC,3,1,Other,135920,True
+60180,5,Server,Application,FedEx Ground,2018-07-03 13:49:19,afternoon,5305519,3,True,Other,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,21033,True
+60188,5,Scanner,Application,FedEx Services,2018-07-04 05:16:22,morning,5285658,3,False,Michael Kennemer,1,Standard,3,3,FXS_L2ITCC,521289.333333333,True
+60192,5,Server,Hardware,FedEx Services,2018-07-06 07:32:38,morning,973921,3,True,Christophe Gurley,1,ITCC,3,1,Other,83556,False
+60195,4,Network,Application,FedEx Services,2018-07-06 20:45:41,evening,3659168,3,True,Randall Painter,1,ITCC,2,1,Other,2165,True
+60214,5,Database,Application,FedEx Services,2018-07-09 19:48:29,evening,3659168,3,True,Mark Duncan,1,ITCC,3,1,Other,5356,True
+60217,5,Server,Application,FedEx Services,2018-07-10 07:54:41,morning,836059,3,True,Eli Smith,1,ITCC,3,1,Other,15934,True
+60206,5,Database,Application,FedEx Services,2018-07-09 09:48:07,morning,973921,3,True,Michael Kennemer,1,ITCC,3,1,Other,7632,True
+60244,5,Server,Application,FedEx Express,2018-07-12 07:07:05,morning,192015,3,True,Christophe Gurley,1,ITCC,3,1,Other,36154,True
+60249,4,Server,Application,FedEx Services,2018-07-12 08:58:34,morning,5007925,3,True,Other,1,ITCC,2,1,Other,1269202,True
+60250,4,Server,Application,FedEx Services,2018-07-12 09:47:56,morning,483039,2,True,Michael Kennemer,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1797144,True
+60252,3,Server,Hardware,FedEx Services,2018-07-12 10:04:44,morning,483039,1,True,Christopher Barber,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1186698,True
+60253,3,Server,Application,FedEx Services,2018-07-12 10:11:18,morning,483039,1,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1185855,True
+60254,4,Server,Application,FedEx Services,2018-07-12 10:19:02,morning,483039,2,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1185312,True
+60255,5,Server,Application,FedEx Services,2018-07-12 10:27:39,morning,483039,3,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1183499,True
+60256,5,Server,Application,FedEx Services,2018-07-12 10:34:53,morning,483039,3,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1182649,True
+60257,5,Server,Application,FedEx Services,2018-07-12 10:41:03,morning,483039,3,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1195989,True
+60258,4,Server,Application,FedEx Services,2018-07-12 10:45:16,morning,483039,2,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1192655,True
+60259,3,Server,Application,FedEx Services,2018-07-12 10:49:42,morning,483039,1,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1193107,True
+60260,4,Server,Application,FedEx Services,2018-07-12 10:54:33,morning,483039,2,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1192440,True
+60261,4,Server,Application,FedEx Services,2018-07-12 13:17:11,afternoon,483039,2,True,Brad Moore,1,ITCC,3,1,FXS_EIS_GLB_ProblemMgmt,1197226,True
+60264,5,Network,Hardware,FedEx Services,2018-07-12 14:16:07,afternoon,836059,3,True,Brad Moore,1,ITCC,3,1,Other,5568,True
+61027,3,Server,Application,FedEx Services,2018-07-18 13:28:58,afternoon,483039,2,True,Christopher Barber,1,ITCC,2,1,FXS_EIS_GLB_ProblemMgmt,1628544,True
+60983,5,Server,Application,FedEx Services,2018-07-14 17:26:39,evening,3667964,3,True,Terri Hamilton,1,ITCC,3,1,Other,847,True
+60988,5,Server,Inquiry / Help,FedEx Services,2018-07-15 20:40:05,evening,3659168,3,True,Mark Duncan,1,ITCC,3,1,Other,952,True
+60984,5,Server,Application,FedEx Services,2018-07-14 23:01:14,night,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,10429,True
+60989,5,Server,Application,FedEx Services,2018-07-16 02:20:48,night,5285658,3,True,Other,1,Standard,3,1,FXS_L2ITCC,14105,True
+60982,5,Server,Application,FedEx Services,2018-07-14 03:52:08,night,3609339,3,True,Eli Smith,1,ITCC,3,1,FXS_SA_GLB_ADS,7634,True
+60991,3,Server,Hardware,FedEx Services,2018-07-16 07:38:27,morning,973921,2,True,Christopher Barber,1,ITCC,2,1,FXS_DBA_US_HCL,238546,False
+60993,5,Server,Application,FedEx Express,2018-07-16 08:49:19,morning,192015,3,True,Michael Kennemer,1,ITCC,3,1,Other,180234,True
+60999,5,Server,Application,FedEx Express,2018-07-16 12:08:28,afternoon,836059,3,True,Christophe Gurley,1,ITCC,3,1,Other,100160,True
+61004,5,Server,Hardware,FedEx Services,2018-07-16 15:14:33,afternoon,973921,3,True,Michael Kennemer,1,ITCC,3,1,Other,3474,True
+61009,5,Scanner,Hardware,FedEx Ground,2018-07-17 04:12:41,night,5285658,3,True,Eli Smith,1,Standard,3,1,Other,2323,True
+61010,5,Server,Application,FedEx Services,2018-07-17 06:45:32,morning,5285658,3,True,Brad Moore,1,Standard,3,1,Other,4050,True
+61014,5,Server,Hardware,FedEx Services,2018-07-17 10:31:19,morning,836059,3,False,Other,1,ITCC,3,1,Other,19352748,True
+61015,5,Network,Application,FedEx Services,2018-07-17 13:26:03,afternoon,836059,3,True,Mark Duncan,1,ITCC,3,1,Other,1168,True
+61034,5,Server,Application,FedEx Services,2018-07-18 16:12:27,afternoon,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,359,True
+61016,3,Server,Application,FedEx Services,2018-07-17 16:21:56,afternoon,828618,2,True,Randall Painter,1,ITCC,2,1,Other,2095,True
+61039,5,Server,Application,FedEx Services,2018-07-19 03:27:38,night,5285658,3,True,Other,1,Standard,3,1,Other,25141,True
+61037,5,Server,Application,FedEx Services,2018-07-18 21:54:15,night,3667964,3,True,DZundra Green,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,2304,True
+61041,5,Server,Hardware,FedEx Services,2018-07-19 13:38:07,afternoon,847287,3,True,Christophe Gurley,1,ITCC,3,1,FXS_SA_US_ITOWindowsServer,2337,True
+61064,3,Computer,Application,FedEx Services,2018-07-22 20:02:55,evening,5305519,2,True,Mark Duncan,1,ITCC,2,1,Other,41101,True
+61066,5,Server,Application,FedEx Express,2018-07-23 07:25:00,morning,5285658,3,True,Michael Kennemer,1,Standard,3,1,FXS_SA_GLB_ADS,1380,False
+61049,5,Mainframe,Hardware,FedEx Services,2018-07-20 07:38:20,morning,973921,3,True,Eli Smith,1,ITCC,3,1,Other,68879,True
+61045,2,Server,Application,FedEx Services,2018-07-19 15:50:29,afternoon,3667964,2,True,Randall Painter,1,ITCC,1,1,Other,1387,True
+61063,5,Server,Inquiry / Help,FedEx Services,2018-07-22 16:59:34,afternoon,3659168,3,True,Eli Smith,1,ITCC,3,1,FXS_SA_GLB_ADS,3693,True
+61036,5,Server,Application,FedEx Services,2018-07-18 20:03:54,evening,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,5728,True
+61075,3,Server,Application,FedEx Express,2018-07-24 05:07:24,morning,5285658,1,True,Terri Hamilton,1,Standard,3,1,Other,25253,True
+61084,3,Server,Application,FedEx Ground,2018-07-24 14:45:13,afternoon,3659168,1,True,Brad Moore,1,ITCC,3,1,Other,139182,True
+61072,5,Network,Application,FedEx Services,2018-07-23 11:36:21,morning,836059,3,True,Randall Painter,1,ITCC,3,1,Other,5377,True
+61087,2,Server,Application,FedEx Express,2018-07-24 16:50:52,afternoon,3659168,1,True,Christopher Barber,1,ITCC,2,1,Other,128457,True
+61088,5,Server,Application,FedEx Services,2018-07-24 19:43:41,evening,5305519,3,True,Christina Hanlin,1,ITCC,3,1,Other,3551,True
+61074,5,Computer,Application,FedEx Services,2018-07-23 19:50:41,evening,3659168,3,True,Eli Smith,1,ITCC,3,1,Other,2360,True
+61089,5,Database,Application,FedEx Ground,2018-07-24 19:58:04,evening,3659168,3,True,Terri Hamilton,1,ITCC,3,1,Other,20755,True
+61095,3,Server,Application,FedEx Express,2018-07-25 09:11:22,morning,836059,1,True,Brad Moore,1,ITCC,3,1,Other,12250,True
+61096,4,Server,Application,FedEx Services,2018-07-25 09:11:23,morning,847287,3,True,Christina Hanlin,1,ITCC,2,1,Other,7984,True
+61099,5,Network,Application,FedEx Services,2018-07-25 12:39:01,afternoon,836059,3,True,Eli Smith,1,ITCC,3,1,Other,3878,True
+61102,3,Server,Application,FedEx Services,2018-07-26 07:16:58,morning,847287,1,True,Christophe Gurley,1,ITCC,3,1,Other,64400,True
+61106,3,Server,Application,FedEx Services,2018-07-26 13:03:25,afternoon,847287,2,True,Michael Kennemer,1,ITCC,2,1,Other,274,True
+61108,2,Server,Application,FedEx Services,2018-07-26 19:52:24,evening,3667964,1,True,Mark Duncan,1,ITCC,2,1,Other,1549,True
+61110,5,Database,Application,FedEx Services,2018-07-27 04:03:00,night,3609339,3,True,Mark Duncan,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,50242,True
+61109,5,Communication Device,Application,FedEx Services,2018-07-26 21:04:07,night,3667964,3,True,Randall Painter,1,ITCC,3,1,Other,22033,True
+61120,5,Computer,Application,FedEx Express,2018-07-30 06:28:07,morning,3609339,3,True,Mark Duncan,1,ITCC,3,1,Other,172010,True
+61125,5,Server,Application,FedEx Ground,2018-07-30 15:20:57,afternoon,3624748,3,False,Other,1,Standard,3,1,Other,90433,True
+61130,5,Network,Application,FedEx Services,2018-07-31 01:01:52,night,3609339,3,True,Michael Kennemer,1,ITCC,3,1,Other,50618,True
+61131,5,Server,Application,FedEx Express,2018-07-31 02:03:33,night,5285658,3,True,Christophe Gurley,1,ITCC,3,1,Other,6210,True
+61119,5,Scanner,Application,TNT Express,2018-07-30 06:06:12,morning,5285658,3,True,Eli Smith,1,Standard,3,1,FXS_SA_GLB_ADS,3150,True
+61117,5,Computer,Application,FedEx Freight Inc.,2018-07-28 06:45:13,morning,3609339,3,True,Eli Smith,1,ITCC,3,1,Other,21112,True
+61112,5,Server,Application,FedEx Services,2018-07-27 09:38:15,morning,973921,3,True,Eli Smith,1,ITCC,3,1,Other,312829,False
+61136,2,Server,Application,FedEx Services,2018-07-31 17:18:54,evening,3667964,1,True,Mark Duncan,1,ITCC,2,1,FXS_SA_Server,494657,True
+61135,5,Network,Application,FedEx Services,2018-07-31 14:08:00,afternoon,836059,3,True,Eli Smith,1,ITCC,3,1,Other,13955,True
+61143,5,Network,Application,FedEx Services,2018-08-01 16:38:23,afternoon,5305519,3,True,Other,1,ITCC,3,1,Other,11365,True
+61144,5,Server,Application,FedEx Services,2018-08-02 07:58:27,morning,847287,3,True,Christopher Barber,1,ITCC,3,1,Other,74997,True
+61148,5,Scanner,Application,FedEx Ground,2018-08-02 09:56:50,morning,751577,3,False,Other,1,Standard,3,1,Other,14408,True
+61158,3,Server,Application,FedEx Services,2018-08-02 13:58:04,afternoon,973921,2,True,Christopher Barber,1,ITCC,2,1,FXS_L2ITCC,15048,True
+61165,3,Server,Application,FedEx Services,2018-08-02 20:48:00,evening,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,3379,True
+61166,5,Server,Application,FedEx Services,2018-08-02 23:55:02,night,3609339,3,True,Christina Hanlin,1,ITCC,3,1,Other,31029,True
+61172,5,Server,Application,FedEx Services,2018-08-05 00:14:18,night,5285658,3,True,Brad Moore,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,3562,True
+61176,5,Mainframe,Application,FedEx Express,2018-08-06 08:34:56,morning,836059,3,True,Michael Kennemer,1,ITCC,3,1,Other,10214,True
+61170,5,Server,Application,FedEx Services,2018-08-03 20:51:25,evening,3667964,3,True,Michael Kennemer,1,ITCC,3,1,Other,3368,True
+61177,5,Server,Application,FedEx Services,2018-08-06 10:24:15,morning,973921,3,True,Christophe Gurley,1,ITCC,3,1,Other,274037,True
+61178,5,Server,Application,FedEx Services,2018-08-06 10:31:27,morning,771685,3,False,Other,1,Standard,3,1,Other,252296,True
+61168,3,Mainframe,Hardware,FedEx Express,2018-08-03 12:45:25,afternoon,973921,3,True,Christophe Gurley,1,ITCC,1,1,Other,9083,True
+61181,5,Computer,Application,FedEx Ground,2018-08-06 14:11:56,afternoon,5305519,3,True,Brad Moore,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,21452,True
+61169,3,Server,Hardware,FedEx Services,2018-08-03 15:20:58,afternoon,973921,2,True,Mark Duncan,1,ITCC,2,1,Other,3599,True
+61173,4,Server,Application,FedEx Services,2018-08-05 04:17:49,night,111556,2,True,Christopher Barber,1,ITCC,3,1,Other,86006,True
+61185,5,Computer,Application,Other,2018-08-07 08:29:06,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,86291,True
+61189,5,Network,Application,FedEx Services,2018-08-07 11:10:08,morning,836059,3,True,Eli Smith,1,ITCC,3,1,Other,8757,True
+61183,3,Server,Application,FedEx Services,2018-08-06 21:28:03,night,5305519,3,True,Randall Painter,1,ITCC,1,1,Other,10279,True
+61175,5,Computer,Inquiry / Help,FedEx Freight Inc.,2018-08-05 13:35:35,afternoon,836059,3,True,Brad Moore,1,ITCC,3,1,Other,20635,True
+61192,5,Server,Application,FedEx Services,2018-08-08 03:29:56,night,5285658,3,True,Eli Smith,1,ITCC,3,1,FXS_SA_GLB_ADS,5915,True
+61199,4,Scanner,Hardware,FedEx Services,2018-08-09 15:27:54,afternoon,3667964,3,True,Christophe Gurley,1,ITCC,2,1,Other,9130,True
+61200,5,Server,Application,FedEx Services,2018-08-09 16:26:48,afternoon,3667964,3,True,DZundra Green,1,ITCC,3,1,Other,511229,True
+61194,5,Server,Application,FedEx Services,2018-08-09 07:03:53,morning,192015,3,True,Eli Smith,1,ITCC,3,1,Other,6393,True
+61205,5,Database,Hardware,FedEx Services,2018-08-10 11:21:26,morning,973921,3,True,Christopher Barber,1,ITCC,3,1,Other,84554,True
+61193,5,Network,Application,FedEx Services,2018-08-08 22:13:42,night,828618,3,True,Randall Painter,1,ITCC,3,1,Other,34038,True
+61198,5,Server,Application,FedEx Services,2018-08-09 14:23:07,afternoon,847287,3,True,Christina Hanlin,1,ITCC,3,1,Other,42177,True
+61206,3,Server,Application,FedEx Services,2018-08-11 00:26:57,night,5285658,2,True,Christophe Gurley,1,ITCC,2,1,Other,7631,True
+61207,3,Network,Hardware,FedEx Office,2018-08-12 01:35:00,night,3609339,2,True,Terri Hamilton,1,ITCC,2,1,Other,28210,True
+61209,3,Network,Application,FedEx Services,2018-08-13 11:17:45,morning,836059,2,True,Christopher Barber,1,ITCC,2,1,Other,5448,True
+61211,5,Network,Hardware,FedEx Services,2018-08-14 00:23:42,night,5285658,3,True,Brad Moore,1,Standard,3,1,FXS_SPT_GLB_NOCL2,225349,True
+61212,4,Server,Inquiry / Help,FedEx Services,2018-08-14 08:29:36,morning,847287,3,True,Michael Kennemer,1,ITCC,2,1,Other,129172,True
+61215,5,Server,Application,FedEx Services,2018-08-14 22:56:36,night,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,2727,True
+61216,4,Scanner,Hardware,FedEx Services,2018-08-15 06:39:22,morning,192015,3,True,Christophe Gurley,1,ITCC,2,1,Other,10715,True
+61217,5,Server,Application,FedEx Services,2018-08-15 08:18:21,morning,847287,3,True,Brad Moore,1,ITCC,3,1,FXS_SA_GLB_ADS,1090,True
+61223,3,Server,Application,FedEx Services,2018-08-15 22:12:06,night,3667964,2,True,Christina Hanlin,1,ITCC,2,1,Other,3589,True
+61222,5,Database,Application,FedEx Services,2018-08-15 19:27:12,evening,828618,3,True,Mark Duncan,1,ITCC,3,1,FXS_SA_Server,34305,True
+61226,5,Server,Application,FedEx Services,2018-08-16 12:46:05,afternoon,847287,3,True,Mark Duncan,1,ITCC,3,1,Other,851,True
+61221,5,Server,Application,FedEx Services,2018-08-15 16:53:13,afternoon,828618,3,True,Eli Smith,1,ITCC,3,1,Other,4820,True
+61231,5,Server,Hardware,FedEx Services,2018-08-17 08:19:24,morning,973921,3,True,Mark Duncan,1,ITCC,3,1,FXS_SA_Server,340539,True
+61243,3,Server,Hardware,FedEx Services,2018-08-19 09:09:54,morning,973921,3,True,Christophe Gurley,1,ITCC,1,1,Other,19342,True
+61239,3,Server,Hardware,FedEx Services,2018-08-17 22:07:06,night,828618,2,True,Christopher Barber,1,ITCC,2,1,Other,51029,True
+61241,5,Computer,Hardware,FedEx Services,2018-08-18 06:44:17,morning,5285658,3,True,Eli Smith,1,Standard,3,1,FXS_SPT_GLB_NOCL1,5715,True
+61249,3,Server,Hardware,FedEx Services,2018-08-20 11:26:06,morning,973921,3,True,Christophe Gurley,1,ITCC,1,1,Other,663,True
+61242,5,Network,Hardware,FedEx Services,2018-08-19 03:05:29,night,3609339,3,True,Terri Hamilton,1,ITCC,3,1,Other,16108,True
+61250,5,Server,Hardware,FedEx Services,2018-08-20 12:40:04,afternoon,973921,3,False,Eli Smith,1,ITCC,3,1,FXS_SA_Server,2829,True
+61247,5,Scanner,Hardware,FedEx Ground,2018-08-20 09:51:25,morning,973921,3,True,Michael Kennemer,1,ITCC,3,1,Other,15479,True
+61238,4,Server,Application,FedEx Services,2018-08-17 15:18:23,afternoon,3659168,3,True,Christophe Gurley,1,ITCC,2,1,Other,26505,True
+61252,5,Server,Application,FedEx Services,2018-08-20 19:47:01,evening,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,453,True
+61240,5,Network,Application,FedEx Express,2018-08-17 22:57:04,night,3667964,3,True,Michael Kennemer,1,ITCC,3,1,Other,21823,True
+61256,5,Server,Hardware,FedEx Services,2018-08-21 09:47:19,morning,973921,3,True,Eli Smith,1,ITCC,3,1,Other,970,True
+61244,4,Server,Application,FedEx Services,2018-08-19 12:55:11,afternoon,973921,3,True,Randall Painter,1,ITCC,2,1,Other,2503,True
+61260,4,Server,Hardware,FedEx Services,2018-08-21 17:03:46,evening,3667964,3,True,Christophe Gurley,1,ITCC,2,1,FXG_SPT_FASS_SingleSystem,19618,True
+61261,4,Server,Hardware,FedEx Services,2018-08-21 19:15:29,evening,3667964,3,True,Christophe Gurley,1,ITCC,2,1,Other,36682,True
+61267,4,Server,Hardware,FedEx Services,2018-08-22 07:42:10,morning,847287,2,True,Terri Hamilton,1,ITCC,3,1,Other,933,True
+61266,5,Communication Device,Application,FedEx Services,2018-08-22 06:37:06,morning,5285658,3,True,Michael Kennemer,1,ITCC,3,1,Other,13520,True
+61254,3,Server,Application,FedEx Services,2018-08-21 02:35:00,night,3609339,2,True,Michael Kennemer,1,ITCC,2,1,Other,4178,True
+61272,5,Scanner,Hardware,FedEx Ground,2018-08-23 06:04:34,morning,396019,3,False,Other,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,7179,True
+61273,3,Server,Application,FedEx Services,2018-08-23 10:11:52,morning,847287,2,True,Christopher Barber,1,ITCC,2,1,Other,705,True
+61274,5,Server,Application,FedEx Express,2018-08-23 13:37:40,afternoon,847287,3,True,Eli Smith,1,ITCC,3,1,Other,23869,True
+61276,5,Server,Application,FedEx Services,2018-08-23 20:19:40,evening,3667964,3,True,Christophe Gurley,1,ITCC,3,1,Other,6014,True
+61251,4,Database,Hardware,FedEx Services,2018-08-20 17:32:01,evening,3667964,3,True,Christina Hanlin,1,ITCC,2,1,FXS_WASDRATINGTRACKING,9633,True
+61255,4,Server,Hardware,FedEx Services,2018-08-21 08:17:07,morning,973921,2,True,Christina Hanlin,1,ITCC,3,1,FXS_L2ITCC,3599,True
+61262,3,Server,Application,FedEx Services,2018-08-21 19:55:44,evening,5305519,2,True,Mark Duncan,1,ITCC,2,1,Other,5683,True
+61271,4,Computer,Application,FedEx Office,2018-08-23 00:24:22,night,853711,3,True,Christina Hanlin,1,ITCC,2,1,Other,7728,True
+61281,5,Server,Application,FedEx Services,2018-08-25 01:46:02,night,5285658,3,True,Mark Duncan,1,Standard,3,1,Other,1930,True
+61285,4,Server,Hardware,FedEx Services,2018-08-26 16:43:36,afternoon,5305519,3,True,Mark Duncan,1,ITCC,2,1,Other,18894,True
+61284,4,Server,Application,FedEx Ground,2018-08-25 11:19:26,morning,973921,3,True,Christophe Gurley,1,ITCC,2,1,Other,11523,True
+61288,3,Server,Application,FedEx Services,2018-08-27 18:25:28,evening,5305519,3,True,Christophe Gurley,1,ITCC,1,1,Other,6988,True
+61292,5,Server,Hardware,TNT Express,2018-08-29 07:07:49,morning,5285658,3,True,Christopher Barber,1,Standard,3,1,FXS_L2ITCC,4048,True
+61294,4,Network,Application,FedEx Services,2018-08-29 10:55:36,morning,847287,2,True,Terri Hamilton,1,ITCC,3,1,Other,14803,True
+61295,3,Network,Application,FedEx Services,2018-08-29 13:52:50,afternoon,836059,2,True,Mark Duncan,1,ITCC,2,1,Other,7883,True
+61301,5,Network,Hardware,FedEx Services,2018-08-30 12:53:43,afternoon,847287,3,True,Christopher Barber,1,ITCC,3,1,Other,2394,True
+61312,5,Computer,Application,FedEx Express,2018-09-02 23:30:45,night,3609339,3,True,Christopher Barber,1,ITCC,3,1,Other,152443,True
+61306,4,Network,Application,FedEx Express,2018-08-31 08:14:54,morning,973921,2,True,Terri Hamilton,1,ITCC,3,1,Other,12181,True
+61325,5,Server,Hardware,FedEx Services,2018-09-05 13:58:35,afternoon,847287,3,True,Other,1,ITCC,3,1,FXS_L2ITCC,167104,True
+61326,5,Server,Application,FedEx Services,2018-09-05 15:03:10,afternoon,5305519,3,True,Eli Smith,1,ITCC,3,1,Other,3529,True
+61329,5,Server,Application,FedEx Services,2018-09-06 09:02:45,morning,973921,3,True,Mark Duncan,1,ITCC,3,1,FXS_L2ITCC,589,True
+61336,4,Server,Application,FedEx Services,2018-09-07 08:29:00,morning,973921,3,True,Randall Painter,1,ITCC,2,1,Other,35433,True
+61338,5,Server,Application,FedEx Services,2018-09-07 10:03:54,morning,847287,3,True,Mark Duncan,1,ITCC,3,1,Other,3179,True
+61341,4,Server,Application,FedEx Ground,2018-09-08 07:41:16,morning,192015,3,True,Eli Smith,1,ITCC,2,1,Other,18898,True
+61307,4,Server,Application,FedEx Services,2018-08-31 08:50:25,morning,847287,3,True,Randall Painter,1,ITCC,2,1,Other,5183,True
+61344,4,Server,Hardware,FedEx Express,2018-09-09 17:27:58,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,Other,18229,True
+61342,3,Server,Application,FedEx Services,2018-09-09 04:30:14,night,5163721,2,True,Christina Hanlin,1,ITCC,2,1,Other,18425,True
+61339,5,Server,Application,FedEx Services,2018-09-07 15:54:13,afternoon,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,6933,True
+61340,5,Network,Hardware,FedEx Services,2018-09-07 16:24:33,afternoon,828618,3,True,Christophe Gurley,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,2010,True
+61352,3,Network,Application,FedEx Services,2018-09-10 20:43:33,evening,3659168,2,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,36567,True
+61356,3,Server,Application,FedEx Services,2018-09-11 12:58:02,afternoon,847287,3,True,Christophe Gurley,1,ITCC,1,1,Other,228,True
+61357,4,Server,Application,FedEx Services,2018-09-11 20:12:36,evening,5305519,3,True,Other,1,ITCC,2,1,Other,827941,True
+61358,5,Server,Application,FedEx Services,2018-09-12 03:35:28,night,3659760,3,True,Eli Smith,1,ITCC,3,1,Other,2167,True
+61361,3,Server,Application,FedEx Services,2018-09-12 14:20:20,afternoon,847287,2,True,Mark Duncan,1,ITCC,2,1,FXS_SA_Server,3742,True
+61362,4,Server,Application,FedEx Services,2018-09-12 23:20:51,night,3659760,3,True,Christophe Gurley,1,ITCC,2,1,Other,4425,True
+61363,5,Server,Application,FedEx Services,2018-09-13 07:24:52,morning,751585,3,False,Other,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,70307,True
+61365,5,Server,Hardware,FedEx Services,2018-09-14 01:59:43,night,5163721,3,True,Randall Painter,1,ITCC,3,1,Other,7485,True
+61367,4,Server,Application,FedEx Services,2018-09-14 02:42:44,night,3659760,2,True,Christopher Barber,1,ITCC,3,1,Other,33635,True
+61369,4,Server,Hardware,FedEx Express,2018-09-14 08:11:33,morning,5285658,3,True,Michael Kennemer,1,Standard,2,1,Other,77621,True
+61366,5,Server,Application,FedEx Services,2018-09-14 01:59:50,night,3659760,3,True,Christina Hanlin,1,ITCC,3,1,Other,2657,True
+61368,5,Server,Application,FedEx Services,2018-09-14 06:29:02,morning,5163721,3,True,Mark Duncan,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,2632,True
+61378,4,Computer,Application,FedEx Freight Inc.,2018-09-17 12:27:58,afternoon,836059,3,True,Michael Kennemer,1,ITCC,2,1,Other,20207,True
+61380,5,Database,Application,FedEx Services,2018-09-17 14:10:44,afternoon,5285658,3,True,Eli Smith,1,Standard,3,1,FXS_DBA_US_HCL,12490,True
+61381,5,Network,Hardware,FedEx Services,2018-09-17 17:35:06,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,779,True
+61374,4,Network,Hardware,FedEx Services,2018-09-16 18:23:18,evening,5305519,2,True,Eli Smith,1,ITCC,3,1,Other,56597,True
+61382,5,Server,Application,FedEx Services,2018-09-17 22:27:14,night,5305519,3,True,Christophe Gurley,1,ITCC,3,1,Other,26245,True
+61390,5,Server,Application,TNT Express,2018-09-18 15:38:01,afternoon,3667964,3,True,DZundra Green,1,ITCC,3,1,FXS_L2ITCC,414979,True
+61393,5,Server,Application,FedEx Services,2018-09-19 03:19:57,night,3659760,3,True,Eli Smith,1,ITCC,3,1,Other,7257,True
+61394,5,Server,Hardware,FedEx Services,2018-09-19 05:38:28,morning,3659760,3,True,Other,1,ITCC,3,1,FXS_L2ITCC,647059,True
+61395,5,Server,Application,FedEx Services,2018-09-19 06:46:11,morning,3609339,3,True,Other,1,ITCC,3,1,FXS_L2ITCC,5691,True
+61377,5,Scanner,Application,TNT Express,2018-09-17 08:39:20,morning,973921,3,True,Terri Hamilton,1,ITCC,3,1,Other,1130356,True
+61375,3,Server,Hardware,FedEx Services,2018-09-17 07:24:57,morning,973921,2,True,Michael Kennemer,1,ITCC,2,1,Other,244688,True
+61401,5,Server,Application,FedEx Services,2018-09-20 00:31:01,night,3659760,3,True,Michael Kennemer,1,ITCC,3,1,Other,7723,True
+61406,5,Server,Hardware,FedEx Services,2018-09-20 10:16:23,morning,5285658,3,False,Other,1,ITCC,3,1,FXS_L2ITCC,1813465,True
+61409,5,Server,Hardware,FedEx Services,2018-09-20 16:57:48,afternoon,5305519,3,True,Christophe Gurley,1,ITCC,3,1,Other,16112,True
+61410,5,Server,Application,FedEx Services,2018-09-21 03:07:21,night,5163721,3,True,Christophe Gurley,1,ITCC,3,1,Other,2660,True
+61411,4,Network,Application,FedEx Services,2018-09-21 05:57:39,morning,5163721,2,True,Mark Duncan,1,ITCC,3,1,Other,6061,True
+61402,5,Server,Application,TNT Express,2018-09-20 06:46:22,morning,5163721,3,True,Christina Hanlin,1,ITCC,3,1,Other,6367,True
+61419,5,Computer,Application,FedEx Ground,2018-09-24 08:02:56,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,57874,True
+61421,4,Network,Application,FedEx Services,2018-09-24 11:18:56,morning,836059,3,True,Christophe Gurley,1,ITCC,2,1,FXS_WASDRATINGTRACKING,12427,True
+61388,4,Server,Hardware,FedEx Services,2018-09-18 12:20:48,afternoon,5285658,2,True,Christopher Barber,1,Standard,3,1,Other,2202,True
+61418,4,Server,Application,FedEx Services,2018-09-23 14:07:46,afternoon,5285658,2,True,Terri Hamilton,1,Standard,3,1,Other,791,True
+61389,4,Network,Application,FedEx Services,2018-09-18 13:52:17,afternoon,836059,2,False,Christopher Barber,1,ITCC,3,1,Other,8619,True
+61432,5,Server,Hardware,FedEx Ground,2018-09-25 14:48:29,afternoon,5305519,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,65441,True
+61436,5,Network,Hardware,FedEx Services,2018-09-26 10:48:50,morning,5285658,3,True,Randall Painter,1,Standard,3,1,FXS_L2ITCC,21830,True
+61437,5,Computer,Application,FedEx Services,2018-09-26 12:44:15,afternoon,847287,3,True,Mark Duncan,1,ITCC,3,1,Other,5058,True
+61438,5,Server,Application,FedEx Services,2018-09-26 12:50:34,afternoon,847287,3,True,Eli Smith,1,ITCC,3,1,Other,15341,True
+61439,5,Server,Application,FedEx Services,2018-09-26 13:29:10,afternoon,3659168,3,True,Mark Duncan,1,ITCC,3,1,Other,4599,True
+61441,5,Server,Application,FedEx Services,2018-09-26 16:48:00,afternoon,3667964,3,True,DZundra Green,1,ITCC,3,1,Other,1830231,True
+61442,5,Network,Hardware,FedEx Services,2018-09-26 17:00:00,evening,3667964,3,True,DZundra Green,1,ITCC,3,1,Other,396484,True
+61443,5,Server,Application,FedEx Services,2018-09-26 17:07:33,evening,3667964,3,True,DZundra Green,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,1000246,True
+61444,3,Server,Application,FedEx Services,2018-09-27 05:36:01,morning,53640,1,False,Brad Moore,1,Standard,3,1,Other,33923,True
+61446,5,Server,Application,FedEx Services,2018-09-27 06:29:32,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,6446,True
+61440,4,Communication Device,Application,FedEx Freight Inc.,2018-09-26 16:41:22,afternoon,3667964,2,True,Terri Hamilton,1,ITCC,3,1,Other,1941516,True
+61445,5,Communication Device,Application,FedEx Services,2018-09-27 06:15:17,morning,3659760,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,8828,True
+61458,5,Server,Application,FedEx Services,2018-10-01 07:26:12,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,10364,True
+61461,3,Network,Hardware,FedEx Services,2018-10-01 11:40:50,morning,836059,1,True,Brad Moore,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,4724,True
+61462,4,Computer,Hardware,FedEx Services,2018-10-01 13:35:26,afternoon,973921,2,True,Mark Duncan,1,ITCC,3,1,Other,18690,True
+61455,3,Server,Application,FedEx Services,2018-09-29 14:06:53,afternoon,847287,2,True,Christopher Barber,1,ITCC,2,1,Other,60137,True
+61464,4,Server,Application,FedEx Services,2018-10-01 18:48:54,evening,5305519,3,True,Christophe Gurley,1,ITCC,2,1,Other,12411,True
+61456,4,Server,Application,FedEx Services,2018-09-30 19:38:34,evening,5305519,3,True,Christophe Gurley,1,ITCC,2,1,Other,6980,True
+61466,5,Server,Application,FedEx Express,2018-10-01 23:52:40,night,5163721,3,True,Eli Smith,1,ITCC,3,1,Other,8712,True
+61467,5,Server,Application,FedEx Services,2018-10-02 06:22:22,morning,3609339,3,True,Michael Kennemer,1,ITCC,3,1,Other,29112,True
+61469,5,Server,Inquiry / Help,FedEx Services,2018-10-02 10:36:34,morning,836059,3,False,Christopher Barber,1,ITCC,3,1,FXS_SA_Server,426933,True
+61465,4,Server,Infrastructure,FedEx Ground,2018-10-01 19:00:37,evening,3659168,2,True,Terri Hamilton,1,ITCC,3,1,Other,15349,True
+61472,4,Computer,Application,FedEx Ground,2018-10-02 12:44:54,afternoon,836059,2,True,Eli Smith,1,ITCC,3,1,Other,36025,True
+61474,5,Scanner,Hardware,FedEx Services,2018-10-02 16:14:07,afternoon,5305519,3,True,Michael Kennemer,1,ITCC,3,1,Other,13055,True
+61477,4,Network,Application,FedEx Services,2018-10-03 02:53:25,night,3659760,3,True,Mark Duncan,1,ITCC,2,1,Other,14717,True
+61479,4,Server,Hardware,FedEx Services,2018-10-03 11:50:57,morning,5285658,3,True,Mark Duncan,1,Standard,2,1,FXS_L2ITCC,147328,True
+61473,5,Network,Application,FedEx Services,2018-10-02 14:27:16,afternoon,836059,3,True,Christina Hanlin,1,ITCC,3,1,FXF_SPT_US_FreightDataSvcs,2043,True
+61486,4,Server,Application,FedEx Services,2018-10-04 10:40:30,morning,5285658,3,True,Christina Hanlin,1,Standard,2,1,FXS_SA_US_ITOWindowsServer,3247,True
+61487,3,Computer,Application,FedEx Express,2018-10-04 11:36:57,morning,836059,2,True,Christina Hanlin,1,ITCC,2,1,Other,95712,True
+61489,4,Computer,Hardware,FedEx Services,2018-10-04 15:04:46,afternoon,973921,3,True,Christophe Gurley,1,ITCC,2,1,Other,844559,True
+61478,5,Network,Application,FedEx Services,2018-10-03 03:53:46,night,3659760,3,True,Terri Hamilton,1,ITCC,3,1,FXS_SA_GLB_ADS,4210,True
+61493,5,Communication Device,Application,FedEx Services,2018-10-08 02:35:00,night,3609339,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,4879,True
+61492,5,Network,Hardware,FedEx Services,2018-10-06 05:12:48,morning,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,1202,True
+61498,4,Communication Device,Application,FedEx Services,2018-10-08 09:42:51,morning,5285658,3,True,Randall Painter,1,Standard,2,1,FXS_L2ITCC,256499,True
+61482,5,Server,Application,FedEx Services,2018-10-03 19:04:00,evening,5305519,3,True,Terri Hamilton,1,ITCC,3,1,Other,2811,True
+61490,4,Server,Application,FedEx Services,2018-10-05 04:48:50,night,3659760,2,True,Eli Smith,1,ITCC,3,1,Other,7403,True
+61517,5,Scanner,Application,FedEx Ground,2018-10-09 13:27:45,afternoon,396019,3,False,Other,1,Standard,3,1,Other,21107,True
+61518,5,Network,Application,FedEx Services,2018-10-09 17:01:32,evening,3667964,3,True,Michael Kennemer,1,ITCC,3,1,Other,9624,True
+61521,5,Server,Application,FedEx Services,2018-10-09 19:08:21,evening,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,21582,True
+61530,5,Server,Application,FedEx Services,2018-10-11 04:53:34,night,5163721,3,True,Brad Moore,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,4998,True
+61533,4,Server,Application,FedEx Services,2018-10-11 08:11:23,morning,5285658,3,True,Christophe Gurley,1,ITCC,2,1,Other,445696,True
+61534,4,Database,Application,FedEx Services,2018-10-11 08:35:59,morning,847287,3,True,Michael Kennemer,1,ITCC,2,1,FXS_DBA_US_HCL,23125,True
+61516,5,Network,Application,FedEx Services,2018-10-09 12:09:35,afternoon,836059,3,True,Terri Hamilton,1,ITCC,3,1,Other,4243,True
+61537,3,Server,Application,FedEx Services,2018-10-12 05:16:19,morning,5163721,3,True,Randall Painter,1,ITCC,1,1,Other,4618,True
+61544,3,Server,Application,FedEx Services,2018-10-14 04:40:21,night,5163721,2,True,Christophe Gurley,1,ITCC,2,1,Other,101074,True
+61548,4,Server,Application,FedEx Services,2018-10-14 20:16:59,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,FXS_WASDRATINGTRACKING,7297,True
+61553,5,Network,Application,FedEx Ground,2018-10-15 12:41:20,afternoon,751598,3,False,Other,1,Standard,3,1,Other,11475,True
+61556,5,Server,Application,FedEx Services,2018-10-15 16:37:29,afternoon,3659168,3,True,Christopher Barber,1,ITCC,3,1,Other,7603,True
+61559,4,Server,Hardware,FedEx Express,2018-10-15 23:28:29,night,5163721,2,True,Eli Smith,1,ITCC,3,1,FXS_DBA_US_HCL,37363,True
+61546,5,Communication Device,Application,FedEx Express,2018-10-14 08:19:26,morning,5285658,3,True,Eli Smith,1,ITCC,3,1,Other,239563,True
+61552,5,Communication Device,Hardware,FedEx Services,2018-10-15 12:06:45,afternoon,5285658,3,True,Eli Smith,1,ITCC,3,1,Other,315342,True
+61567,4,Server,Application,FedEx Services,2018-10-16 22:06:59,night,3667964,3,True,Christophe Gurley,1,ITCC,2,1,Other,11003,True
+61573,5,Network,Hardware,FedEx Express,2018-10-17 23:52:29,night,5163721,3,True,Terri Hamilton,1,ITCC,3,1,Other,98432,True
+61585,4,Server,Application,FedEx Services,2018-10-18 19:07:29,evening,3667964,2,True,Randall Painter,1,ITCC,3,1,Other,11458,True
+61586,4,Server,Application,FedEx Express,2018-10-19 03:24:15,night,5163721,3,True,Michael Kennemer,1,ITCC,2,1,Other,4984,True
+61595,4,Communication Device,Application,FedEx Express,2018-10-22 04:22:56,night,3609339,3,True,Mark Duncan,1,ITCC,2,1,Other,16361,True
+61592,3,Other,Application,FedEx Freight Inc.,2018-10-20 04:29:49,night,192015,1,True,Brad Moore,1,ITCC,3,1,Other,21621,True
+61591,4,Server,Application,FedEx Services,2018-10-19 18:04:59,evening,3667964,3,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,7477,True
+61594,4,Server,Application,FedEx Services,2018-10-21 17:36:24,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,Other,7968,True
+61607,4,Network,Application,FedEx Services,2018-10-22 14:36:31,afternoon,5285658,3,True,Randall Painter,1,ITCC,2,1,Other,12067,True
+61610,3,Server,Application,FedEx Services,2018-10-22 15:25:34,afternoon,3659168,2,True,Christopher Barber,1,ITCC,2,1,Other,9353893,True
+61612,5,Network,Application,FedEx Services,2018-10-22 16:21:19,afternoon,205028,3,False,Christophe Gurley,1,ITCC,3,2,Other,335944,True
+61613,4,Database,Infrastructure,FedEx Services,2018-10-22 17:40:18,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,Other,8688,True
+61619,4,Server,Application,FedEx Services,2018-10-23 10:15:33,morning,847287,3,True,Terri Hamilton,1,ITCC,2,1,FXS_SA_GLB_ADS,3662,True
+61626,4,Server,Application,FedEx Services,2018-10-24 00:03:40,night,205028,3,True,Christophe Gurley,1,ITCC,2,2,Other,239161,True
+61627,4,Network,Application,FedEx Express,2018-10-24 07:08:02,morning,3609339,3,True,Eli Smith,1,ITCC,2,1,Other,7841,True
+61650,3,Network,Application,FedEx Express,2018-10-24 10:35:13,morning,847287,2,True,Terri Hamilton,1,ITCC,2,1,FXS_SA_GLB_ADS,4134,True
+61654,5,Communication Device,Hardware,FedEx Services,2018-10-24 22:19:17,night,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,20059,True
+61655,4,Communication Device,Application,FedEx Express,2018-10-24 23:44:11,night,3659760,3,True,Eli Smith,1,ITCC,2,1,Other,53348,True
+61656,3,Network,Application,FedEx Ground,2018-10-25 04:09:02,night,5163721,2,True,Mark Duncan,1,ITCC,2,1,Other,7069,True
+61653,4,Server,Application,FedEx Services,2018-10-24 18:12:47,evening,3699687,3,True,Christina Hanlin,1,ITCC,2,1,Other,11561,True
+61674,3,Server,Application,FedEx Services,2018-10-25 17:13:52,evening,3667964,2,True,Mark Duncan,1,ITCC,2,1,Other,1374,True
+61673,4,Server,Application,FedEx Services,2018-10-25 17:04:49,evening,3699687,3,True,Christina Hanlin,1,ITCC,2,1,Other,5670,True
+61691,4,Server,Application,FedEx Express,2018-10-29 00:41:55,night,5163721,2,True,Christopher Barber,1,ITCC,3,1,Other,9210767,True
+61692,5,Network,Application,FedEx Services,2018-10-29 01:07:47,night,5163721,3,True,Terri Hamilton,1,ITCC,3,1,Other,4525,True
+61704,5,Database,Application,FedEx Ground,2018-10-29 09:39:09,morning,394931,3,False,Other,1,Standard,3,1,Other,665453,True
+61705,5,Server,Application,FedEx Services,2018-10-29 10:37:45,morning,973921,3,True,Eli Smith,1,ITCC,3,1,Other,3196,True
+61690,3,Network,Application,FedEx Services,2018-10-28 13:29:24,afternoon,836059,3,True,Randall Painter,1,ITCC,1,1,Other,6736,True
+61713,4,Server,Application,FedEx Services,2018-10-30 04:20:21,night,5163721,3,False,Michael Kennemer,1,ITCC,2,1,Other,19156,True
+61722,4,Database,Inquiry / Help,FedEx Express,2018-10-30 13:52:43,afternoon,5285658,3,True,Christina Hanlin,1,ITCC,2,1,Other,112206,True
+61723,5,Database,Application,TNT Express,2018-10-30 19:13:52,evening,5305519,3,True,Christopher Barber,1,ITCC,3,1,Other,113363,True
+61724,5,Network,Hardware,FedEx Express,2018-10-30 19:21:25,evening,3667964,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,159563,True
+61725,5,Network,Inquiry / Help,FedEx Services,2018-10-30 20:05:09,evening,3667964,3,True,Brad Moore,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,108735,True
+61731,4,Server,Application,FedEx Services,2018-10-31 10:10:33,morning,5285658,3,True,Terri Hamilton,1,ITCC,2,1,Other,1159,True
+61732,5,Communication Device,Hardware,FedEx Services,2018-10-31 12:31:14,afternoon,5285658,3,True,Christophe Gurley,1,ITCC,3,1,FXS_L2ITCC,16555,True
+61738,5,Communication Device,Hardware,Other,2018-10-31 18:10:51,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,6797,True
+61753,4,Computer,Application,FedEx Ground,2018-11-01 22:40:52,night,3667964,2,True,Christophe Gurley,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,2539,True
+61761,5,Computer,Application,FedEx Ground,2018-11-02 07:49:52,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,33836,True
+61771,4,Computer,Application,FedEx Services,2018-11-05 08:54:50,morning,973921,2,True,Eli Smith,1,ITCC,3,1,Other,6347,True
+61766,3,Server,Application,FedEx Services,2018-11-02 09:26:04,morning,847287,1,True,Brad Moore,1,ITCC,3,1,FXS_SA_US_ITOWindowsServer,68673,True
+61769,4,Server,Application,FedEx Services,2018-11-02 16:41:47,afternoon,3659168,3,True,Christophe Gurley,1,ITCC,2,1,Other,18280,True
+61770,5,Server,Application,TNT Express,2018-11-02 20:23:16,evening,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,15238,True
+61773,4,Server,Inquiry / Help,FedEx Services,2018-11-05 16:16:51,afternoon,3659168,3,True,Randall Painter,1,ITCC,2,1,Other,2709,True
+61794,4,Communication Device,Application,FedEx Office,2018-11-06 13:36:40,afternoon,5285658,3,True,Mark Duncan,1,ITCC,2,1,Other,94300,True
+61799,4,Scanner,Application,FedEx Ground,2018-11-06 18:07:28,evening,5163721,2,True,Other,1,ITCC,3,1,Other,10473,True
+61800,4,Server,Application,FedEx Services,2018-11-06 21:34:12,night,3667964,3,True,Terri Hamilton,1,ITCC,2,1,Other,10322,True
+61801,5,Computer,Application,FedEx Ground,2018-11-07 03:54:44,night,3659760,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,2440,True
+61802,3,Scanner,Security,FedEx Services,2018-11-07 06:20:04,morning,3609339,2,True,Mark Duncan,1,ITCC,2,1,Other,7308,True
+61821,3,Communication Device,Application,FedEx Ground,2018-11-08 06:50:15,morning,192015,3,True,Randall Painter,1,ITCC,1,1,Other,146332,True
+61820,3,Server,Application,FedEx Services,2018-11-07 20:31:10,evening,5163721,2,True,Michael Kennemer,1,ITCC,2,1,Other,10983,True
+61832,4,Network,Network,FedEx Services,2018-11-08 14:00:30,afternoon,836059,3,True,Mark Duncan,1,ITCC,2,1,Other,1765,True
+61833,4,Server,Application,FedEx Services,2018-11-09 00:41:41,night,3699687,3,True,Christophe Gurley,1,ITCC,2,1,Other,6045,True
+61835,5,Communication Device,Application,Other,2018-11-09 06:48:11,morning,3659760,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,3123,True
+61804,4,Network,Hardware,FedEx Express,2018-11-07 07:32:39,morning,192015,3,True,Michael Kennemer,1,ITCC,2,1,FXS_NET_ENT_DATACENTER_ENG,43069,True
+61819,4,Server,Security,FedEx Services,2018-11-07 15:43:59,afternoon,5163721,3,True,Terri Hamilton,1,ITCC,2,1,Other,8660,True
+61847,5,Server,Application,FedEx Services,2018-11-09 13:57:38,afternoon,3659168,3,True,LaToya Williams,1,ITCC,3,1,Other,71172,True
+61848,3,Server,Security,FedEx Express,2018-11-09 14:16:59,afternoon,5285658,2,True,Mark Duncan,1,ITCC,2,1,Other,364808,True
+61849,3,Server,Inquiry / Help,FedEx Services,2018-11-09 15:05:55,afternoon,3659168,3,True,Christophe Gurley,1,ITCC,1,1,Other,7502,True
+61850,4,Communication Device,Application,FedEx Services,2018-11-09 15:44:41,afternoon,5285658,3,True,Mark Duncan,1,ITCC,2,1,Other,4816,True
+61857,4,Server,Application,FedEx Services,2018-11-10 23:00:58,night,5305519,3,True,Randall Painter,1,ITCC,2,1,Other,1598,True
+61860,4,Database,Application,FedEx Express,2018-11-12 06:07:36,morning,5163721,3,True,Other,1,ITCC,2,1,Other,19416,True
+61858,4,Communication Device,Security,FedEx Services,2018-11-11 06:19:30,morning,3659760,3,True,Brad Moore,1,ITCC,2,1,Other,6867,True
+61851,3,Computer,Security,FedEx Freight Inc.,2018-11-09 15:55:46,afternoon,3667964,2,True,Christina Hanlin,1,ITCC,2,1,FXS_SA_US_ITOWindowsServer,177311,True
+61844,4,Computer,Hardware,FedEx Freight Inc.,2018-11-09 09:05:51,morning,973921,3,True,Christina Hanlin,1,ITCC,2,1,FXS_SA_US_ITOWindowsServer,6955,True
+61814,4,Computer,Application,FedEx Express,2018-11-07 09:22:56,morning,836059,3,True,Michael Kennemer,1,ITCC,2,1,Other,17930,True
+61878,3,Mainframe,Application,FedEx Services,2018-11-12 10:19:07,morning,973921,2,True,Terri Hamilton,1,ITCC,2,1,Other,455,True
+61882,4,Network,Application,FedEx Services,2018-11-12 14:04:42,afternoon,836059,3,True,Michael Kennemer,1,ITCC,2,1,Other,8522,True
+61881,4,Communication Device,Application,FedEx Services,2018-11-12 13:39:59,afternoon,5285658,3,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,7995,True
+61884,4,Server,Security,FedEx Services,2018-11-12 17:05:34,evening,3667964,3,True,Brad Moore,1,ITCC,2,1,Other,2426,True
+61886,5,Server,Application,FedEx Express,2018-11-12 18:39:34,evening,3667964,3,True,Michael Kennemer,1,ITCC,3,1,FXS_SA_GLB_ADS,67624,True
+61906,5,Server,Application,FedEx Services,2018-11-13 09:16:40,morning,5285658,3,True,Brad Moore,1,ITCC,3,1,Other,5869,True
+61910,4,Network,Inquiry / Help,FedEx Services,2018-11-13 19:15:08,evening,3692199,3,True,Mark Duncan,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,7715,True
+61855,4,Server,Application,FedEx Express,2018-11-09 18:31:16,evening,3667964,3,True,Michael Kennemer,1,ITCC,2,1,Other,11377,True
+61920,5,Server,Application,TNT Express,2018-11-14 05:49:51,morning,3659760,3,True,Eli Smith,1,ITCC,3,1,FXS_L2ITCC,25948,True
+61911,4,Server,Application,FedEx Services,2018-11-13 20:37:41,evening,3667964,3,True,Christina Hanlin,1,ITCC,2,1,FXS_L2ITCC,70475,True
+61934,5,Server,Application,FedEx Services,2018-11-14 16:12:29,afternoon,5305519,3,True,Brad Moore,1,ITCC,3,1,Other,7707,True
+61942,3,Server,Application,TNT Express,2018-11-15 21:37:01,night,3667964,2,True,Christopher Barber,1,ITCC,2,1,FXS_L2ITCC,4325,True
+61912,3,Database,Security,FedEx Express,2018-11-13 20:41:25,evening,3667964,3,True,Michael Kennemer,1,ITCC,1,1,Other,76016,True
+61965,5,Server,Application,FedEx Ground,2018-11-19 07:52:49,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,782578,True
+61955,4,Computer,Application,FedEx Express,2018-11-17 09:14:17,morning,847287,3,True,Terri Hamilton,1,ITCC,2,1,Other,13143,True
+61957,4,Database,Infrastructure,FedEx Services,2018-11-18 01:58:29,night,3699687,3,True,Randall Painter,1,ITCC,2,1,Other,3837,True
+61941,5,Computer,Application,FedEx Services,2018-11-15 19:44:35,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,91545,True
+61890,3,Server,Application,FedEx Services,2018-11-12 23:39:43,night,5163721,3,True,Christophe Gurley,1,ITCC,1,1,Other,3287,True
+61958,4,Server,Application,FedEx Services,2018-11-18 07:14:07,morning,3699687,2,True,Christopher Barber,1,ITCC,3,1,Other,9816,True
+61989,4,Network,Application,FedEx Services,2018-11-21 05:45:32,morning,3699687,3,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,4706,True
+61977,4,Network,Application,FedEx Services,2018-11-20 10:17:43,morning,836059,3,True,Terri Hamilton,1,ITCC,2,1,Other,6767,True
+62013,5,Communication Device,Application,FedEx Services,2018-11-22 19:27:05,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,52875,True
+62016,5,Communication Device,Application,FedEx Services,2018-11-23 18:18:19,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,1488941,True
+62023,5,Computer,Security,FedEx Services,2018-11-26 09:39:08,morning,836059,3,True,Brad Moore,1,ITCC,3,1,Other,10713,True
+62017,4,Database,Application,FedEx Services,2018-11-25 20:25:45,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,Other,19976,True
+62015,4,Server,Application,FedEx Services,2018-11-23 18:14:27,evening,3667964,3,True,Randall Painter,1,ITCC,2,1,Other,34147,True
+62024,5,Network,Hardware,FedEx Services,2018-11-26 13:36:00,afternoon,5305519,3,True,Christopher Barber,1,ITCC,3,1,Other,89791,True
+62025,3,Network,Application,FedEx Services,2018-11-26 17:23:14,evening,5305519,2,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,6928390,True
+62007,5,Communication Device,Application,FedEx Services,2018-11-21 19:20:20,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,5174,True
+62028,4,Communication Device,Network,FedEx Services,2018-11-27 00:19:24,night,3659760,3,True,Christophe Gurley,1,ITCC,2,1,FXS_NET_ENT_DATACENTER_ENG,5060,True
+62030,5,Computer,Application,FedEx Ground,2018-11-27 05:14:05,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,3539,True
+62031,5,Communication Device,Application,FedEx Services,2018-11-27 05:21:21,morning,3609339,3,True,Christophe Gurley,1,ITCC,3,1,Other,13987,True
+62026,4,Server,Application,FedEx Services,2018-11-26 19:03:23,evening,3659168,3,True,Christina Hanlin,1,ITCC,2,1,Other,4244,True
+62051,5,Server,Application,FedEx Services,2018-11-27 16:42:23,afternoon,3667964,3,True,Christopher Barber,1,Proactive,3,1,Other,82238,True
+62053,4,Server,Application,FedEx Services,2018-11-27 17:40:49,evening,828618,3,True,Christophe Gurley,1,ITCC,2,1,Other,707,True
+62057,4,Communication Device,Application,FedEx Ground,2018-11-28 01:14:48,night,3659760,3,True,Mark Duncan,1,ITCC,2,1,Other,435,True
+62056,5,Server,Application,FedEx Services,2018-11-28 01:11:43,night,192015,3,True,Christina Hanlin,1,ITCC,3,1,Other,42238,True
+62027,4,Database,Application,FedEx Services,2018-11-26 21:41:37,night,3667964,3,True,Michael Kennemer,1,ITCC,2,1,FXG_SPT_FASS_SingleSystem,20382,True
+62029,5,Communication Device,Application,FedEx Services,2018-11-27 04:05:38,night,3659760,3,True,Other,1,ITCC,3,1,Other,13387,True
+62090,3,Server,Application,FedEx Services,2018-11-28 14:42:42,afternoon,836059,2,True,Mark Duncan,1,ITCC,2,1,FXS_WASDRATINGTRACKING,5685,True
+62054,4,Network,Telephony,FedEx Ground,2018-11-27 18:36:18,evening,3667964,3,True,Michael Kennemer,1,ITCC,2,1,Other,10253,True
+62099,5,Server,Application,FedEx Services,2018-11-29 08:01:16,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,474564,True
+62103,5,Network,Security,FedEx Services,2018-11-29 14:13:55,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,2480,True
+62105,4,Server,Application,FedEx Services,2018-11-29 22:02:29,night,3667964,3,True,Mark Duncan,1,ITCC,2,1,Other,3363,True
+62055,4,Communication Device,Application,FedEx Services,2018-11-28 00:53:06,night,3659760,3,True,Terri Hamilton,1,ITCC,2,1,Other,7432,True
+62118,5,Server,Hardware,FedEx Freight Inc.,2018-11-30 10:23:39,morning,3699687,3,True,Christina Hanlin,1,ITCC,3,1,Other,8248,True
+62108,5,Server,Application,FedEx Services,2018-11-30 01:16:26,night,3699687,3,True,Eli Smith,1,ITCC,3,1,Other,6074,True
+62119,5,Switch,Network,FedEx Ground,2018-12-01 06:31:18,morning,192015,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,42238,True
+62132,2,Switch,Network,FedEx Services,2018-12-03 08:55:04,morning,836059,1,True,Brad Moore,1,ITCC,2,1,Other,180908,True
+62134,4,Other,Application,FedEx Services,2018-12-03 09:44:40,morning,836059,3,True,Other,1,ITCC,2,1,Other,70463,True
+62136,5,Server,Hardware,FedEx Services,2018-12-03 10:05:01,morning,973921,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,2693,True
+62101,4,Network,Telephony,FedEx Services,2018-11-29 11:12:58,morning,836059,3,True,Michael Kennemer,1,ITCC,2,1,Other,9021,True
+62158,5,Server,Inquiry / Help,FedEx Services,2018-12-03 11:45:26,morning,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,604348,True
+62058,3,Communication Device,Infrastructure,FedEx Freight Inc.,2018-11-28 04:14:15,night,3659760,3,True,Randall Painter,1,ITCC,1,1,Other,8548,True
+62102,4,Network,Security,FedEx Services,2018-11-29 13:16:37,afternoon,5285658,3,True,Eli Smith,1,ITCC,2,1,Other,2998,True
+62160,5,Database,Application,FedEx Services,2018-12-03 14:29:34,afternoon,836059,3,True,Christophe Gurley,1,ITCC,3,1,Other,1854268,True
+62161,4,Server,Application,FedEx Services,2018-12-03 18:28:14,evening,5305519,3,True,Eli Smith,1,ITCC,2,1,Other,9617,True
+62162,4,Other,Network,FedEx Services,2018-12-03 23:37:25,night,3659760,3,True,Other,1,ITCC,2,1,Other,9595,True
+62164,4,Enterprise-Data-Analytics,Application,FedEx Services,2018-12-04 11:48:19,morning,5285658,3,True,Mark Duncan,1,ITCC,2,1,Other,5809,True
+62166,4,Server,Application,FedEx Services,2018-12-04 17:51:24,evening,5305519,3,True,Michael Kennemer,1,ITCC,2,1,Other,3045,True
+62169,5,Server,Application,FedEx Services,2018-12-05 19:53:42,evening,5305519,3,True,LaToya Williams,1,ITCC,3,1,Other,8417,True
+62174,5,Other,Application,FedEx Ground,2018-12-06 07:32:32,morning,751585,3,False,Other,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,209041,True
+62175,5,Server,Application,FedEx Express,2018-12-06 08:38:29,morning,847287,3,True,Randall Painter,1,ITCC,3,1,Other,7160,True
+62177,3,Other,Application,FedEx Services,2018-12-06 13:08:40,afternoon,3659168,1,True,Brad Moore,1,ITCC,3,1,Other,3907,True
+62178,5,Other,Hardware,FedEx Services,2018-12-06 15:45:33,afternoon,3667964,3,True,Eli Smith,1,ITCC,3,1,Other,2562,True
+62190,4,Other,Application,FedEx Express,2018-12-10 04:50:01,night,3609339,3,True,Eli Smith,1,ITCC,2,1,Other,4056,True
+62191,5,Other,Application,FedEx Ground,2018-12-10 08:04:29,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,6722,True
+62193,5,Database,Application,FedEx Ground,2018-12-10 08:55:35,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,175749,True
+62187,4,Server,Network,FedEx Services,2018-12-08 13:53:11,afternoon,3699687,3,True,Christophe Gurley,1,ITCC,2,1,FXS_NET_ENT_DATACENTER_ENG,6926,True
+62194,3,Switch,Telephony,FedEx Services,2018-12-10 14:26:14,afternoon,973921,3,True,Brad Moore,1,ITCC,1,1,Other,9557,True
+62195,4,Enterprise-Data-Analytics,Network,FedEx Services,2018-12-10 15:14:50,afternoon,5305519,3,True,Mark Duncan,1,ITCC,2,1,Other,12429,True
+62196,5,Communication Device,Infrastructure,FedEx Services,2018-12-10 15:16:08,afternoon,3659168,3,True,Christopher Barber,1,ITCC,3,1,Other,7745,True
+62197,4,Server,Application,Other,2018-12-11 04:02:25,night,5163721,3,True,Terri Hamilton,1,ITCC,2,1,FXS_L2ITCC,6688,True
+62200,4,Server,Infrastructure,FedEx Services,2018-12-11 17:49:54,evening,3667964,2,True,Mark Duncan,1,ITCC,3,1,Other,5320,True
+62201,5,Network,Network,FedEx Services,2018-12-11 18:17:31,evening,3732283,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,27508,True
+62204,5,Server,Application,FedEx Services,2018-12-11 20:49:56,evening,5305519,3,True,Christopher Barber,1,ITCC,3,1,Other,2546,True
+62205,3,Scanner,Application,FedEx Ground,2018-12-11 22:13:15,night,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,17700,True
+62208,5,Other,Application,FedEx Ground,2018-12-12 03:52:10,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,114106,True
+62209,5,Communication Device,Application,FedEx Services,2018-12-12 04:28:21,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,78888,True
+62198,4,Communication Device,Application,FedEx Services,2018-12-11 05:04:42,morning,5285658,3,True,Michael Kennemer,1,ITCC,2,1,Other,6225,True
+62215,2,Server,Telephony,FedEx Services,2018-12-12 16:52:35,afternoon,3667964,2,True,Brad Moore,1,ITCC,1,1,Other,6268,True
+62217,4,Server,Application,FedEx Express,2018-12-13 10:24:23,morning,973921,3,True,Eli Smith,1,ITCC,2,1,Other,3212,True
+62218,5,Server,Hardware,FedEx Services,2018-12-13 19:02:17,evening,3692199,3,True,Other,1,ITCC,3,1,Other,13701,True
+62224,4,Server,Application,FedEx Services,2018-12-14 12:42:47,afternoon,973921,3,True,Christina Hanlin,1,ITCC,2,1,Other,742,True
+62210,4,Computer,Application,FedEx Freight Inc.,2018-12-12 05:36:58,morning,5285658,3,True,Christina Hanlin,1,ITCC,2,1,Other,93184,True
+62276,4,Server,Application,FedEx Services,2018-12-16 05:08:14,morning,5163721,2,True,Christopher Barber,1,ITCC,3,1,Other,20349,True
+62277,5,Server,Hardware,FedEx Services,2018-12-16 06:24:58,morning,3699687,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,6410,True
+62261,4,Database,Infrastructure,FedEx Services,2018-12-15 07:23:16,morning,3699687,3,True,Other,1,ITCC,2,1,Other,4192,True
+62274,4,Server,Application,FedEx Services,2018-12-16 01:17:59,night,5163721,3,True,Terri Hamilton,1,ITCC,2,1,Other,11940,True
+62272,5,Server,Hardware,FedEx Services,2018-12-15 15:15:27,afternoon,973921,3,True,Christopher Barber,1,ITCC,3,1,Other,1716,True
+62303,4,Server,Application,FedEx Express,2018-12-17 15:20:58,afternoon,973921,3,True,Mark Duncan,1,ITCC,2,1,Other,5513,True
+62273,5,Server,Hardware,FedEx Services,2018-12-15 17:29:36,evening,5305519,3,True,Christopher Barber,1,ITCC,3,1,Other,329,True
+62304,5,Communication Device,Infrastructure,FedEx Services,2018-12-17 22:31:07,night,5285658,3,True,Christophe Gurley,1,ITCC,3,1,Other,6023,True
+62260,5,Server,Hardware,FedEx Ground,2018-12-14 23:09:34,night,5163721,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_SharePoint,1489,True
+62275,5,Server,Hardware,FedEx Services,2018-12-16 01:39:14,night,5163721,3,True,Christophe Gurley,1,ITCC,3,1,FXS_L2ITCC,4039,True
+62312,5,Communication Device,Application,FedEx Services,2018-12-18 17:08:56,evening,5305519,3,True,Christophe Gurley,1,ITCC,3,1,Other,21402,True
+62319,5,Server,Hardware,FedEx Express,2018-12-18 19:35:31,evening,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,5326,True
+62321,4,Server,Network,FedEx Services,2018-12-18 21:35:14,night,3732283,3,True,Eli Smith,1,ITCC,2,1,Other,2768,True
+62324,5,Server,Hardware,FedEx Services,2018-12-19 07:51:14,morning,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,8460,True
+62259,3,Server,Application,FedEx Services,2018-12-14 20:11:30,evening,3667964,2,True,Terri Hamilton,1,ITCC,2,1,FXS_WASDRATINGTRACKING,360615,True
+62325,5,Server,Hardware,FedEx Services,2018-12-19 09:35:17,morning,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,2005,True
+62306,3,Enterprise-Data-Analytics,Application,FedEx Services,2018-12-18 00:28:29,night,5285658,2,True,Christopher Barber,1,ITCC,2,1,Other,42668,True
+62301,3,Enterprise-Data-Analytics,Application,FedEx Services,2018-12-17 11:40:50,morning,836059,2,True,Christopher Barber,1,ITCC,2,1,Other,7143,True
+62305,3,Enterprise-Data-Analytics,Application,FedEx Services,2018-12-18 00:21:33,night,5285658,2,True,Christopher Barber,1,ITCC,2,1,Other,6870,True
+62332,4,Server,Application,FedEx Services,2018-12-19 18:37:33,evening,5305519,3,True,Mark Duncan,1,ITCC,2,1,FXS_SA_US_ITOWindowsServer,1972,True
+62333,4,Server,Application,FedEx Services,2018-12-19 19:29:33,evening,3692199,3,True,Mark Duncan,1,ITCC,2,1,Other,10045,True
+62334,3,Server,Infrastructure,FedEx Services,2018-12-19 21:25:36,night,3732283,2,True,Terri Hamilton,1,ITCC,2,1,FXS_DBA_US_HCL,8382,True
+62337,5,Server,Application,FedEx Freight Inc.,2018-12-20 06:26:29,morning,3699687,3,True,Mark Duncan,1,ITCC,3,1,Other,3863,True
+62338,5,Server,Hardware,FedEx Ground,2018-12-20 07:21:25,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,175645,True
+62278,5,Computer,Application,FedEx Office,2018-12-16 11:39:15,morning,973921,3,True,LaToya Williams,1,ITCC,3,1,Other,10175,True
+62347,4,Server,Hardware,FedEx Services,2018-12-20 18:29:28,evening,3667964,2,True,Christopher Barber,1,ITCC,3,1,Other,2908,True
+62330,4,Server,Application,FedEx Services,2018-12-19 16:24:47,afternoon,5305519,3,True,Terri Hamilton,1,ITCC,2,1,Other,19060,True
+62349,4,Other,Environment,FedEx Services,2018-12-21 20:12:41,evening,3667964,2,True,Mark Duncan,1,ITCC,3,1,Other,2881,True
+62331,4,Server,Application,FedEx Services,2018-12-19 17:21:33,evening,3667964,2,True,Randall Painter,1,ITCC,3,1,Other,8548,True
+62348,4,Communication Device,Application,FedEx Express,2018-12-21 04:28:25,night,5163721,3,True,Christophe Gurley,1,ITCC,2,1,Other,13868,True
+62360,5,Mainframe,Application,FedEx Ground,2018-12-26 07:21:09,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,12062,True
+62352,4,Server,Application,FedEx Express,2018-12-23 17:32:36,evening,3692199,3,True,Christina Hanlin,1,ITCC,2,1,Other,104010,True
+62363,5,Network,Network,FedEx Services,2018-12-26 13:40:27,afternoon,5305519,3,False,Christophe Gurley,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,4162,True
+62351,5,Other,Hardware,FedEx Ground,2018-12-23 15:13:18,afternoon,973921,3,True,Other,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,41355,True
+62335,5,Computer,Hardware,FedEx Express,2018-12-19 22:07:13,night,5163721,3,True,Eli Smith,1,ITCC,3,1,Other,6255,True
+62350,4,Server,Application,FedEx Express,2018-12-23 11:09:09,morning,3699687,3,True,Christophe Gurley,1,ITCC,2,1,Other,11012,True
+62368,5,Router,Network,FedEx Express,2018-12-28 04:19:22,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,71763,True
+62366,4,Server,Infrastructure,FedEx Services,2018-12-27 13:52:27,afternoon,973921,2,True,Christina Hanlin,1,ITCC,3,1,Other,5631,True
+62369,3,Server,Application,FedEx Express,2018-12-28 07:52:21,morning,5285658,2,True,Terri Hamilton,1,ITCC,2,1,Other,6962,True
+62362,4,Server,Network,FedEx Services,2018-12-26 13:30:52,afternoon,3659760,3,True,Christopher Barber,1,ITCC,2,1,Other,11258,True
+62367,5,Computer,Application,FedEx Ground,2018-12-27 19:56:26,evening,3667964,3,True,LaToya Williams,1,ITCC,3,1,Other,19039,True
+62374,5,Database,Application,FedEx Ground,2018-12-29 01:02:26,night,5163721,3,True,Christophe Gurley,1,ITCC,3,1,Other,16426,True
+62377,4,Communication Device,Network,FedEx Express,2018-12-31 03:13:45,night,5285658,3,True,Mark Duncan,1,ITCC,2,1,Other,2277,True
+62370,3,Other,Application,FedEx Services,2018-12-28 10:23:29,morning,973921,2,True,Michael Kennemer,1,ITCC,2,1,Other,3884,True
+62376,4,Database,Application,FedEx Freight Inc.,2018-12-29 07:06:56,morning,3699687,3,True,Christina Hanlin,1,ITCC,2,1,Other,29698,True
+62371,5,Computer,Hardware,FedEx Ground,2018-12-28 11:07:39,morning,973921,3,True,Mark Duncan,1,ITCC,3,1,Other,51589,True
+62380,5,Server,Hardware,FedEx Express,2018-12-31 14:38:42,afternoon,973921,3,True,Brad Moore,1,ITCC,3,1,Other,1204826,True
+62372,3,Switch,Network,FedEx Ground,2018-12-28 15:40:41,afternoon,3667964,2,False,Mark Duncan,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,24818,True
+62373,5,Server,Hardware,FedEx Express,2018-12-28 15:53:21,afternoon,3667964,3,True,Christopher Barber,1,ITCC,3,1,Other,307024,True
+62385,5,Switch,Network,FedEx Services,2019-01-01 00:08:27,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,445,True
+62386,5,Communication Device,Application,FedEx Ground,2019-01-01 06:40:07,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,Other,87535,True
+62375,5,Server,Hardware,FedEx Services,2018-12-29 01:43:59,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,5845,True
+62387,5,Server,Application,TNT Express,2019-01-02 11:35:34,morning,3699687,3,True,Eli Smith,1,ITCC,3,1,Other,14772,True
+62393,3,Server,Infrastructure,FedEx Services,2019-01-02 21:09:04,night,3667964,2,True,Michael Kennemer,1,ITCC,2,1,Other,11516,True
+62397,5,Server,Hardware,FedEx Services,2019-01-03 06:08:34,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,14004,True
+62399,3,Other,Application,FedEx Services,2019-01-03 11:15:00,morning,973921,2,True,Mark Duncan,1,ITCC,2,1,Other,72998,True
+62394,3,Computer,Application,FedEx Ground,2019-01-02 22:07:16,night,5163721,2,True,Christina Hanlin,1,ITCC,2,1,Other,11354,True
+62402,5,Computer,Hardware,FedEx Ground,2019-01-04 08:53:09,morning,973921,3,True,Christopher Barber,1,ITCC,3,1,FXS_SA_GLB_ADS,6146,True
+62403,2,Communication Device,Application,FedEx Services,2019-01-04 09:11:36,morning,847287,2,True,Randall Painter,1,ITCC,1,1,Other,7624,True
+62410,3,Server,Application,FedEx Ground,2019-01-05 03:23:00,night,5163721,2,True,Eli Smith,1,ITCC,2,1,Other,23736,True
+62414,3,Server,Application,FedEx Express,2019-01-07 05:08:23,morning,5163721,3,True,Christophe Gurley,1,ITCC,1,1,Other,3525,True
+62411,5,Server,Hardware,FedEx Services,2019-01-05 07:23:35,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,Other,41318,True
+62417,4,Other,Application,FedEx Services,2019-01-07 09:05:23,morning,973921,2,True,Christopher Barber,1,ITCC,3,1,Other,8357,True
+62408,5,Computer,Hardware,FedEx Freight Inc.,2019-01-04 16:08:17,afternoon,3659168,3,False,Eli Smith,1,ITCC,3,1,Other,4997,True
+62433,5,Server,Application,FedEx Services,2019-01-07 16:12:18,afternoon,3692199,3,True,Mark Duncan,1,ITCC,3,1,FXS_WASDRATINGTRACKING,46761,True
+62434,5,Server,Application,FedEx Services,2019-01-07 16:48:16,afternoon,3659168,3,True,Christophe Gurley,1,ITCC,3,1,Other,2806,True
+62409,3,Server,Hardware,FedEx Services,2019-01-04 20:49:36,evening,3667964,2,True,Eli Smith,1,ITCC,2,1,Other,3631,True
+62435,5,Switch,Network,FedEx Express,2019-01-08 05:35:59,morning,3609339,3,False,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,74962,True
+62439,4,Switch,Network,FedEx Ground,2019-01-08 15:34:36,afternoon,3667964,3,True,Christopher Barber,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,66143,True
+62441,4,Server,Application,FedEx Express,2019-01-08 21:32:15,night,3692199,2,True,Brad Moore,1,ITCC,3,1,Other,54460,True
+62442,5,Server,Hardware,TNT Express,2019-01-08 23:36:18,night,3609339,3,True,Christopher Barber,1,ITCC,3,1,Other,52944,True
+62443,5,Other,Application,FedEx Express,2019-01-09 03:22:56,night,3609339,3,True,Eli Smith,1,ITCC,3,1,Other,4445,True
+62444,5,Other,Application,FedEx Services,2019-01-09 03:52:49,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,2622,True
+62427,3,Server,Security,FedEx Services,2019-01-07 11:40:18,morning,973921,2,True,Christina Hanlin,1,ITCC,2,1,Other,6382,True
+62458,3,Scanner,Application,FedEx Ground,2019-01-09 15:53:50,afternoon,3692199,3,True,Christophe Gurley,1,ITCC,1,1,Other,11188,True
+62466,5,Database,Hardware,FedEx Ground,2019-01-09 21:11:22,night,3732283,3,True,Eli Smith,1,ITCC,3,1,Other,9988,True
+62468,4,Server,Infrastructure,FedEx Services,2019-01-10 02:18:16,night,5163721,2,True,LaToya Williams,1,ITCC,3,1,Other,22489,True
+62469,3,Server,Infrastructure,Other,2019-01-10 03:46:22,night,5163721,2,True,LaToya Williams,1,ITCC,2,1,Other,25344,True
+62485,5,Other,Network,FedEx Ground,2019-01-11 15:56:05,afternoon,5305519,3,True,Christopher Barber,1,ITCC,3,1,Other,7618,True
+62489,5,Other,Network,FedEx Services,2019-01-12 05:32:12,morning,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,26213,True
+62488,3,Server,Infrastructure,FedEx Services,2019-01-11 17:04:02,evening,3667964,2,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,103208,True
+62438,5,Enterprise-Data-Analytics,Infrastructure,FedEx Services,2019-01-08 12:28:50,afternoon,836059,3,True,Randall Painter,1,ITCC,3,1,FXS_DBA_US_HCL,5608,True
+62497,5,Computer,Application,FedEx Freight Inc.,2019-01-14 11:07:25,morning,836059,3,True,Christina Hanlin,1,ITCC,3,1,FXS_SA_US_ITOWindowsServer,19365,True
+62492,4,Other,Application,FedEx Services,2019-01-13 22:00:01,night,3732283,3,True,Christophe Gurley,1,ITCC,2,1,Other,8027,True
+62506,3,Server,Application,FedEx Express,2019-01-15 04:57:03,night,5285658,1,True,Terri Hamilton,1,ITCC,3,1,FXS_SA_Server,33006,True
+62505,3,Server,Application,FedEx Services,2019-01-14 17:08:32,evening,3659168,2,True,Christina Hanlin,1,ITCC,2,1,Other,5409,True
+62490,3,Server,Application,FedEx Services,2019-01-12 12:41:11,afternoon,3699687,2,True,Eli Smith,1,ITCC,2,1,Other,13262,True
+62540,3,Router,Network,FedEx Express,2019-01-16 18:28:41,evening,3667964,2,True,Eli Smith,1,ITCC,2,1,FXS_NET_ENT_DATACENTER_ENG,70535,True
+62541,3,Server,Application,FedEx Services,2019-01-16 21:46:41,night,5163721,2,True,Mark Duncan,1,ITCC,2,1,Other,3895,True
+62542,4,Computer,Network,FedEx Freight Inc.,2019-01-16 21:47:47,night,3667964,2,True,Christina Hanlin,1,ITCC,3,1,FXS_SA_US_ITOWindowsServer,11604,True
+62508,3,Enterprise-Data-Analytics,Application,FedEx Services,2019-01-15 15:21:12,afternoon,836059,2,True,Michael Kennemer,1,ITCC,2,1,Other,8423,True
+62557,3,Server,Infrastructure,FedEx Services,2019-01-17 13:35:25,afternoon,3699687,2,True,Christina Hanlin,1,Standard,2,1,FXF_SPT_US_FreightDataSvcs,8239,True
+62558,3,Server,Application,FedEx Services,2019-01-17 14:34:59,afternoon,836059,2,True,Michael Kennemer,1,ITCC,2,1,Other,3418,True
+62560,2,Other,Application,FedEx Services,2019-01-18 06:22:14,morning,3699687,2,True,Brad Moore,1,ITCC,1,1,Other,3466,True
+62561,5,Communication Device,Hardware,FedEx Services,2019-01-18 06:37:55,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,Other,232311,True
+62562,2,Server,Application,FedEx Services,2019-01-18 08:31:36,morning,973921,1,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,2160,True
+62593,3,Server,Application,FedEx Express,2019-01-21 02:44:33,night,5163721,2,True,Christopher Barber,1,ITCC,2,1,Other,3436,True
+62588,5,Computer,Network,FedEx Ground,2019-01-20 03:59:57,night,5163721,3,True,Eli Smith,1,ITCC,3,1,FXS_L2ITCC,98329,True
+62586,3,Server,Application,FedEx Services,2019-01-19 04:58:24,night,5163721,2,True,Eli Smith,1,ITCC,2,1,Other,2820,True
+62587,5,Router,Network,FedEx Ground,2019-01-19 06:20:34,morning,3699687,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,5802,True
+62589,3,Server,Hardware,FedEx Services,2019-01-20 17:08:18,evening,3659168,2,True,Christina Hanlin,1,ITCC,2,1,FXS_WASDRATINGTRACKING,7929,True
+62604,3,Communication Device,Application,FedEx Services,2019-01-21 14:58:40,afternoon,3659168,2,True,Michael Kennemer,1,ITCC,2,1,Other,27278,True
+62618,3,Computer,Application,FedEx Express,2019-01-21 22:51:03,night,5163721,3,True,Randall Painter,1,ITCC,1,1,Other,22933,True
+62630,2,Server,Application,FedEx Services,2019-01-22 11:55:38,morning,483039,2,True,Brad Moore,1,ITCC,1,1,FXS_WASDRATINGTRACKING,45330,True
+62633,2,Server,Application,FedEx Express,2019-01-22 14:26:10,afternoon,3659760,2,True,Mark Duncan,1,ITCC,1,1,Other,151800,True
+62634,3,Server,Infrastructure,FedEx Services,2019-01-22 15:14:52,afternoon,3667964,2,True,Eli Smith,1,ITCC,2,1,FXS_DBA_US_HCL,90046,True
+62637,5,Other,Application,FedEx Services,2019-01-22 15:29:45,afternoon,828618,3,True,LaToya Williams,1,ITCC,3,1,Other,861,True
+62638,4,Server,Hardware,FedEx Ground,2019-01-22 15:30:14,afternoon,3667964,3,True,Christopher Barber,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,240220,True
+62671,2,Other,Application,FedEx Services,2019-01-22 23:51:06,night,5285658,1,True,Christina Hanlin,1,ITCC,2,1,Other,131639,True
+62715,3,Server,Application,FedEx Services,2019-01-23 13:33:15,afternoon,847287,2,True,Christopher Barber,1,ITCC,2,1,Other,279204,True
+62716,5,Other,Environment,FedEx Services,2019-01-23 20:35:05,evening,3692199,3,True,Christopher Barber,1,ITCC,3,1,Other,2788,True
+62722,3,Scanner,Application,FedEx Express,2019-01-24 03:07:54,night,5163721,2,True,Christopher Barber,1,ITCC,2,1,Other,4323,True
+62743,2,Server,Application,FedEx Services,2019-01-24 17:09:47,evening,5305519,1,True,Christophe Gurley,1,ITCC,2,1,FXS_WASDRATINGTRACKING,54840,True
+62747,4,Server,Application,FedEx Express,2019-01-25 00:10:40,night,5163721,3,True,Mark Duncan,1,ITCC,2,1,Other,5683,True
+62748,3,Scanner,Application,FedEx Express,2019-01-25 00:17:22,night,5163721,2,True,Christopher Barber,1,ITCC,2,1,Other,5587,True
+62752,5,Server,Hardware,FedEx Ground,2019-01-25 03:58:25,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,27134,True
+62778,3,Other,Application,FedEx Services,2019-01-26 06:14:36,morning,3699687,2,True,Mark Duncan,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,2524277,True
+62805,5,Server,Hardware,FedEx Express,2019-01-28 03:10:28,night,3609339,3,True,Eli Smith,1,ITCC,3,1,Other,3727,True
+62777,3,Server,Hardware,FedEx Freight Inc.,2019-01-26 05:43:30,morning,3699687,2,True,Christina Hanlin,1,ITCC,2,1,Other,6834,True
+62776,5,Communication Device,Hardware,FedEx Express,2019-01-26 01:36:18,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,3930,True
+62842,5,Server,Hardware,FedEx Services,2019-01-28 14:39:10,afternoon,973921,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,14974,True
+62853,3,Server,Application,FedEx Express,2019-01-28 17:48:53,evening,3667964,3,True,Christopher Barber,1,ITCC,1,1,Other,609,True
+62892,3,Communication Device,Application,FedEx Services,2019-01-29 05:08:16,morning,5285658,2,True,Christopher Barber,1,ITCC,2,1,Other,10588,True
+62893,5,Computer,Hardware,Other,2019-01-29 05:16:44,morning,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,5927,True
+62909,2,Mainframe,Hardware,FedEx Services,2019-01-29 23:23:13,night,5285658,1,True,Christophe Gurley,1,ITCC,2,1,Other,78822,True
+62782,3,Server,Application,FedEx Services,2019-01-26 12:49:43,afternoon,973921,2,True,Christopher Barber,1,ITCC,2,1,Other,18376,True
+62944,2,Server,Application,FedEx Services,2019-01-30 14:07:15,afternoon,5305519,1,True,Christophe Gurley,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,2995,True
+62958,3,Server,Network,FedEx Express,2019-01-30 19:27:31,evening,3667964,3,True,Brad Moore,1,ITCC,1,1,Other,2785,True
+62779,3,Server,Application,FedEx Services,2019-01-26 07:01:29,morning,3699687,2,True,Christina Hanlin,1,ITCC,2,1,Other,178720,True
+62964,5,Scanner,Hardware,FedEx Ground,2019-01-31 07:47:39,morning,3624748,3,False,Other,1,Standard,3,1,Other,18515,True
+62966,2,Server,Application,FedEx Services,2019-01-31 08:37:10,morning,847287,1,True,LaToya Williams,1,ITCC,2,1,Other,1056037,True
+62976,5,Computer,Application,FedEx Express,2019-01-31 12:33:51,afternoon,973921,3,True,Christopher Barber,1,ITCC,3,1,Other,6929,True
+62986,5,Mainframe,Application,FedEx Services,2019-01-31 15:12:32,afternoon,973921,3,True,Brad Moore,1,ITCC,3,1,Other,7705,True
+62987,5,Computer,Hardware,FedEx Freight Inc.,2019-01-31 15:18:09,afternoon,973921,3,True,Christopher Barber,1,ITCC,3,1,FXS_SA_GLB_ADS,21995,True
+62990,5,Computer,Hardware,FedEx Ground,2019-01-31 17:16:08,evening,3692199,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,138187,True
+62993,3,Server,Application,FedEx Services,2019-01-31 20:04:20,evening,3667964,2,True,Mark Duncan,1,ITCC,2,1,Other,1015115,True
+63033,2,Server,Hardware,FedEx Services,2019-02-01 16:28:07,afternoon,3667964,2,True,Christopher Barber,1,ITCC,1,1,FXF_SPT_US_FreightDataSvcs,1522,True
+63067,5,Other,Network,FedEx Services,2019-02-04 01:59:57,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,221864,True
+63068,5,Other,Telephony,FedEx Services,2019-02-04 03:58:22,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,2808,True
+63048,5,Server,Hardware,FedEx Express,2019-02-03 04:15:55,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,13944,True
+63049,5,Server,Hardware,FedEx Services,2019-02-03 07:54:52,morning,3699687,3,True,LaToya Williams,1,ITCC,3,1,Other,12093,True
+63066,4,Router,Network,FedEx Services,2019-02-04 00:46:22,night,5163721,2,True,Christopher Barber,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,35149,True
+63047,3,Other,Network,FedEx Services,2019-02-02 21:21:30,night,3659168,1,True,Terri Hamilton,1,ITCC,3,1,Other,7409,True
+63074,5,Server,Application,FedEx Services,2019-02-04 15:05:11,afternoon,836059,3,True,Randall Painter,1,ITCC,3,1,FXS_WASDRATINGTRACKING,3235,True
+63040,3,Server,Hardware,FedEx Services,2019-02-01 19:13:15,evening,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,5596,True
+63065,5,Server,Application,FedEx Express,2019-02-03 23:08:50,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_L2ITCC,146490,True
+63082,5,Server,Hardware,FedEx Services,2019-02-05 06:38:33,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,Other,685,True
+63086,3,Server,Application,FedEx Services,2019-02-05 15:56:13,afternoon,5305519,2,True,Brad Moore,1,ITCC,2,1,Other,607551,True
+63098,3,Server,Application,FedEx Services,2019-02-05 20:19:23,evening,5305519,2,True,Eli Smith,1,ITCC,2,1,Other,3401,True
+63101,5,Scanner,Hardware,FedEx Services,2019-02-06 00:48:40,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,8777,True
+63083,5,Other,Application,FedEx Services,2019-02-05 10:42:57,morning,836059,3,True,Christina Hanlin,1,ITCC,3,1,Other,5216,True
+63089,3,Server,Application,FedEx Services,2019-02-05 16:45:42,afternoon,3667964,3,True,Michael Kennemer,1,ITCC,1,1,Other,2970,True
+63105,2,Server,Application,FedEx Services,2019-02-06 10:50:56,morning,847287,1,True,Christina Hanlin,1,ITCC,2,1,Other,524741,True
+63106,5,Other,Application,FedEx Ground,2019-02-06 11:20:53,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,Other,29566,True
+63107,5,Other,Application,FedEx Ground,2019-02-06 13:31:22,afternoon,622891,3,True,Other,1,ITCC,3,1,Other,35548,True
+63113,3,Scanner,Hardware,FedEx Express,2019-02-07 02:25:43,night,5285658,2,True,Christopher Barber,1,ITCC,2,1,Other,3301,True
+63117,5,Scanner,Hardware,FedEx Ground,2019-02-07 11:38:06,morning,3624748,3,False,Other,1,Standard,3,1,Other,21714,True
+63121,5,Database,Hardware,FedEx Services,2019-02-07 14:40:03,afternoon,3659168,3,True,Christopher Barber,1,ITCC,3,1,Other,5514,True
+63124,5,Server,Application,FedEx Services,2019-02-07 15:59:24,afternoon,3692199,3,True,LaToya Williams,1,ITCC,3,1,Other,6336,True
+63125,3,Server,Application,FedEx Services,2019-02-07 16:19:53,afternoon,3667964,2,True,Eli Smith,1,ITCC,2,1,Other,45035,True
+63132,3,Router,Network,FedEx Services,2019-02-07 21:41:06,night,3667964,3,True,Christopher Barber,1,ITCC,1,1,FXS_SPT_GLB_NOCL1,1646,True
+63139,5,Communication Device,Network,FedEx Freight Inc.,2019-02-08 05:45:55,morning,5285658,3,True,Christina Hanlin,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,17523,True
+63140,5,Switch,Network,FedEx Ground,2019-02-08 06:03:47,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,135126,True
+63143,5,Router,Network,FedEx Ground,2019-02-09 02:55:36,night,3732283,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,4852,True
+63144,5,Scanner,Application,FedEx Ground,2019-02-09 07:33:53,morning,973921,3,True,Eli Smith,1,ITCC,3,1,Other,10946,True
+63145,3,Server,Hardware,FedEx Services,2019-02-09 08:19:35,morning,973921,2,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,345722,True
+63173,5,Scanner,Hardware,FedEx Ground,2019-02-11 08:23:59,morning,973921,3,True,Christopher Barber,1,ITCC,3,1,Other,346919,True
+63146,5,Router,Network,FedEx Ground,2019-02-09 10:37:16,morning,973921,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,110740,True
+63187,2,Computer,Hardware,FedEx Express,2019-02-11 16:03:47,afternoon,5305519,2,True,Christopher Barber,1,ITCC,1,1,Other,8794,True
+63141,4,Storage,Hardware,FedEx Services,2019-02-08 19:56:01,evening,3667964,3,True,Christopher Barber,1,ITCC,2,1,Other,18925,True
+63194,3,Switch,Network,FedEx Ground,2019-02-11 21:16:19,night,3667964,3,True,Eli Smith,1,ITCC,1,1,FXS_SPT_GLB_NOCL1,2160,True
+63195,5,Switch,Network,FedEx Freight Inc.,2019-02-11 22:42:01,night,5163721,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,3895,True
+63158,5,Computer,Hardware,FedEx Freight Inc.,2019-02-10 22:49:45,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,7032,True
+63142,3,Other,Network,FedEx Ground,2019-02-08 22:58:12,night,3667964,3,True,Eli Smith,1,ITCC,1,1,FXS_SPT_GLB_NOCL1,17259,True
+63200,3,Computer,Application,FedEx Express,2019-02-12 00:07:53,night,5163721,2,True,Terri Hamilton,1,ITCC,2,1,Other,12811,True
+63201,5,Switch,Network,FedEx Ground,2019-02-12 01:58:23,night,5163721,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,3943,True
+63204,5,Server,Hardware,FedEx Services,2019-02-12 15:03:05,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,11000,True
+63205,5,Switch,Network,FedEx Services,2019-02-12 16:00:36,afternoon,3667964,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,6856,True
+63212,5,Server,Hardware,FedEx Services,2019-02-13 02:47:23,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,3346,True
+63240,5,Server,Hardware,FedEx Ground,2019-02-13 09:00:33,morning,836059,3,True,Christopher Barber,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,17613,True
+63259,5,Switch,Network,FedEx Services,2019-02-13 16:30:46,afternoon,3692199,3,True,Other,1,ITCC,3,1,FXS_SPT_GLB_NOCL2,3335,True
+63260,3,Other,Network,FedEx Freight Inc.,2019-02-13 18:18:26,evening,3667964,3,True,DZundra Green,1,ITCC,1,1,FXS_SPT_GLB_NOCL1,1711,True
+63263,5,Other,Application,FedEx Freight Inc.,2019-02-14 00:49:01,night,5163721,3,True,Christina Hanlin,1,ITCC,3,1,Other,4532,True
+63270,5,Communication Device,Hardware,FedEx Express,2019-02-14 07:17:59,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,Other,13321,True
+63272,5,Mainframe,Application,FedEx Ground,2019-02-14 08:13:19,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,Other,8982,True
+63279,2,Server,Hardware,FedEx Ground,2019-02-14 22:07:25,night,828618,2,True,Christopher Barber,1,ITCC,1,1,Other,20873,True
+63284,5,Other,Application,FedEx Services,2019-02-15 04:20:53,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,5450,True
+63285,5,Switch,Network,FedEx Ground,2019-02-15 05:57:47,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,28302,True
+63290,3,Server,Hardware,FedEx Services,2019-02-15 14:03:10,afternoon,973921,2,True,Christopher Barber,1,ITCC,2,1,Other,11081,True
+63210,5,Computer,Application,FedEx Services,2019-02-13 00:51:16,night,5163721,3,True,Eli Smith,1,ITCC,3,1,Other,7250,True
+63271,3,Printer,Hardware,FedEx Ground,2019-02-14 07:24:00,morning,3699687,2,True,Christopher Barber,1,ITCC,2,1,Other,13957,True
+63330,5,Enterprise-Data-Analytics,Application,FedEx Services,2019-02-18 14:35:45,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,12677,True
+63332,3,Switch,Network,FedEx Services,2019-02-18 17:35:56,evening,5305519,2,True,Christopher Barber,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,90707,True
+63314,3,Communication Device,Hardware,FedEx Office,2019-02-17 08:53:35,morning,973921,2,True,Brad Moore,1,ITCC,2,1,Other,18148,True
+63342,5,Router,Network,FedEx Office,2019-02-19 10:58:44,morning,847287,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,106011,True
+63343,5,Computer,Hardware,FedEx Freight Inc.,2019-02-19 12:08:20,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,6141,True
+63315,3,Server,Application,FedEx Services,2019-02-17 14:48:10,afternoon,973921,2,True,LaToya Williams,1,ITCC,2,1,Other,36470,True
+63291,3,Server,Application,FedEx Ground,2019-02-15 17:22:12,evening,3667964,2,True,Eli Smith,1,ITCC,2,1,FXS_L2ITCC,75459,True
+63348,3,Router,Network,FedEx Ground,2019-02-19 22:12:24,night,3667964,3,True,Eli Smith,1,ITCC,1,1,FXS_SPT_GLB_NOCL2,26710,True
+63351,5,Router,Network,FedEx Ground,2019-02-20 02:34:19,night,5163721,3,True,Eli Smith,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,40475,True
+63354,3,Server,Hardware,FedEx Ground,2019-02-20 04:50:09,night,5163721,2,True,Mark Duncan,1,ITCC,2,1,Other,14771,True
+63355,3,Server,Infrastructure,FedEx Services,2019-02-20 06:03:07,morning,3609339,2,True,Terri Hamilton,1,ITCC,2,1,Other,36731,True
+63357,5,Server,Hardware,FedEx Services,2019-02-20 10:59:52,morning,847287,3,False,Other,1,ITCC,3,1,Other,0,True
+63359,5,Computer,Hardware,FedEx Express,2019-02-20 12:59:42,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,32642,True
+63360,3,Other,Application,FedEx Services,2019-02-20 14:43:07,afternoon,5305519,2,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,4924,True
+63362,5,Server,Hardware,FedEx Services,2019-02-20 19:16:43,evening,3692199,3,True,Christopher Barber,1,ITCC,3,1,Other,10852,True
+63363,3,Server,Hardware,FedEx Services,2019-02-20 19:46:04,evening,5305519,2,True,Christopher Barber,1,ITCC,2,1,Other,6429,True
+63364,3,Server,Hardware,FedEx Services,2019-02-20 21:47:24,night,3667964,2,True,Christophe Gurley,1,ITCC,2,1,Other,4857,True
+63365,3,Database,Hardware,FedEx Office,2019-02-20 23:05:43,night,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,2306,True
+63366,5,Server,Hardware,FedEx Express,2019-02-20 23:39:33,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,5301,True
+63369,5,Database,Hardware,FedEx Ground,2019-02-21 10:22:06,morning,847287,3,True,Michael Kennemer,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,31737,True
+63380,2,Server,Hardware,FedEx Services,2019-02-22 12:57:30,afternoon,847287,2,True,Christopher Barber,1,ITCC,1,1,FXS_WASDRATINGTRACKING,6661,True
+63382,5,Other,Application,FedEx Services,2019-02-23 09:04:11,morning,3699687,3,True,Randall Painter,1,ITCC,3,1,Other,7028,True
+63400,3,Computer,Hardware,FedEx Freight Inc.,2019-02-25 04:13:09,night,5285658,2,True,Christina Hanlin,1,ITCC,2,1,Other,17436,True
+63397,3,Other,Application,FedEx Services,2019-02-24 00:15:27,night,5163721,1,True,Randall Painter,1,ITCC,3,1,FXS_WASDRATINGTRACKING,107465,True
+63401,3,Scanner,Hardware,FedEx Ground,2019-02-25 10:58:55,morning,973921,2,True,LaToya Williams,1,ITCC,2,1,FXG_SPT_FASS_SingleSystem,25763,True
+63361,2,Server,Hardware,FedEx Services,2019-02-20 17:19:42,evening,3667964,2,True,Mark Duncan,1,ITCC,1,1,FXS_WASDRATINGTRACKING,48482,True
+63381,3,Server,Hardware,FedEx Express,2019-02-22 18:56:56,evening,3667964,2,True,Brad Moore,1,ITCC,2,1,Other,3425,True
+63405,2,Database,Hardware,FedEx Services,2019-02-25 19:16:52,evening,3659168,1,True,Brad Moore,1,ITCC,2,1,Other,8203,True
+63406,5,Router,Network,FedEx Services,2019-02-26 01:41:11,night,3732283,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,20912,True
+63420,5,Database,Hardware,FedEx Services,2019-02-26 05:41:40,morning,5285658,3,True,LaToya Williams,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,4551,True
+63432,3,Router,Network,FedEx Ground,2019-02-26 16:14:57,afternoon,5305519,2,True,Christopher Barber,1,ITCC,2,1,FXS_SPT_GLB_NOCL1,72852,True
+63433,3,Server,Hardware,FedEx Office,2019-02-26 18:31:01,evening,3667964,3,True,Mark Duncan,1,ITCC,1,1,Other,3972,True
+63434,5,Router,Network,Other,2019-02-27 01:09:37,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,14961,True
+63440,3,Server,Application,FedEx Services,2019-02-28 00:23:33,night,5163721,2,True,Christophe Gurley,1,ITCC,2,1,Other,6584,True
+63444,3,Server,Hardware,FedEx Services,2019-02-28 12:43:16,afternoon,847287,2,True,Christopher Barber,1,ITCC,2,1,Other,18172,True
+63445,3,Other,Application,FedEx Services,2019-02-28 15:01:43,afternoon,836059,2,True,Christina Hanlin,1,ITCC,2,1,FXF_SPT_US_FreightDataSvcs,7776,True
+63447,3,Server,Security,Other,2019-02-28 21:31:23,night,3667964,2,True,Christopher Barber,1,ITCC,2,1,FXS_L2ITCC,10783,True
+63460,5,Communication Device,Hardware,FedEx Express,2019-03-03 01:25:50,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,2914,True
+63461,5,Communication Device,Hardware,FedEx Express,2019-03-03 02:08:09,night,5285658,3,True,Christina Hanlin,1,ITCC,3,1,Other,7094,True
+63459,3,Mainframe,Application,FedEx Services,2019-03-02 15:00:39,afternoon,973921,2,True,Terri Hamilton,1,ITCC,2,1,Other,30835,True
+63457,3,Server,Application,FedEx Ground,2019-03-01 18:02:58,evening,3667964,2,True,Mark Duncan,1,ITCC,2,1,Other,8175,True
+63458,3,Server,Application,Other,2019-03-02 11:10:21,morning,847287,2,True,Christopher Barber,1,ITCC,2,1,Other,12485,True
+63462,3,Computer,Hardware,FedEx Services,2019-03-03 11:24:43,morning,836059,3,True,Brad Moore,1,ITCC,1,1,Other,6232,True
+63435,3,Server,Application,FedEx Express,2019-02-27 17:01:11,evening,5305519,2,True,Eli Smith,1,ITCC,2,1,Other,36979,True
+63464,4,Server,Network,FedEx Services,2019-03-03 20:40:43,evening,5305519,2,True,Christophe Gurley,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,14067,True
+63470,3,Other,Network,FedEx Services,2019-03-05 06:16:43,morning,3609339,3,True,Christopher Barber,1,ITCC,1,1,FXS_SPT_GLB_NOCL1,4948,True
+63471,5,Router,Network,FedEx Ground,2019-03-05 06:36:36,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,Other,52893,True
+63472,5,Other,Application,FedEx Services,2019-03-05 09:41:21,morning,836059,3,True,Christopher Barber,1,ITCC,3,1,Other,14851,True
+63474,5,Scanner,Application,FedEx Ground,2019-03-05 10:21:58,morning,751585,3,False,Other,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,16677,True
+63476,5,Other,Environment,FedEx Services,2019-03-05 13:49:20,afternoon,836059,3,True,Christopher Barber,1,ITCC,3,1,FXS_DBA_US_HCL,28973,True
+63477,3,Server,Hardware,FedEx Ground,2019-03-06 00:18:50,night,3609339,2,True,Mark Duncan,1,ITCC,2,1,Other,4983,True
+63482,5,Server,Hardware,FedEx Services,2019-03-06 10:49:22,morning,3659760,3,True,Christopher Barber,1,ITCC,3,1,Other,10220,True
+63488,5,Communication Device,Hardware,TNT Express,2019-03-07 02:23:04,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_NET_ENT_DATACENTER_ENG,7115,True
+63489,5,Other,Network,Other,2019-03-07 04:20:44,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,20508,True
+63490,5,Communication Device,Hardware,FedEx Services,2019-03-07 04:40:00,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,Other,11525,True
+63493,5,Server,Hardware,FedEx Services,2019-03-07 07:44:13,morning,847287,3,True,LaToya Williams,1,ITCC,3,1,Other,24180,True
+63494,5,Printer,Hardware,FedEx Ground,2019-03-07 07:45:18,morning,396019,3,False,Other,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,31529,True
+63495,2,Server,Hardware,FedEx Services,2019-03-07 10:28:42,morning,847287,1,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,2274,True
+63504,3,Other,Application,Other,2019-03-08 03:30:02,night,5163721,2,True,Christina Hanlin,1,ITCC,2,1,Other,9801,True
+63527,5,Router,Network,FedEx Express,2019-03-08 10:27:04,morning,3699687,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,137096,True
+63535,5,Communication Device,Hardware,FedEx Services,2019-03-09 07:34:36,morning,3699687,3,True,Other,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,18394,True
+63469,3,Other,Hardware,FedEx Services,2019-03-05 01:18:24,night,3609339,2,True,LaToya Williams,1,ITCC,2,1,Other,3961,True
+63465,5,Computer,Hardware,FedEx Ground,2019-03-04 10:43:46,morning,3659760,3,True,Eli Smith,1,ITCC,3,1,FXG_SPT_FASS_SingleSystem,29219,True
+63547,3,Communication Device,Hardware,FedEx Services,2019-03-11 08:58:52,morning,836059,2,True,Christopher Barber,1,ITCC,2,1,Other,8746,True
+63550,3,Server,Hardware,FedEx Services,2019-03-11 14:07:54,afternoon,3659168,2,True,Christopher Barber,1,ITCC,2,1,Other,3932,True
+63542,5,Other,Environment,FedEx Services,2019-03-10 15:38:11,afternoon,3699687,3,True,Other,1,ITCC,3,1,Other,21447,True
+63560,1,Server,Application,FedEx Services,2019-03-11 16:20:40,afternoon,3692199,1,True,Michael Kennemer,1,ITCC,1,1,Other,5354,True
+63561,2,Server,Hardware,FedEx Services,2019-03-11 21:08:31,night,3692199,1,True,Mark Duncan,1,ITCC,2,1,Other,12450,True
+63562,5,Other,Network,FedEx Services,2019-03-11 21:21:10,night,5305519,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,18162,True
+63532,3,Server,Hardware,FedEx Express,2019-03-08 21:41:03,night,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,2161,True
+63565,5,Server,Hardware,FedEx Express,2019-03-11 22:18:35,night,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,10648,True
+63606,2,Enterprise-Data-Analytics,Application,FedEx Services,2019-03-13 01:55:19,night,5163721,1,True,Christopher Barber,1,ITCC,2,1,FXS_WASDRATINGTRACKING,2608,True
+63604,5,Server,Hardware,FedEx Ground,2019-03-12 11:21:33,morning,3659760,3,True,Eli Smith,1,ITCC,3,1,Other,97907,True
+63636,5,Other,Environment,FedEx Services,2019-03-14 12:17:15,afternoon,847287,3,True,Christopher Barber,1,ITCC,3,1,Other,3125,True
+63730,3,Database,Hardware,FedEx Ground,2019-03-16 02:21:12,night,3609339,2,True,Other,1,ITCC,2,1,FXS_DBA_US_HCL,14623,True
+63772,5,Database,Hardware,FedEx Freight Inc.,2019-03-18 04:35:58,night,3659760,3,True,Other,1,ITCC,3,1,Other,10274,True
+63773,5,Communication Device,Hardware,FedEx Services,2019-03-18 05:59:33,morning,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_SA_GLB_ADS,5026,True
+63728,5,Server,Application,FedEx Office,2019-03-15 15:15:54,afternoon,3699687,3,True,Other,1,ITCC,3,1,Other,16019,True
+63779,3,Server,Hardware,FedEx Services,2019-03-18 18:15:47,evening,3667964,2,True,Christopher Barber,1,ITCC,2,1,Other,4560,True
+63780,3,Other,Network,FedEx Services,2019-03-18 18:47:11,evening,3692199,2,True,Christopher Barber,1,ITCC,2,1,Other,24870,True
+63729,3,Server,Hardware,FedEx Ground,2019-03-15 19:37:32,evening,3667964,2,True,Eli Smith,1,ITCC,2,1,Other,7210,True
+63781,3,Server,Hardware,FedEx Services,2019-03-18 22:20:17,night,3667964,3,True,Eli Smith,1,ITCC,1,1,Other,7202,True
+63784,5,Computer,Hardware,FedEx Ground,2019-03-19 00:11:28,night,3732283,3,True,Christopher Barber,1,ITCC,3,1,Other,55439,True
+63797,5,Communication Device,Hardware,FedEx Services,2019-03-19 00:47:09,night,5285658,3,True,Christopher Barber,1,ITCC,3,1,FXS_SPT_GLB_NOCL1,8250,True
+63821,5,Server,Hardware,FedEx Express,2019-03-19 04:05:31,night,3732283,3,True,Other,1,ITCC,3,1,Other,107498,True
+63829,5,Mainframe,Hardware,FedEx Services,2019-03-19 12:53:34,afternoon,847287,3,True,Christopher Barber,1,ITCC,3,1,Other,14166,True
+63830,5,Server,Hardware,FedEx Services,2019-03-19 13:49:05,afternoon,5163721,3,True,Christopher Barber,1,ITCC,3,1,Other,18647,True
+63778,2,Server,Hardware,FedEx Services,2019-03-18 15:37:41,afternoon,3692199,1,True,Christina Hanlin,1,ITCC,2,1,Other,45424,True
+63840,5,Communication Device,Hardware,FedEx Ground,2019-03-20 06:34:03,morning,3732283,3,True,Michael Kennemer,1,ITCC,3,1,Other,6514,True
+63846,2,Server,Hardware,FedEx Services,2019-03-20 10:12:02,morning,847287,2,True,Randall Painter,1,ITCC,1,1,Other,2809,True
+63847,5,Server,Hardware,FedEx Services,2019-03-20 12:23:07,afternoon,3699687,3,True,Other,1,ITCC,3,1,Other,8185,True
+63849,2,Server,Hardware,FedEx Office,2019-03-20 20:56:39,evening,5305519,2,True,Other,1,ITCC,1,1,Other,31382,True
+63848,2,Server,Hardware,Other,2019-03-20 16:40:17,afternoon,3699687,1,True,Christina Hanlin,1,ITCC,2,1,Other,52851,False
+63871,5,Server,Application,FedEx Ground,2019-03-21 08:34:50,morning,395016,3,False,Stephen Wolff,1,Standard,3,1,FXG_SPT_FASS_SingleSystem,8000,True

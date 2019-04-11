@@ -1,0 +1,971 @@
+Assignment group,Business service,Category,Company,Created Time,Created by,Has Parent,Impact,Major Problem,Opened by,Priority,Problem Manager,Reassignment count,Related Incidents,Type,Updates,Urgency,Duration Mean
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,15,Standard,19,3,42435.86666666667
+Other,Computer,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Mark Duncan,2,10,ITCC,32,3,545947.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,Admin-Arturo Reyes,5,Naveen Kumar,0,10,Standard,33,3,799.4
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Christophe Gurley,2,9,ITCC,24,3,435512.6
+Other,Network,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Michael Kennemer,2,6,ITCC,27,3,589960.6666666666
+Other,Server,Infrastructure,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,2,Michael Kennemer,2,6,ITCC,52,1,176569.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID5305519,True,2,False,Ashish Bisht,3,Christopher Barber,1,6,ITCC,4,2,55476.833333333336
+Other,Server,Application,FedEx Services,evening,Other,True,1,True,Sean Green,2,Terri Hamilton,3,4,ITCC,35,2,1220817.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Eli Smith,2,4,ITCC,13,3,55093.0
+Other,Server,Application,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,2,4,ITCC,12,3,16325.0
+Other,Computer,Infrastructure,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,4,Eli Smith,2,4,ITCC,15,2,9536.0
+Other,Communication Device,Application,Other,afternoon,ID973921,False,3,False,Stephen Barch,3,Christophe Gurley,1,4,Proactive,22,1,849028.2
+Other,Server,Application,FedEx Express,night,ID5163721,True,1,True,Divakar Durgapal,2,Terri Hamilton,2,4,ITCC,29,2,1288489.0
+Other,Database,Infrastructure,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,5,4,ITCC,34,2,47080.75
+Other,Computer,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Michael Kennemer,2,4,ITCC,11,3,215891.0
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Sandrina Khongjee,4,Eli Smith,2,4,ITCC,19,2,1134253.6
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,1,True,Stephen Barch,2,Christopher Barber,3,4,ITCC,29,2,1026910.0
+Other,Other,Application,FedEx Services,night,ID5163721,True,1,True,Divakar Durgapal,1,Christophe Gurley,3,4,ITCC,57,1,110287.66666666667
+Other,Server,Hardware,FedEx Express,morning,Other,True,2,True,Mandeep Khati,3,Terri Hamilton,2,4,ITCC,34,2,159749.25
+Other,Communication Device,Inquiry / Help,FedEx Office,morning,ID847287,True,3,True,Logan Simmons,5,Terri Hamilton,2,3,ITCC,30,3,1957679.25
+FSC_ITL3O2STIBCO,Database,Application,Other,afternoon,ID5069733,True,3,False,Admin-Arturo Reyes,5,Naveen Kumar,0,3,Standard,35,3,437.3333333333333
+Other,Server,Infrastructure,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,3,Standard,8,3,67215.0
+Other,Server,Inquiry / Help,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,3,ITCC,9,3,165527.75
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Terri Hamilton,2,3,ITCC,52,2,4486735.0
+Other,Computer,Application,FedEx Freight Inc.,afternoon,ID973921,True,3,True,Stephen Barch,4,Christina Hanlin,2,3,ITCC,14,2,69503.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,3,Standard,8,3,1110065.6666666667
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,4,Randall Painter,2,3,ITCC,23,2,133063.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,3,Standard,6,3,131405.66666666666
+Other,Server,Application,FedEx Services,morning,ID973921,True,1,True,Stephen Barch,2,Randall Painter,2,3,ITCC,51,2,8803.333333333334
+FSC_ITL3O2STIBCO,Computer,Application,Other,morning,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,3,Standard,6,3,857823.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,3,Standard,6,3,253814.33333333334
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,5,Brad Moore,1,2,ITCC,16,3,4215881.666666667
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,5,Terri Hamilton,1,2,ITCC,15,3,4213004.0
+Other,Server,Application,FedEx Services,morning,ID973921,False,3,True,Stephen Barch,5,Christopher Barber,2,2,ITCC,23,3,1621161.6666666667
+Other,Network,Application,FedEx Services,evening,Other,True,3,True,Sean Green,5,Christophe Gurley,3,2,ITCC,18,3,20409278.92
+Other,Server,Hardware,FedEx Services,morning,Other,True,2,True,Brad Moore,4,Christopher Barber,2,2,ITCC,17,3,796541.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,3,Naveen Kumar,0,2,Standard,11,1,1126964.0
+Other,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christophe Gurley,2,2,Standard,10,3,1230069.8333333333
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Terri Hamilton,2,2,ITCC,20,2,1803551.3333333333
+Other,Server,Application,FedEx Services,morning,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,2,2,Standard,25,2,2927445.6666666665
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,True,3,False,Naveen Kumar,5,Naveen Kumar,0,2,Standard,10,3,3547.5
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,True,3,False,Naveen Kumar,5,Naveen Kumar,0,2,Standard,10,3,4162607.0
+Other,Computer,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Terri Hamilton,2,2,ITCC,40,2,1872206.6666666667
+Other,Other,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Michael Kennemer,2,2,ITCC,14,3,1723105.3333333333
+FSC_L3WMSSTERLINGLOFT,Other,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,2,Standard,5,3,3769622.6666666665
+Other,Network,Hardware,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Brad Moore,3,2,ITCC,23,3,89885.0
+Other,Database,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,4,Christophe Gurley,2,2,ITCC,12,2,35501.333333333336
+FXS_WASDRATINGTRACKING,Server,Hardware,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,2,2,ITCC,16,2,1547290.6666666667
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Eli Smith,2,2,ITCC,12,3,511563.3333333333
+Other,Server,Application,FedEx Express,morning,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,2,2,ITCC,19,2,2148721.3333333335
+Other,Server,Hardware,TNT Express,afternoon,ID973921,True,3,True,Stephen Barch,5,Terri Hamilton,2,2,ITCC,13,3,655178.6666666666
+Other,Server,Hardware,FedEx Services,afternoon,ID973921,False,3,True,Stephen Barch,4,Randall Painter,2,2,ITCC,15,2,134168.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Other,2,2,ITCC,13,2,1066524.6666666667
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Mark Duncan,2,2,ITCC,15,3,3930600.6666666665
+Other,Network,Security,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,3,Mark Duncan,2,2,ITCC,25,2,3713689.3333333335
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Michael Kennemer,2,2,ITCC,12,3,276176.0
+Other,Database,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,2,2,ITCC,7,3,20624.0
+Other,Database,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,4,Randall Painter,2,2,ITCC,10,2,16119.0
+FXS_EIS_GLB_ProblemMgmt,Network,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Other,1,2,ITCC,6,3,983656.0
+Other,Computer,Hardware,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,4,Mark Duncan,2,2,ITCC,19,3,2107890.3333333335
+Other,Database,Inquiry / Help,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,4,Eli Smith,2,2,ITCC,7,2,429305.6666666667
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Mark Duncan,2,2,ITCC,16,3,2032630.6666666667
+Other,Server,Application,FedEx Services,evening,Other,True,2,True,Mandeep Khati,4,Mark Duncan,2,2,ITCC,51,3,1869636.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,evening,Other,True,3,True,Mandeep Khati,3,Mark Duncan,2,2,ITCC,46,1,1070813.0
+Other,Server,Hardware,FedEx Services,evening,Other,True,3,True,Anjali Sharma,5,Christophe Gurley,2,2,ITCC,8,3,216075.33333333334
+Other,Communication Device,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Christophe Gurley,3,2,ITCC,29,2,1022506.3333333334
+Other,Server,Inquiry / Help,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Eli Smith,2,2,ITCC,10,3,192106.66666666666
+Other,Network,Application,FedEx Services,afternoon,Other,True,1,False,Marconius Donahue,3,Christophe Gurley,2,2,ITCC,29,3,2304393.6666666665
+FSC_ITL3O2STIBCO,Computer,Application,Other,evening,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,2,Standard,5,3,697183.0
+Other,Communication Device,Application,FedEx Freight Inc.,morning,Other,True,3,True,Herman Holeyfield,4,Christina Hanlin,2,2,ITCC,16,2,625624.6666666666
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,afternoon,Other,True,2,True,Anjali Sharma,3,Mark Duncan,2,2,ITCC,50,2,833537.0
+Other,Server,Hardware,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Brad Moore,2,2,ITCC,14,2,15402.0
+Other,Computer,Application,FedEx Freight Inc.,evening,ID3667964,True,3,True,DZundra Green,5,Christina Hanlin,2,2,ITCC,12,3,8875.5
+Other,Server,Hardware,FedEx Services,night,ID5305519,True,3,True,Ashish Bisht,4,Terri Hamilton,3,2,ITCC,27,2,512593.3333333333
+Other,Computer,Application,FedEx Ground,morning,Other,True,3,True,Other,5,Terri Hamilton,3,2,Standard,22,3,17734.5
+Other,Network,Application,FedEx Freight Inc.,morning,Other,True,3,True,Herman Holeyfield,5,Mark Duncan,2,2,ITCC,25,3,2777295.3333333335
+Other,Computer,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,5,Brad Moore,2,2,ITCC,14,3,606689.6666666666
+Other,Server,Application,FedEx Freight Inc.,morning,ID973921,True,3,True,Stephen Barch,4,Christina Hanlin,2,2,ITCC,18,2,93235.33333333333
+Other,Server,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,2,2,ITCC,7,3,410709.6666666667
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,2,Standard,6,3,684033.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Brad Moore,2,2,ITCC,9,2,42309.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Freight Inc.,night,ID5163721,True,2,True,Divakar Durgapal,3,Christina Hanlin,1,2,ITCC,13,2,10529.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Terri Hamilton,2,2,ITCC,45,2,1048039.0
+FXS_WASDRATINGTRACKING,Other,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,2,Brad Moore,2,2,ITCC,37,1,11053.5
+Other,Server,Application,FedEx Services,night,ID3667964,True,1,True,DZundra Green,2,Christophe Gurley,5,2,ITCC,41,2,14471.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Christina Hanlin,3,2,ITCC,18,2,400300.6666666667
+Other,Other,Application,FedEx Services,evening,Other,True,3,True,Marconius Donahue,5,Randall Painter,2,2,ITCC,25,3,26863.5
+Other,Communication Device,Application,FedEx Ground,night,ID5285658,True,3,True,Shafi Ahmed,4,Michael Kennemer,2,2,ITCC,16,2,817414.3333333334
+Other,Server,Hardware,FedEx Services,evening,Other,True,2,True,Marconius Donahue,2,Christopher Barber,3,2,ITCC,17,1,93972.5
+Other,Other,Environment,FedEx Services,evening,Other,True,2,True,Marconius Donahue,2,Randall Painter,3,2,ITCC,30,1,4302.5
+Other,Database,Hardware,FedEx Ground,afternoon,ID847287,True,3,True,Logan Simmons,5,Christophe Gurley,2,2,ITCC,4,3,24701.0
+Other,Server,Hardware,FedEx Services,morning,Other,True,2,True,David Light,2,Brad Moore,3,2,ITCC,35,1,11779.5
+Other,Other,Hardware,FedEx Freight Inc.,morning,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,2,2,ITCC,8,2,18492.0
+Other,Other,Application,FedEx Services,afternoon,Other,True,3,True,Marconius Donahue,5,Christophe Gurley,2,2,ITCC,8,3,244715.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,Other,True,3,True,Sandrina Khongjee,5,Christopher Barber,1,2,ITCC,4,3,17271.0
+Other,Mainframe,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,5,Brad Moore,1,1,ITCC,7,3,1626383.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,5,Brad Moore,1,1,ITCC,6,3,812454.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Brad Moore,4,Brad Moore,1,1,ITCC,9,3,3125520.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,4,Randall Painter,2,1,ITCC,13,2,1631068.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Brad Moore,3,Terri Hamilton,1,1,ITCC,20,2,5505780.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Brad Moore,5,Randall Painter,1,1,ITCC,12,3,6371346.0
+Other,Communication Device,Hardware,FedEx Express,night,Other,True,3,False,Other,5,Eli Smith,1,1,ITCC,10,3,1880103.0
+Other,Scanner,Hardware,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Christophe Gurley,2,1,ITCC,12,3,3150236.5
+Other,Database,Application,FedEx Services,afternoon,ID5305519,True,3,False,Ashish Bisht,5,Mark Duncan,3,1,ITCC,34,3,3820637.8571428573
+Other,Database,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,88901.0
+Other,Database,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,9,3,65655.5
+Other,Network,Hardware,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Randall Painter,2,1,ITCC,21,2,3894996.5
+Other,Communication Device,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Michael Kennemer,2,1,ITCC,11,3,870098.5
+Other,Server,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Christopher Barber,2,1,ITCC,36,2,3723227.0
+Other,Network,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christophe Gurley,5,1,ITCC,16,3,1482354.5
+Other,Computer,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Eli Smith,2,1,ITCC,8,3,96159.5
+FXS_SDESK_GLB_ProblemMgmt,Server,Application,FedEx Services,evening,ID3667964,True,3,False,DZundra Green,5,Other,1,1,Standard,4,3,46686.0
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,FedEx Services,evening,ID3667964,True,3,False,DZundra Green,5,Other,1,1,Standard,5,3,81058.0
+Other,Network,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,2,Eli Smith,2,1,ITCC,21,1,350750.5
+Other,Database,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Randall Painter,2,1,ITCC,15,3,3575668.0
+Other,Database,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Michael Kennemer,2,1,ITCC,27,3,1627127.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Christophe Gurley,3,1,ITCC,17,3,5741081.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Sean Green,5,Other,0,1,Other,2,3,119363.0
+Other,Computer,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christophe Gurley,2,1,ITCC,9,3,1402517.0
+Other,Communication Device,Hardware,FedEx Services,afternoon,Other,True,3,True,Sean Green,5,Other,1,1,ITCC,4,3,318323.0
+Other,Network,Hardware,FedEx Services,evening,Other,True,3,True,Sean Green,5,Brad Moore,3,1,ITCC,15,3,4439128.5
+Other,Server,Hardware,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Eli Smith,2,1,Standard,11,3,3057155.6
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Christina Hanlin,2,1,ITCC,15,3,3293696.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Terri Hamilton,2,1,ITCC,22,2,3439.0
+Other,Network,Application,FedEx Services,evening,Other,True,3,True,Anjali Sharma,5,Christophe Gurley,2,1,Standard,12,3,1886814.5
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Christina Hanlin,2,1,ITCC,14,3,3252532.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Other,2,1,Standard,11,3,46214.0
+Other,Server,Application,FedEx Express,night,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,8,3,607173.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Randall Painter,2,1,Standard,19,3,4271566.0
+Other,Scanner,Application,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,9,3,1254621.0
+Other,Server,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Mark Duncan,3,1,ITCC,44,3,5203313.5
+Other,Computer,Application,FedEx Express,afternoon,Other,True,2,True,Brad Moore,4,Christopher Barber,2,1,ITCC,12,3,1070353.0
+Other,Database,Application,FedEx Ground,afternoon,Other,True,3,False,Other,5,Other,1,1,Standard,10,3,3889623.5
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,Other,4,Other,0,1,Standard,15,2,95144.0
+Other,Other,Hardware,FedEx Express,night,Other,True,3,True,David Light,5,Mark Duncan,3,1,ITCC,14,3,2166100.5
+Other,Network,Hardware,FedEx Ground,night,Other,True,3,True,David Light,5,Randall Painter,3,1,ITCC,20,3,4679584.5
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Other,0,1,ITCC,2,3,20656.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,4,Brad Moore,2,1,ITCC,16,3,1661433.5
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Mark Duncan,2,1,ITCC,27,3,758.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Christophe Gurley,2,1,ITCC,8,3,911287.0
+Other,Database,Inquiry / Help,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Christophe Gurley,2,1,ITCC,10,3,879182.5
+Other,Communication Device,Application,FedEx Express,morning,ID5285658,True,3,False,Shafi Ahmed,5,Other,2,1,Standard,12,3,4166.0
+Other,Computer,Network,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,2,1,ITCC,15,3,836703.6666666666
+Other,Server,Application,FedEx Ground,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Michael Kennemer,2,1,ITCC,18,3,1209976.0
+Other,Server,Application,FedEx Ground,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Other,2,1,ITCC,9,3,21033.0
+Other,Scanner,Application,FedEx Services,morning,ID5285658,True,3,False,Shafi Ahmed,5,Michael Kennemer,2,1,Standard,12,3,961620.0
+Other,Server,Hardware,FedEx Services,morning,ID973921,False,3,True,Stephen Barch,5,Christophe Gurley,2,1,ITCC,10,3,1517318.5
+Other,Network,Application,FedEx Services,evening,Other,True,3,True,Anjali Sharma,4,Randall Painter,2,1,ITCC,11,2,2165.0
+Other,Database,Application,FedEx Services,evening,Other,True,3,True,Anjali Sharma,5,Mark Duncan,2,1,ITCC,33,3,3990417.5
+Other,Server,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Eli Smith,2,1,ITCC,8,3,614115.0
+Other,Database,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Michael Kennemer,2,1,ITCC,19,3,1222176.0
+Other,Server,Application,FedEx Express,morning,Other,True,3,True,Herman Holeyfield,5,Christophe Gurley,2,1,ITCC,8,3,1235235.5
+Other,Server,Application,FedEx Services,morning,Other,True,3,True,Other,4,Other,2,1,ITCC,11,2,634876.5
+Other,Server,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,4,Michael Kennemer,2,1,ITCC,9,3,898823.5
+Other,Server,Hardware,FedEx Services,morning,Other,True,1,True,Brad Moore,3,Christopher Barber,2,1,ITCC,9,3,593496.5
+Other,Server,Application,FedEx Services,morning,Other,True,1,True,Brad Moore,3,Brad Moore,2,1,ITCC,9,3,593129.0
+Other,Server,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,4,Brad Moore,4,1,ITCC,11,3,592778.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Brad Moore,1,1,ITCC,6,3,807702.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Brad Moore,1,1,ITCC,6,3,591456.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,3,True,Brad Moore,5,Brad Moore,1,1,ITCC,7,3,813513.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,4,Brad Moore,1,1,ITCC,8,3,596444.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,1,True,Brad Moore,3,Brad Moore,1,1,ITCC,9,3,596680.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,4,Brad Moore,1,1,ITCC,7,3,811274.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,afternoon,Other,True,2,True,Brad Moore,4,Brad Moore,1,1,ITCC,7,3,598768.0
+Other,Network,Hardware,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Brad Moore,2,1,ITCC,13,3,3613003.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Brad Moore,3,Christopher Barber,1,1,ITCC,21,2,4382665.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,2,False,Admin-Arturo Reyes,3,Naveen Kumar,0,1,Standard,29,2,259.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,Admin-Arturo Reyes,5,Naveen Kumar,0,1,Standard,63,3,241.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Terri Hamilton,3,1,ITCC,18,3,3215399.5
+Other,Server,Inquiry / Help,FedEx Services,evening,Other,True,3,True,Anjali Sharma,5,Mark Duncan,2,1,ITCC,33,3,1956064.5
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,5,Eli Smith,3,1,ITCC,15,3,310246.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Other,1,1,Standard,6,3,14105.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,David Light,5,Eli Smith,2,1,ITCC,12,3,305629.0
+Other,Server,Hardware,FedEx Services,morning,ID973921,False,2,True,Stephen Barch,3,Christopher Barber,2,1,ITCC,15,2,2926441.5
+Other,Server,Application,FedEx Express,morning,Other,True,3,True,Herman Holeyfield,5,Michael Kennemer,2,1,ITCC,14,3,792118.5
+Other,Server,Application,FedEx Express,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christophe Gurley,2,1,ITCC,10,3,136123.5
+Other,Server,Hardware,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,5,Michael Kennemer,2,1,ITCC,20,3,3143898.0
+Other,Scanner,Hardware,FedEx Ground,night,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,Standard,13,3,265924.5
+Other,Server,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Brad Moore,2,1,Standard,10,3,3380317.5
+Other,Server,Hardware,FedEx Services,morning,ID836059,True,3,False,Khouri Mitchell,5,Other,2,1,ITCC,4,3,19352748.0
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Mark Duncan,2,1,ITCC,15,3,5184180.0
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,2,1,ITCC,8,3,2705506.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Sean Green,3,Randall Painter,2,1,ITCC,14,2,2095.0
+Other,Network,Hardware,FedEx Ground,night,ID5285658,True,3,False,Shafi Ahmed,5,Other,0,1,Other,2,3,44677.0
+Other,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Other,2,1,Standard,22,3,1802462.0
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,5,Other,2,1,ITCC,8,3,2304.0
+Other,Server,Hardware,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christophe Gurley,2,1,ITCC,10,3,947445.5
+Other,Computer,Application,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Mark Duncan,4,1,ITCC,55,2,8215017.5
+Other,Server,Application,FedEx Express,morning,ID5285658,False,3,True,Shafi Ahmed,5,Michael Kennemer,2,1,Standard,15,3,400765.0
+Other,Mainframe,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,2,1,ITCC,10,3,199231.5
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,2,Randall Painter,2,1,ITCC,30,1,1387.0
+Other,Server,Inquiry / Help,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Eli Smith,2,1,ITCC,12,3,408962.5
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,7,3,101991.5
+Other,Server,Application,FedEx Express,morning,ID5285658,True,1,True,Shafi Ahmed,3,Terri Hamilton,2,1,Standard,22,3,2478637.5
+Other,Server,Application,FedEx Ground,afternoon,Other,True,1,True,Anjali Sharma,3,Brad Moore,2,1,ITCC,20,3,1646997.0
+Other,Network,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Randall Painter,2,1,ITCC,11,3,5377.0
+Other,Server,Application,FedEx Express,afternoon,Other,True,1,True,Anjali Sharma,2,Christopher Barber,2,1,ITCC,24,2,909558.5
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Christina Hanlin,2,1,ITCC,16,3,336765.5
+Other,Computer,Application,FedEx Services,evening,Other,True,3,True,Anjali Sharma,5,Eli Smith,2,1,ITCC,10,3,57558.5
+Other,Database,Application,FedEx Ground,evening,Other,True,3,True,Anjali Sharma,5,Terri Hamilton,2,1,ITCC,14,3,1814804.0
+Other,Server,Application,FedEx Express,morning,ID836059,True,1,True,Khouri Mitchell,3,Brad Moore,2,1,ITCC,15,3,948837.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Christina Hanlin,2,1,ITCC,9,2,7984.0
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Eli Smith,2,1,ITCC,11,3,244447.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,1,True,Logan Simmons,3,Christophe Gurley,2,1,ITCC,11,3,780209.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,3,Michael Kennemer,2,1,ITCC,23,2,8117973.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,1,True,DZundra Green,2,Mark Duncan,2,1,ITCC,29,2,619133.0
+Other,Database,Application,FedEx Services,night,Other,True,3,True,David Light,5,Mark Duncan,2,1,ITCC,18,3,8032649.5
+Other,Communication Device,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,5,Randall Painter,2,1,ITCC,14,3,22033.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Express,morning,Other,True,3,True,David Light,5,Mark Duncan,4,1,ITCC,14,3,172010.0
+Other,Server,Application,FedEx Ground,afternoon,Other,True,3,False,Other,5,Other,1,1,Standard,10,3,2204472.0
+Other,Network,Application,FedEx Services,night,Other,True,3,True,David Light,5,Michael Kennemer,2,1,ITCC,14,3,2557776.5
+Other,Server,Application,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Christophe Gurley,2,1,ITCC,7,3,6210.0
+Other,Scanner,Application,TNT Express,morning,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,Standard,15,3,39933.5
+Other,Computer,Application,FedEx Freight Inc.,morning,Other,True,3,True,David Light,5,Eli Smith,2,1,ITCC,10,3,912532.0
+Other,Server,Application,FedEx Services,morning,ID973921,False,3,True,Stephen Barch,5,Eli Smith,2,1,ITCC,10,3,188181.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,1,True,DZundra Green,2,Mark Duncan,3,1,ITCC,23,2,1517690.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Eli Smith,2,1,ITCC,9,3,549492.5
+Other,Network,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Other,2,1,ITCC,10,3,2147710.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Christopher Barber,2,1,ITCC,9,3,47145.5
+Other,Scanner,Application,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,17,3,8778068.0
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Christopher Barber,2,1,ITCC,13,2,2968961.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,3,1,ITCC,21,2,2663572.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,David Light,5,Christina Hanlin,2,1,ITCC,18,3,1768458.0
+Other,Network,Application,Other,night,Other,True,2,True,Sean Green,4,Terri Hamilton,1,1,ITCC,17,3,2557557.5
+Other,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Brad Moore,2,1,ITCC,9,3,3562.0
+Other,Mainframe,Application,FedEx Express,morning,ID836059,True,3,True,Khouri Mitchell,5,Michael Kennemer,3,1,ITCC,9,3,1689546.5
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Michael Kennemer,2,1,ITCC,10,3,2260998.0
+Other,Server,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Christophe Gurley,3,1,ITCC,9,3,288615.5
+Other,Server,Application,FedEx Services,morning,Other,True,3,False,Other,5,Other,1,1,Standard,3,3,252296.0
+Other,Mainframe,Hardware,FedEx Express,afternoon,ID973921,True,3,True,Stephen Barch,3,Christophe Gurley,2,1,ITCC,14,1,1383244.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Ground,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Brad Moore,1,1,ITCC,5,3,21452.0
+Other,Server,Hardware,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Mark Duncan,2,1,ITCC,41,2,2529937.5
+Other,Server,Application,FedEx Services,night,Other,True,2,True,Other,4,Christopher Barber,2,1,ITCC,10,3,86006.0
+Other,Computer,Application,Other,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,319454.0
+Other,Network,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Eli Smith,2,1,ITCC,24,3,595939.0
+Other,Server,Application,FedEx Services,night,ID5305519,True,3,True,Ashish Bisht,3,Randall Painter,2,1,ITCC,40,1,3358129.0
+Other,Computer,Inquiry / Help,FedEx Freight Inc.,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Brad Moore,2,1,ITCC,9,3,2498372.5
+Other,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,ITCC,6,3,45175.0
+Other,Scanner,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,1,Proactive,4,3,91131.0
+Other,Scanner,Hardware,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,4,Christophe Gurley,2,1,ITCC,14,2,133078.0
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Other,2,1,ITCC,4,3,511229.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,4,Other,0,1,Standard,7,2,5645.0
+Other,Server,Application,FedEx Services,morning,Other,True,3,True,Herman Holeyfield,5,Eli Smith,2,1,ITCC,7,3,557660.0
+Other,Database,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,2,1,ITCC,8,3,1472306.0
+Other,Network,Application,FedEx Services,night,Other,True,3,True,Sean Green,5,Randall Painter,2,1,ITCC,10,3,34038.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christina Hanlin,2,1,ITCC,12,3,1435798.0
+Other,Server,Application,FedEx Services,night,ID5285658,True,2,True,Shafi Ahmed,3,Christophe Gurley,2,1,ITCC,13,2,2570200.5
+Other,Network,Hardware,FedEx Office,night,Other,True,2,True,David Light,3,Terri Hamilton,2,1,ITCC,23,2,1365945.5
+Other,Server,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,1,Standard,6,3,97013.5
+Other,Network,Application,FedEx Services,morning,ID836059,True,2,True,Khouri Mitchell,3,Christopher Barber,2,1,ITCC,19,2,2493753.0
+Other,Network,Hardware,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Brad Moore,2,1,Standard,6,3,225349.0
+FSC_ITL3O2STIBCO,Server,Application,Other,morning,Other,True,3,False,Naveen Kumar,4,Naveen Kumar,0,1,Standard,7,2,1282798.0
+Other,Server,Inquiry / Help,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Michael Kennemer,2,1,ITCC,13,2,2869312.5
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,9,3,52901.0
+Other,Scanner,Hardware,FedEx Services,morning,Other,True,3,True,Herman Holeyfield,4,Christophe Gurley,2,1,ITCC,19,2,139467.5
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Brad Moore,2,1,ITCC,17,3,1736107.5
+Other,Server,Application,FedEx Services,night,ID3667964,True,2,True,DZundra Green,3,Christina Hanlin,2,1,ITCC,29,2,8768234.5
+Other,Database,Application,FedEx Services,evening,Other,True,3,True,Sean Green,5,Mark Duncan,4,1,ITCC,13,3,610359.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Mark Duncan,2,1,ITCC,26,3,2961963.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Sean Green,5,Eli Smith,2,1,ITCC,20,3,3479418.5
+Other,Network,Inquiry / Help,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,1,Standard,5,3,889267.0
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Mark Duncan,2,1,ITCC,33,3,1298481.5
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,3,Christophe Gurley,3,1,ITCC,16,1,3162156.5
+Other,Server,Hardware,FedEx Services,night,Other,True,2,True,Sean Green,3,Christopher Barber,2,1,ITCC,13,2,3416219.0
+Other,Computer,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,Standard,4,3,39501.5
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,3,Christophe Gurley,2,1,ITCC,9,1,423439.0
+Other,Network,Hardware,FedEx Services,night,Other,True,3,True,David Light,5,Terri Hamilton,2,1,ITCC,18,3,424078.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID973921,True,3,False,Stephen Barch,5,Eli Smith,1,1,ITCC,5,3,2829.0
+Other,Scanner,Hardware,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Michael Kennemer,2,1,ITCC,12,3,715805.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,4,Christophe Gurley,2,1,ITCC,12,2,429313.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,5,3,56721.0
+Other,Network,Application,FedEx Express,night,ID3667964,True,3,True,DZundra Green,5,Michael Kennemer,2,1,ITCC,14,3,375372.0
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,2,1,ITCC,7,3,74621.0
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,4,Randall Painter,2,1,ITCC,26,2,2503.0
+Other,Server,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christophe Gurley,2,1,ITCC,14,2,379452.5
+Other,Server,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christophe Gurley,2,1,ITCC,12,2,384589.0
+Other,Server,Hardware,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,4,Terri Hamilton,2,1,ITCC,13,3,1835528.0
+Other,Communication Device,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Michael Kennemer,3,1,ITCC,11,3,2476690.5
+Other,Server,Application,FedEx Services,night,Other,True,2,True,David Light,3,Michael Kennemer,4,1,ITCC,39,2,2202693.0
+Other,Scanner,Hardware,FedEx Ground,morning,Other,True,3,False,Other,5,Other,2,1,Standard,11,3,7179.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,2,1,ITCC,13,2,2061331.5
+Other,Server,Application,FedEx Express,afternoon,ID847287,True,3,True,Logan Simmons,5,Eli Smith,2,1,ITCC,12,3,1074595.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christophe Gurley,2,1,ITCC,6,3,284515.5
+Other,Database,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christina Hanlin,3,1,ITCC,22,2,9633.0
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,4,Christina Hanlin,2,1,ITCC,12,3,3599.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Mark Duncan,2,1,ITCC,29,2,830817.0
+Other,Computer,Application,FedEx Office,night,Other,True,3,True,Other,4,Christina Hanlin,4,1,ITCC,19,2,7728.0
+Other,Server,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Mark Duncan,3,1,Standard,25,3,7687154.5
+Other,Server,Hardware,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,4,Mark Duncan,2,1,ITCC,15,2,1615574.0
+Other,Server,Application,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,4,Christophe Gurley,2,1,ITCC,9,2,130794.5
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,3,Christophe Gurley,3,1,ITCC,13,1,1932584.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,TNT Express,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,Standard,5,3,4048.0
+Other,Network,Application,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,4,Terri Hamilton,2,1,ITCC,19,3,1480682.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Mark Duncan,2,1,ITCC,52,2,6532726.0
+Other,Network,Hardware,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christopher Barber,2,1,ITCC,7,3,1754909.0
+Other,Computer,Application,FedEx Express,night,Other,True,3,True,David Light,5,Christopher Barber,2,1,ITCC,10,3,781056.0
+Other,Network,Application,FedEx Express,morning,ID973921,True,2,True,Stephen Barch,4,Terri Hamilton,2,1,ITCC,17,3,352844.5
+Other,Scanner,Inquiry / Help,Other,morning,Other,False,3,False,Michael Olton,5,Other,1,1,Standard,3,3,71418.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Other,1,1,ITCC,4,3,167104.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Eli Smith,2,1,ITCC,6,3,1146463.5
+Other,Server,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Mark Duncan,2,1,ITCC,12,3,897550.5
+Other,Server,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,4,Randall Painter,2,1,ITCC,23,2,35433.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Mark Duncan,2,1,ITCC,14,3,853790.5
+Other,Server,Application,FedEx Ground,morning,Other,True,3,True,Herman Holeyfield,4,Eli Smith,2,1,ITCC,6,2,44272.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Randall Painter,1,1,ITCC,17,2,5183.0
+Other,Server,Hardware,FedEx Express,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,2,1,ITCC,15,2,1046063.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Christina Hanlin,2,1,ITCC,19,2,18425.0
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,6,3,284268.0
+Other,Network,Hardware,FedEx Services,afternoon,Other,True,3,True,Sean Green,5,Christophe Gurley,2,1,ITCC,7,3,31397.5
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,Other,True,3,False,Naveen Kumar,5,Naveen Kumar,0,1,Standard,8,3,17827.0
+FXS_WASDRATINGTRACKING,Network,Application,FedEx Services,evening,Other,True,2,True,Anjali Sharma,3,Christopher Barber,5,1,ITCC,21,2,2207697.0
+Other,Database,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,1,Standard,4,3,104142.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,3,Christophe Gurley,2,1,ITCC,12,1,1291131.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Other,2,1,ITCC,18,2,2161248.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,6,3,217756.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,3,Mark Duncan,2,1,ITCC,27,2,630353.5
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,4,Christophe Gurley,2,1,ITCC,7,2,929647.0
+Other,Server,Application,FedEx Services,morning,Other,True,3,False,Other,5,Other,1,1,Standard,5,3,3969816.0
+Other,Other,Inquiry / Help,Other,morning,Other,False,3,False,Michael Olton,5,Other,1,1,Standard,4,3,157406.5
+Other,Server,Hardware,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Randall Painter,2,1,ITCC,13,3,7485.0
+Other,Server,Application,FedEx Services,night,Other,True,2,True,Nivedita Roy,4,Christopher Barber,2,1,ITCC,10,3,1140846.5
+Other,Server,Hardware,FedEx Express,morning,ID5285658,True,3,True,Shafi Ahmed,4,Michael Kennemer,2,1,Standard,10,2,644464.5
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Christina Hanlin,4,1,ITCC,20,3,2657.0
+Other,Server,Application,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,5,Mark Duncan,2,1,ITCC,20,3,6568383.5
+Other,Computer,Application,FedEx Freight Inc.,afternoon,ID836059,True,3,True,Khouri Mitchell,4,Michael Kennemer,2,1,ITCC,18,2,98602.0
+Other,Database,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,Standard,7,3,331611.5
+Other,Network,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,2,1,ITCC,10,3,680368.5
+Other,Network,Hardware,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,4,Eli Smith,2,1,ITCC,10,3,173466.0
+Other,Server,Application,FedEx Services,night,ID5305519,True,3,True,Ashish Bisht,5,Christophe Gurley,2,1,ITCC,11,3,726068.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,TNT Express,afternoon,ID3667964,True,3,True,DZundra Green,5,Other,1,1,ITCC,5,3,414979.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,7,3,349422.0
+Other,Server,Hardware,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Other,2,1,ITCC,13,3,2363735.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,3,True,David Light,5,Other,1,1,ITCC,4,3,5691.0
+Other,Scanner,Application,TNT Express,morning,ID973921,True,3,True,Stephen Barch,5,Terri Hamilton,2,1,ITCC,11,3,1462617.5
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Michael Kennemer,2,1,ITCC,20,2,770444.5
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Michael Kennemer,2,1,ITCC,8,3,1102499.5
+Other,Server,Hardware,FedEx Services,morning,ID5285658,True,3,False,Shafi Ahmed,5,Other,0,1,Other,1,3,4132609.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,ID5285658,True,3,False,Shafi Ahmed,5,Other,1,1,ITCC,5,3,1813465.0
+Other,Server,Hardware,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Christophe Gurley,2,1,ITCC,19,3,6998384.5
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christophe Gurley,2,1,ITCC,13,3,328207.0
+Other,Network,Application,FedEx Services,morning,ID5163721,True,2,True,Divakar Durgapal,4,Mark Duncan,2,1,ITCC,14,3,531178.5
+Other,Server,Application,TNT Express,morning,ID5163721,True,3,True,Divakar Durgapal,5,Christina Hanlin,2,1,ITCC,25,3,784406.0
+Other,Computer,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,7,3,57874.0
+FXS_WASDRATINGTRACKING,Network,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,4,Christophe Gurley,2,1,ITCC,13,2,1599552.0
+Other,Server,Hardware,FedEx Services,afternoon,ID5285658,True,2,True,Shafi Ahmed,4,Christopher Barber,2,1,Standard,11,3,675773.0
+Other,Server,Application,FedEx Services,afternoon,ID5285658,True,2,True,Shafi Ahmed,4,Terri Hamilton,2,1,Standard,13,3,415898.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,2,False,Khouri Mitchell,4,Christopher Barber,2,1,ITCC,9,3,676225.5
+Other,Server,Hardware,FedEx Ground,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Eli Smith,2,1,ITCC,5,3,314009.5
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Sathya Easwaran,4,Other,0,1,Standard,8,2,2060581.0
+Other,Network,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Randall Painter,2,1,Standard,12,3,21830.0
+Other,Computer,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Mark Duncan,3,1,ITCC,22,3,6387512.5
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Eli Smith,2,1,ITCC,7,3,594994.5
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Mark Duncan,2,1,ITCC,18,3,6627456.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Other,1,1,ITCC,5,3,1830231.0
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Other,1,1,ITCC,5,3,396484.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Other,1,1,ITCC,5,3,1000246.0
+Other,Server,Application,FedEx Services,morning,Other,True,1,False,Other,3,Brad Moore,3,1,Standard,14,3,574152.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,5,3,6446.0
+Other,Network,Hardware,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,5,Other,0,1,Other,1,3,8602.0
+Other,Communication Device,Application,FedEx Freight Inc.,afternoon,ID3667964,True,2,True,DZundra Green,4,Terri Hamilton,2,1,ITCC,8,3,1941516.0
+Other,Communication Device,Application,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,7,3,8828.0
+Other,Server,Application,FedEx Services,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,134178.5
+Other,Network,Hardware,FedEx Services,morning,ID836059,True,1,True,Khouri Mitchell,3,Brad Moore,2,1,ITCC,34,3,4724.0
+Other,Computer,Hardware,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,4,Mark Duncan,2,1,ITCC,18,3,2204367.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,2,1,ITCC,18,2,2544646.5
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Christophe Gurley,2,1,ITCC,9,2,420732.5
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Christophe Gurley,2,1,ITCC,9,2,74910.0
+Other,Server,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,2,1,ITCC,9,3,139290.5
+Other,Server,Application,FedEx Services,morning,Other,True,3,True,David Light,5,Michael Kennemer,2,1,ITCC,12,3,581389.0
+Other,Server,Inquiry / Help,FedEx Services,morning,ID836059,True,3,False,Khouri Mitchell,5,Christopher Barber,2,1,ITCC,20,3,2691333.5
+Other,Server,Infrastructure,FedEx Ground,evening,Other,True,2,True,Anjali Sharma,4,Terri Hamilton,3,1,ITCC,28,3,15349.0
+Other,Scanner,Hardware,FedEx Office,afternoon,Other,True,3,False,Other,5,Other,0,1,Other,1,3,4265.0
+Other,Computer,Application,FedEx Ground,afternoon,ID836059,True,2,True,Khouri Mitchell,4,Eli Smith,2,1,ITCC,13,3,129612.5
+Other,Scanner,Hardware,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Michael Kennemer,2,1,ITCC,14,3,684774.0
+Other,Network,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,4,Mark Duncan,2,1,ITCC,16,2,3092854.5
+Other,Server,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Mark Duncan,4,1,Standard,15,2,6077907.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christina Hanlin,2,1,ITCC,6,3,2043.0
+Other,Server,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Christina Hanlin,2,1,Standard,12,2,3247.0
+Other,Computer,Application,FedEx Express,morning,ID836059,True,2,True,Khouri Mitchell,3,Christina Hanlin,2,1,ITCC,52,2,95712.0
+Other,Computer,Hardware,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,4,Christophe Gurley,3,1,ITCC,18,2,844559.0
+Other,Network,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Terri Hamilton,2,1,ITCC,17,3,6537313.5
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,night,Other,True,3,True,David Light,5,Christopher Barber,1,1,ITCC,6,3,4879.0
+Other,Network,Hardware,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,2,1,ITCC,13,3,1202.0
+Other,Database,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,1,Standard,2,3,40880.0
+Other,Communication Device,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Randall Painter,2,1,Standard,12,2,256499.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Terri Hamilton,2,1,ITCC,15,3,909626.0
+Other,Server,Application,FedEx Services,night,Other,True,2,True,Nivedita Roy,4,Eli Smith,2,1,ITCC,9,3,304211.0
+Other,Scanner,Application,FedEx Ground,afternoon,Other,True,3,False,Other,5,Other,1,1,Standard,8,3,562561.0
+Other,Network,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Michael Kennemer,2,1,ITCC,11,3,379815.5
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,6,3,327776.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Brad Moore,3,1,ITCC,10,3,5927991.0
+Other,Server,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Christophe Gurley,2,1,ITCC,9,2,1087125.0
+Other,Database,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Michael Kennemer,2,1,ITCC,14,2,795722.0
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Terri Hamilton,2,1,ITCC,16,3,311867.0
+Other,Server,Application,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,3,Randall Painter,2,1,ITCC,23,1,4618.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Christophe Gurley,3,1,ITCC,36,2,101074.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,2,1,ITCC,17,2,1948611.5
+Other,Network,Application,FedEx Ground,afternoon,Other,True,3,False,Other,5,Other,1,1,Standard,8,3,731007.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Christopher Barber,2,1,ITCC,9,3,889160.5
+Other,Server,Hardware,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,4,Eli Smith,2,1,ITCC,6,3,413704.0
+Other,Communication Device,Application,FedEx Express,morning,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,ITCC,7,3,153930.5
+Other,Communication Device,Hardware,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,5,Eli Smith,2,1,ITCC,4,3,185598.5
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,4,Christophe Gurley,2,1,ITCC,10,2,239397.0
+Other,Network,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Terri Hamilton,2,1,ITCC,13,3,314712.0
+Other,Computer,Hardware,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,5,Other,0,1,Other,1,3,797352.0
+Other,Communication Device,Application,FedEx Ground,afternoon,Other,True,3,False,Other,5,Other,0,1,Other,1,3,40523.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,4,Randall Painter,1,1,ITCC,15,3,3277016.5
+Other,Server,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,4,Michael Kennemer,2,1,ITCC,12,2,449484.0
+Other,Communication Device,Application,FedEx Express,night,Other,True,3,True,David Light,4,Mark Duncan,2,1,ITCC,21,2,5285032.0
+Other,Other,Application,FedEx Freight Inc.,night,Other,True,1,True,Herman Holeyfield,3,Brad Moore,2,1,ITCC,18,3,21621.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christina Hanlin,5,1,ITCC,30,2,7477.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,2,1,ITCC,39,2,6190202.0
+FSC_ITL3O2STIBCO,Server,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,1,Standard,4,3,200442.0
+Other,Network,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Randall Painter,2,1,ITCC,21,2,12067.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Anjali Sharma,3,Christopher Barber,2,1,ITCC,23,2,9353893.0
+Other,Network,Application,FedEx Services,afternoon,Other,True,3,False,Other,5,Christophe Gurley,1,1,ITCC,19,3,1226304.6666666667
+Other,Database,Infrastructure,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,3,1,ITCC,18,2,1631442.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,4,Terri Hamilton,2,1,ITCC,16,2,32664.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Other,4,Christophe Gurley,1,1,ITCC,24,2,239161.0
+Other,Network,Application,FedEx Express,morning,Other,True,3,True,David Light,4,Eli Smith,2,1,ITCC,9,2,256187.0
+Other,Network,Application,FedEx Express,morning,ID847287,True,2,True,Logan Simmons,3,Terri Hamilton,2,1,ITCC,34,2,1826320.5
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,night,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,4,3,20059.0
+Other,Communication Device,Application,FedEx Express,night,Other,True,3,True,Nivedita Roy,4,Eli Smith,2,1,ITCC,9,2,249172.0
+Other,Network,Application,FedEx Ground,night,ID5163721,True,2,True,Divakar Durgapal,3,Mark Duncan,2,1,ITCC,30,2,479315.5
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Mandeep Khati,4,Christina Hanlin,2,1,ITCC,14,2,11561.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Mark Duncan,4,1,ITCC,57,2,5130654.5
+Other,Database,Application,FedEx Services,night,Other,True,3,True,Herman Holeyfield,5,Other,0,1,Other,2,3,107226.0
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Mandeep Khati,4,Christina Hanlin,2,1,ITCC,13,2,5670.0
+Other,Server,Application,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,4,Christopher Barber,2,1,ITCC,23,3,9210767.0
+Other,Network,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Terri Hamilton,2,1,ITCC,16,3,715277.5
+Other,Database,Application,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,12,3,665453.0
+Other,Server,Application,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,2,1,ITCC,6,3,431313.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,3,Randall Painter,2,1,ITCC,27,1,4368839.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,False,Divakar Durgapal,4,Michael Kennemer,3,1,ITCC,16,2,1672340.5
+Other,Database,Inquiry / Help,FedEx Express,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Christina Hanlin,2,1,ITCC,10,2,112206.0
+FXS_EIS_GLB_ProblemMgmt,Database,Application,TNT Express,evening,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,5,3,113363.0
+Other,Network,Hardware,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,5,3,312121.5
+Other,Network,Inquiry / Help,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Brad Moore,3,1,ITCC,8,3,5131779.5
+Other,Server,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Terri Hamilton,2,1,ITCC,19,2,1159.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,5,Christophe Gurley,3,1,ITCC,8,3,16555.0
+Other,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Other,0,1,Standard,3,3,88272.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,Other,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,5,3,6797.0
+Other,Computer,Application,FedEx Ground,night,ID3667964,True,2,True,DZundra Green,4,Christophe Gurley,2,1,ITCC,7,3,1061197.5
+Other,Computer,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,7,3,33836.0
+Other,Computer,Application,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,4,Eli Smith,5,1,ITCC,16,3,165121.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,1,True,Logan Simmons,3,Brad Moore,4,1,ITCC,39,3,68673.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,4,Christophe Gurley,2,1,ITCC,12,2,905352.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,TNT Express,evening,ID3667964,True,3,True,DZundra Green,5,Eli Smith,1,1,ITCC,6,3,15238.0
+FXS_EIS_GLB_ProblemMgmt,Server,Inquiry / Help,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,4,Randall Painter,1,1,ITCC,10,2,2709.0
+Other,Communication Device,Application,FedEx Office,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Mark Duncan,4,1,ITCC,23,2,4657659.0
+Other,Scanner,Application,FedEx Ground,evening,ID5163721,True,2,True,Divakar Durgapal,4,Other,2,1,ITCC,16,3,956342.0
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,4,Terri Hamilton,2,1,ITCC,34,2,10322.0
+Other,Computer,Application,FedEx Ground,night,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,5,3,2440.0
+Other,Scanner,Security,FedEx Services,morning,Other,True,2,True,David Light,3,Mark Duncan,2,1,ITCC,47,2,4584006.5
+Other,Communication Device,Application,FedEx Ground,morning,Other,True,3,True,Herman Holeyfield,3,Randall Painter,2,1,ITCC,27,1,146332.0
+Other,Server,Application,FedEx Services,evening,ID5163721,True,2,True,Divakar Durgapal,3,Michael Kennemer,2,1,ITCC,51,2,4778255.5
+Other,Network,Network,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,4,Mark Duncan,2,1,ITCC,20,2,4714048.5
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Mandeep Khati,4,Christophe Gurley,2,1,ITCC,10,2,276331.5
+Other,Communication Device,Application,Other,morning,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,5,3,3123.0
+Other,Network,Hardware,FedEx Express,morning,Other,True,3,True,Herman Holeyfield,4,Michael Kennemer,2,1,ITCC,12,2,197798.0
+Other,Server,Security,FedEx Services,afternoon,ID5163721,True,3,True,Divakar Durgapal,4,Terri Hamilton,2,1,ITCC,24,2,1138782.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Other,2,1,ITCC,12,3,71172.0
+Other,Server,Security,FedEx Express,afternoon,ID5285658,True,2,True,Shafi Ahmed,3,Mark Duncan,2,1,ITCC,25,2,4662080.5
+Other,Server,Inquiry / Help,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,3,Christophe Gurley,2,1,ITCC,17,1,1208058.0
+Other,Communication Device,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Mark Duncan,2,1,ITCC,17,2,4699912.0
+Other,Server,Application,FedEx Services,night,ID5305519,True,3,True,Ashish Bisht,4,Randall Painter,2,1,ITCC,17,2,1598.0
+Other,Database,Application,FedEx Express,morning,ID5163721,True,3,True,Divakar Durgapal,4,Other,2,1,ITCC,18,2,749680.0
+Other,Communication Device,Security,FedEx Services,morning,Other,True,3,True,Nivedita Roy,4,Brad Moore,2,1,ITCC,13,2,1311239.5
+Other,Computer,Security,FedEx Freight Inc.,afternoon,ID3667964,True,2,True,DZundra Green,3,Christina Hanlin,2,1,ITCC,40,2,177311.0
+Other,Computer,Hardware,FedEx Freight Inc.,morning,ID973921,True,3,True,Stephen Barch,4,Christina Hanlin,2,1,ITCC,13,2,393015.5
+Other,Computer,Application,FedEx Express,morning,ID836059,True,3,True,Khouri Mitchell,4,Michael Kennemer,2,1,ITCC,15,2,180993.0
+Other,Mainframe,Application,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Terri Hamilton,2,1,ITCC,14,2,1306238.5
+Other,Network,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,4,Michael Kennemer,2,1,ITCC,12,2,729194.0
+Other,Communication Device,Application,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Christina Hanlin,2,1,ITCC,16,2,998661.0
+Other,Server,Security,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Brad Moore,4,1,ITCC,30,2,4567190.5
+Other,Server,Application,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,5,Michael Kennemer,2,1,ITCC,13,3,752164.5
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,evening,Other,False,3,False,Sathya Easwaran,5,Other,0,1,Standard,9,3,1528.0
+Other,Server,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Brad Moore,3,1,ITCC,13,3,5869.0
+Other,Network,Inquiry / Help,FedEx Services,evening,Other,True,3,True,Marconius Donahue,4,Mark Duncan,2,1,ITCC,12,2,1495218.0
+Other,Server,Application,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,4,Michael Kennemer,2,1,ITCC,13,2,680285.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,TNT Express,morning,Other,True,3,True,Nivedita Roy,5,Eli Smith,1,1,ITCC,5,3,25948.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christina Hanlin,3,1,ITCC,32,2,70475.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Brad Moore,2,1,ITCC,6,3,7707.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,TNT Express,night,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,1,1,ITCC,5,2,4325.0
+Other,Communication Device,Application,FedEx Express,night,Other,True,3,False,Other,5,Other,0,1,Other,1,3,1832079.0
+Other,Database,Security,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,3,Michael Kennemer,2,1,ITCC,14,1,484159.5
+Other,Server,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,9,3,5066353.5
+Other,Computer,Application,FedEx Express,morning,ID847287,True,3,True,Logan Simmons,4,Terri Hamilton,2,1,ITCC,23,2,4284214.5
+Other,Database,Infrastructure,FedEx Services,night,Other,True,3,True,Mandeep Khati,4,Randall Painter,2,1,ITCC,16,2,3837.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,3,1,ITCC,8,3,91545.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,3,Christophe Gurley,3,1,ITCC,20,1,2217272.5
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Other,0,1,Standard,8,3,115073.0
+Other,Server,Application,FedEx Services,morning,Other,True,2,True,Mandeep Khati,4,Christopher Barber,2,1,ITCC,18,3,3043878.5
+Other,Network,Application,FedEx Services,morning,Other,True,3,True,Mandeep Khati,4,Christina Hanlin,2,1,ITCC,15,2,3936713.5
+Other,Network,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,4,Terri Hamilton,2,1,ITCC,42,2,6767.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,4,3,52875.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,4,3,1488941.0
+Other,Computer,Security,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Brad Moore,2,1,ITCC,12,3,744390.5
+Other,Database,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,2,1,ITCC,23,2,4677521.5
+Other,Server,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Randall Painter,2,1,ITCC,16,2,34147.0
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,4,3,89791.0
+Other,Network,Application,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Christopher Barber,3,1,ITCC,20,2,6308969.5
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,4,3,5174.0
+Other,Communication Device,Network,FedEx Services,night,Other,True,3,True,Nivedita Roy,4,Christophe Gurley,2,1,ITCC,10,2,27111.5
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,5,3,3539.0
+Other,Communication Device,Application,FedEx Services,morning,Other,True,3,True,David Light,5,Christophe Gurley,3,1,ITCC,9,3,1611241.5
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Anjali Sharma,4,Christina Hanlin,3,1,ITCC,14,2,4244.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,Proactive,5,3,82238.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,evening,Other,False,3,False,Naveen Kumar,4,Naveen Kumar,1,1,Standard,5,2,1225116.0
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Sean Green,4,Christophe Gurley,2,1,ITCC,6,2,707.0
+Other,Communication Device,Application,FedEx Ground,night,Other,True,3,True,Nivedita Roy,4,Mark Duncan,2,1,ITCC,23,2,3903375.5
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Herman Holeyfield,5,Christina Hanlin,2,1,ITCC,18,3,336966.5
+Other,Database,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,4,Michael Kennemer,2,1,ITCC,8,2,402390.0
+Other,Communication Device,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,5,Other,2,1,ITCC,14,3,615509.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Mark Duncan,2,1,ITCC,28,2,646284.0
+Other,Network,Telephony,FedEx Ground,evening,ID3667964,True,3,True,DZundra Green,4,Michael Kennemer,2,1,ITCC,12,2,79425.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Sathya Easwaran,5,Other,0,1,Standard,6,3,152364.0
+Other,Server,Application,FedEx Services,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,474564.0
+FXS_EIS_GLB_ProblemMgmt,Network,Security,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,5,3,2480.0
+Other,Server,Application,FedEx Services,night,ID3667964,True,3,True,DZundra Green,4,Mark Duncan,2,1,ITCC,21,2,3844912.5
+Other,Communication Device,Application,FedEx Services,night,Other,True,3,True,Nivedita Roy,4,Terri Hamilton,2,1,ITCC,19,2,473948.0
+Other,Server,Hardware,FedEx Freight Inc.,morning,Other,True,3,True,Mandeep Khati,5,Christina Hanlin,2,1,ITCC,6,3,8248.0
+Other,Server,Application,FedEx Services,night,Other,True,3,True,Mandeep Khati,5,Eli Smith,2,1,ITCC,6,3,6074.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,Other,True,3,True,Herman Holeyfield,5,Christopher Barber,1,1,ITCC,4,3,42238.0
+Other,Other,Network,FedEx Services,morning,ID836059,True,1,True,Khouri Mitchell,2,Brad Moore,2,1,ITCC,17,2,3762873.0
+Other,Other,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,4,Other,2,1,ITCC,13,2,1370463.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,4,3,2693.0
+Other,Network,Telephony,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,4,Michael Kennemer,2,1,ITCC,14,2,99621.0
+FXS_EIS_GLB_ProblemMgmt,Server,Inquiry / Help,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,604348.0
+Other,Communication Device,Infrastructure,FedEx Freight Inc.,night,Other,True,3,True,Nivedita Roy,3,Randall Painter,2,1,ITCC,24,1,8548.0
+Other,Network,Security,FedEx Services,afternoon,ID5285658,True,3,True,Shafi Ahmed,4,Eli Smith,2,1,ITCC,11,2,27299.5
+Other,Database,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christophe Gurley,2,1,ITCC,6,3,1854268.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Eli Smith,2,1,ITCC,8,2,63511.5
+Other,Other,Network,FedEx Services,night,Other,True,3,True,Nivedita Roy,4,Other,2,1,ITCC,14,2,1271036.0
+Other,Other,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Mark Duncan,3,1,ITCC,16,2,4009782.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Michael Kennemer,2,1,ITCC,12,2,40406.5
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Other,2,1,ITCC,9,3,8417.0
+Other,Other,Application,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,7,3,2188389.0
+Other,Server,Application,FedEx Express,morning,ID847287,True,3,True,Logan Simmons,5,Randall Painter,2,1,ITCC,49,3,7160.0
+Other,Other,Application,FedEx Services,afternoon,Other,True,1,True,Anjali Sharma,3,Brad Moore,2,1,ITCC,16,3,3907.0
+Other,Other,Hardware,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Eli Smith,2,1,ITCC,7,3,2562.0
+Other,Other,Application,FedEx Express,night,Other,True,3,True,David Light,4,Eli Smith,2,1,ITCC,11,2,431519.0
+Other,Other,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,4,3,44990.0
+Other,Database,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,386899.5
+Other,Other,Application,Other,morning,ID836059,True,2,True,Khouri Mitchell,4,Christopher Barber,2,1,ITCC,10,3,3757238.5
+Other,Server,Network,FedEx Services,afternoon,Other,True,3,True,Mandeep Khati,4,Christophe Gurley,2,1,ITCC,26,2,1582941.0
+Other,Other,Telephony,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,3,Brad Moore,5,1,ITCC,27,1,9557.0
+Other,Other,Network,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,4,Mark Duncan,2,1,ITCC,18,2,3747641.5
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Infrastructure,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Christopher Barber,1,1,ITCC,4,3,7745.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,night,ID5163721,True,3,True,Divakar Durgapal,4,Terri Hamilton,1,1,ITCC,7,2,6688.0
+Other,Server,Infrastructure,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,4,Mark Duncan,2,1,ITCC,38,3,5320.0
+FXS_EIS_GLB_ProblemMgmt,Network,Network,FedEx Services,evening,Other,True,3,True,Sandrina Khongjee,5,Christopher Barber,1,1,ITCC,4,3,27508.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,4,3,2546.0
+Other,Scanner,Application,FedEx Ground,night,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,2,1,ITCC,19,2,17700.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,6,3,114106.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,78888.0
+Other,Communication Device,Application,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,4,Michael Kennemer,2,1,ITCC,11,2,920805.5
+Other,Server,Telephony,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,2,Brad Moore,2,1,ITCC,17,1,6268.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Sathya Easwaran,5,Other,0,1,Standard,6,3,19652.0
+Other,Server,Application,FedEx Express,morning,ID973921,True,3,True,Stephen Barch,4,Eli Smith,2,1,ITCC,7,2,3212.0
+Other,Server,Hardware,FedEx Services,evening,Other,True,3,True,Marconius Donahue,5,Other,1,1,ITCC,3,3,13701.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Other,0,1,Standard,8,3,246039.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,7,3,787615.0
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,4,Christina Hanlin,2,1,ITCC,11,2,742.0
+Other,Computer,Application,FedEx Freight Inc.,morning,ID5285658,True,3,True,Shafi Ahmed,4,Christina Hanlin,3,1,ITCC,17,2,861902.5
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Services,morning,ID5163721,True,2,True,Divakar Durgapal,4,Christopher Barber,1,1,ITCC,8,3,20349.0
+Other,Server,Hardware,FedEx Services,morning,Other,True,3,True,Mandeep Khati,5,Eli Smith,2,1,ITCC,6,3,6410.0
+Other,Database,Infrastructure,FedEx Services,morning,Other,True,3,True,Mandeep Khati,4,Other,2,1,ITCC,15,2,1005156.5
+Other,Server,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,4,Terri Hamilton,2,1,ITCC,13,2,11940.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,4,3,1716.0
+Other,Server,Application,FedEx Express,afternoon,ID973921,True,3,True,Stephen Barch,4,Mark Duncan,2,1,ITCC,27,2,3059269.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,4,3,329.0
+Other,Communication Device,Infrastructure,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christophe Gurley,2,1,ITCC,10,3,6023.0
+Other,Server,Hardware,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,2,1,ITCC,8,3,1489.0
+Other,Server,Hardware,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christophe Gurley,2,1,ITCC,8,3,1222829.5
+Other,Communication Device,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,5,Christophe Gurley,2,1,ITCC,7,3,905228.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,4,3,5326.0
+Other,Server,Network,FedEx Services,night,Other,True,3,True,Sandrina Khongjee,4,Eli Smith,2,1,ITCC,13,2,54768.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,5,3,8460.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Terri Hamilton,2,1,ITCC,7,2,360615.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,2005.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,1,Standard,4,3,868437.0
+Other,Other,Application,FedEx Services,night,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,2,1,ITCC,11,2,3372646.0
+Other,Other,Application,FedEx Services,morning,ID836059,True,2,True,Khouri Mitchell,3,Christopher Barber,3,1,ITCC,15,2,3354968.5
+Other,Other,Application,FedEx Services,night,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,3,1,ITCC,12,2,3354779.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,3,True,Ashish Bisht,4,Mark Duncan,3,1,ITCC,14,2,2965112.0
+Other,Server,Application,FedEx Services,evening,Other,True,3,True,Marconius Donahue,4,Mark Duncan,2,1,ITCC,42,2,10045.0
+Other,Server,Infrastructure,FedEx Services,night,Other,True,2,True,Sandrina Khongjee,3,Terri Hamilton,3,1,ITCC,33,2,3345559.5
+Other,Computer,Hardware,FedEx Office,morning,ID5163721,True,3,True,Divakar Durgapal,5,Other,0,1,Other,1,3,23927.0
+Other,Server,Application,FedEx Freight Inc.,morning,Other,True,3,True,Mandeep Khati,5,Mark Duncan,2,1,ITCC,13,3,3327040.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Ground,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,4,3,175645.0
+Other,Computer,Application,FedEx Office,morning,ID973921,True,3,True,Stephen Barch,5,Other,2,1,ITCC,10,3,10175.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,4,Christopher Barber,1,1,ITCC,4,3,2908.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,3,True,Ashish Bisht,4,Terri Hamilton,2,1,ITCC,30,2,2092791.5
+Other,Other,Environment,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,4,Mark Duncan,2,1,ITCC,15,3,2881.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,6,3,1013930.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,4,Randall Painter,2,1,ITCC,13,3,8548.0
+Other,Communication Device,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,4,Christophe Gurley,2,1,ITCC,7,2,13868.0
+Other,Mainframe,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,5,3,12062.0
+Other,Server,Application,FedEx Express,evening,Other,True,3,True,Marconius Donahue,4,Christina Hanlin,2,1,ITCC,18,2,948527.0
+Other,Network,Network,FedEx Services,afternoon,ID5305519,True,3,False,Ashish Bisht,5,Christophe Gurley,2,1,ITCC,7,3,4162.0
+Other,Other,Hardware,FedEx Ground,afternoon,ID973921,True,3,True,Stephen Barch,5,Other,2,1,ITCC,18,3,2687141.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,1,1,ITCC,5,3,6255.0
+Other,Server,Application,FedEx Express,morning,Other,True,3,True,Mandeep Khati,4,Christophe Gurley,2,1,ITCC,10,2,302188.5
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,71763.0
+Other,Server,Infrastructure,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,4,Christina Hanlin,4,1,ITCC,15,3,5631.0
+Other,Server,Application,FedEx Express,morning,ID5285658,True,2,True,Shafi Ahmed,3,Terri Hamilton,2,1,ITCC,14,2,6962.0
+Other,Server,Network,FedEx Services,afternoon,Other,True,3,True,Nivedita Roy,4,Christopher Barber,2,1,ITCC,10,2,807408.5
+Other,Computer,Application,FedEx Ground,evening,ID3667964,True,3,True,DZundra Green,5,Other,3,1,ITCC,12,3,19039.0
+Other,Database,Application,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Christophe Gurley,2,1,ITCC,7,3,113532.0
+Other,Communication Device,Network,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,4,Mark Duncan,2,1,ITCC,15,2,2277.0
+Other,Other,Application,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Michael Kennemer,2,1,ITCC,47,2,2290797.5
+Other,Database,Application,FedEx Freight Inc.,morning,Other,True,3,True,Mandeep Khati,4,Christina Hanlin,2,1,ITCC,10,2,29698.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Mark Duncan,1,1,ITCC,6,3,51589.0
+Other,Server,Hardware,FedEx Express,afternoon,ID973921,True,3,True,Stephen Barch,5,Brad Moore,2,1,ITCC,8,3,1204826.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,afternoon,ID3667964,True,2,False,DZundra Green,3,Mark Duncan,1,1,ITCC,5,2,24818.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,afternoon,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,5,3,307024.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,5,3,445.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Ground,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,5,3,87535.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,5845.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,TNT Express,morning,Other,True,3,True,Mandeep Khati,5,Eli Smith,1,1,ITCC,4,3,14772.0
+Other,Server,Infrastructure,FedEx Services,night,ID3667964,True,2,True,DZundra Green,3,Michael Kennemer,2,1,ITCC,17,2,886506.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,4,3,14004.0
+Other,Other,Application,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Mark Duncan,3,1,ITCC,30,2,2748088.0
+Other,Computer,Application,FedEx Ground,night,ID5163721,True,2,True,Divakar Durgapal,3,Christina Hanlin,2,1,ITCC,16,2,549327.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,4,3,6146.0
+Other,Communication Device,Application,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,2,Randall Painter,2,1,ITCC,22,1,7624.0
+Other,Server,Application,FedEx Ground,night,ID5163721,True,2,True,Divakar Durgapal,3,Eli Smith,2,1,ITCC,18,2,2487426.0
+Other,Server,Application,FedEx Express,morning,ID5163721,True,3,True,Divakar Durgapal,3,Christophe Gurley,3,1,ITCC,13,1,3525.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Other,0,1,Standard,4,3,1692629.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,6,3,41318.0
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Other,0,1,Standard,5,3,184476.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,4,Christopher Barber,1,1,ITCC,4,3,8357.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Freight Inc.,afternoon,Other,True,3,False,Anjali Sharma,5,Eli Smith,1,1,ITCC,4,3,4997.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Marconius Donahue,5,Mark Duncan,2,1,ITCC,42,3,2553184.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Christophe Gurley,2,1,ITCC,13,3,120728.0
+Other,Server,Hardware,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,1,ITCC,11,2,665031.5
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Express,morning,Other,True,3,False,David Light,5,Christopher Barber,1,1,ITCC,4,3,74962.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,afternoon,ID3667964,True,3,True,DZundra Green,4,Christopher Barber,1,1,ITCC,4,2,66143.0
+Other,Server,Application,FedEx Express,night,Other,True,2,True,Marconius Donahue,4,Brad Moore,2,1,ITCC,20,3,54460.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,TNT Express,night,Other,True,3,True,David Light,5,Christopher Barber,1,1,ITCC,4,3,52944.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Express,night,Other,True,3,True,David Light,5,Eli Smith,1,1,ITCC,5,3,4445.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,2622.0
+Other,Server,Security,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Christina Hanlin,2,1,ITCC,14,2,6382.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,5,3,519444.0
+Other,Scanner,Application,FedEx Ground,afternoon,Other,True,3,True,Marconius Donahue,3,Christophe Gurley,2,1,ITCC,8,1,11188.0
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,FedEx Ground,night,Other,True,3,True,Sandrina Khongjee,5,Eli Smith,1,1,ITCC,4,3,9988.0
+Other,Server,Infrastructure,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,4,Other,3,1,ITCC,11,3,22489.0
+Other,Server,Infrastructure,Other,night,ID5163721,True,2,True,Divakar Durgapal,3,Other,2,1,ITCC,15,2,25344.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,5,3,969357.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,afternoon,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,5,3,7618.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,morning,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,26213.0
+Other,Server,Infrastructure,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Christina Hanlin,2,1,ITCC,15,2,103208.0
+Other,Other,Infrastructure,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Randall Painter,2,1,ITCC,22,3,5608.0
+Other,Computer,Application,FedEx Freight Inc.,morning,ID836059,True,3,True,Khouri Mitchell,5,Christina Hanlin,2,1,ITCC,11,3,19365.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,6,3,416519.0
+Other,Other,Application,FedEx Services,night,Other,True,3,True,Sandrina Khongjee,4,Christophe Gurley,3,1,ITCC,10,2,8027.0
+Other,Server,Application,FedEx Express,night,ID5285658,True,1,True,Shafi Ahmed,3,Terri Hamilton,2,1,ITCC,38,3,33006.0
+Other,Server,Application,FedEx Services,evening,Other,True,2,True,Anjali Sharma,3,Christina Hanlin,2,1,ITCC,15,2,1563900.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,2,True,Mandeep Khati,3,Eli Smith,2,1,ITCC,18,2,551772.0
+Other,Other,Network,FedEx Express,evening,ID3667964,True,2,True,DZundra Green,3,Eli Smith,3,1,ITCC,21,2,576179.5
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Mark Duncan,3,1,ITCC,18,2,3895.0
+Other,Computer,Network,FedEx Freight Inc.,night,ID3667964,True,2,True,DZundra Green,4,Christina Hanlin,2,1,ITCC,8,3,11604.0
+Other,Other,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Michael Kennemer,3,1,ITCC,16,2,8423.0
+Other,Server,Infrastructure,FedEx Services,afternoon,Other,True,2,True,Mandeep Khati,3,Christina Hanlin,2,1,Standard,52,2,2106590.5
+Other,Server,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Michael Kennemer,3,1,ITCC,11,2,3418.0
+Other,Other,Application,FedEx Services,morning,Other,True,2,True,Mandeep Khati,2,Brad Moore,3,1,ITCC,30,1,3466.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,5,3,232311.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,morning,ID973921,True,1,True,Stephen Barch,2,Christopher Barber,2,1,ITCC,10,2,2069426.5
+Other,Server,Application,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,3,Christopher Barber,2,1,ITCC,31,2,1950826.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Network,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,3,1,ITCC,11,3,98329.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Eli Smith,2,1,ITCC,12,2,917110.5
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,Other,True,3,True,Mandeep Khati,5,Eli Smith,1,1,ITCC,5,3,5802.0
+FXS_WASDRATINGTRACKING,Server,Hardware,FedEx Services,evening,Other,True,2,True,Anjali Sharma,3,Christina Hanlin,3,1,ITCC,19,2,7929.0
+Other,Communication Device,Application,FedEx Services,afternoon,Other,True,2,True,Anjali Sharma,3,Michael Kennemer,2,1,ITCC,10,2,27278.0
+Other,Computer,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,3,Randall Painter,4,1,ITCC,11,1,22933.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,morning,Other,True,2,True,Brad Moore,2,Brad Moore,1,1,ITCC,34,1,45330.0
+Other,Server,Application,FedEx Express,afternoon,Other,True,2,True,Nivedita Roy,2,Mark Duncan,3,1,ITCC,58,1,151800.0
+Other,Server,Infrastructure,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,1,ITCC,14,2,1199161.0
+Other,Other,Application,FedEx Services,afternoon,Other,True,3,True,Sean Green,5,Other,2,1,ITCC,9,3,861.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Ground,afternoon,ID3667964,True,3,True,DZundra Green,4,Christopher Barber,1,1,ITCC,4,2,240220.0
+Other,Other,Application,FedEx Services,night,ID5285658,True,1,True,Shafi Ahmed,2,Christina Hanlin,2,1,ITCC,36,2,131639.0
+Other,Server,Application,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,3,1,ITCC,21,2,279204.0
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,FedEx Services,evening,Other,True,3,True,Marconius Donahue,5,Christopher Barber,1,1,ITCC,4,3,2788.0
+Other,Scanner,Application,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,3,Christopher Barber,2,1,ITCC,18,2,4323.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,evening,ID5305519,True,1,True,Ashish Bisht,2,Christophe Gurley,2,1,ITCC,25,2,54840.0
+Other,Server,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,4,Mark Duncan,2,1,ITCC,22,2,5683.0
+Other,Scanner,Application,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,3,Christopher Barber,2,1,ITCC,9,2,5587.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,27134.0
+Other,Other,Application,FedEx Services,morning,Other,True,2,True,Mandeep Khati,3,Mark Duncan,2,1,ITCC,38,2,2607088.5
+Other,Server,Hardware,FedEx Express,night,Other,True,3,True,David Light,5,Eli Smith,2,1,ITCC,4,3,3727.0
+Other,Server,Hardware,FedEx Freight Inc.,morning,Other,True,2,True,Mandeep Khati,3,Christina Hanlin,2,1,ITCC,9,2,6834.0
+Other,Server,Application,Other,morning,Other,False,3,False,Other,5,Other,0,1,Standard,8,3,1260523.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,3930.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,3,3,14974.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,3,Christopher Barber,1,1,ITCC,3,1,609.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Application,FedEx Services,morning,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,1,1,ITCC,3,2,10588.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,Other,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,5927.0
+Other,Mainframe,Hardware,FedEx Services,night,ID5285658,True,1,True,Shafi Ahmed,2,Christophe Gurley,2,1,ITCC,30,2,78822.0
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Christopher Barber,2,1,ITCC,7,2,1877968.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,1,True,Ashish Bisht,2,Christophe Gurley,2,1,ITCC,25,2,1464615.5
+Other,Server,Network,FedEx Express,evening,ID3667964,True,3,True,DZundra Green,3,Brad Moore,2,1,ITCC,9,1,1150566.5
+Other,Server,Application,FedEx Services,morning,Other,True,2,True,Mandeep Khati,3,Christina Hanlin,2,1,ITCC,58,2,178720.0
+Other,Scanner,Hardware,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,8,3,1144899.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,1,True,Logan Simmons,2,Other,4,1,ITCC,41,2,1056037.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,4,3,1825577.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,FedEx Express,afternoon,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,3,3,6929.0
+Other,Mainframe,Application,FedEx Services,afternoon,ID973921,True,3,True,Stephen Barch,5,Brad Moore,3,1,ITCC,17,3,7705.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Freight Inc.,afternoon,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,3,3,21995.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Ground,evening,Other,True,3,True,Marconius Donahue,5,Christopher Barber,1,1,ITCC,3,3,138187.0
+Other,Server,Application,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Mark Duncan,2,1,ITCC,36,2,1355975.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,2,Christopher Barber,1,1,ITCC,5,1,1522.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,4,3,221864.0
+FXS_EIS_GLB_ProblemMgmt,Other,Telephony,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,2808.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,13944.0
+Other,Server,Hardware,FedEx Services,morning,Other,True,3,True,Mandeep Khati,5,Other,2,1,ITCC,27,3,12093.0
+Other,Computer,Application,Other,morning,Other,False,3,False,Other,5,Christina Hanlin,0,1,Standard,32,3,1346555.0
+Other,Other,Network,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,4,Christopher Barber,2,1,ITCC,20,3,35149.0
+Other,Other,Network,FedEx Services,night,Other,True,1,True,Anjali Sharma,3,Terri Hamilton,2,1,ITCC,12,3,7409.0
+FXS_WASDRATINGTRACKING,Server,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Randall Painter,2,1,ITCC,17,3,3235.0
+Other,Computer,Application,Other,afternoon,Other,False,2,False,Other,3,Christina Hanlin,0,1,Standard,13,2,406828.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,1,1,ITCC,6,2,5596.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,5,3,146490.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,4,3,685.0
+Other,Server,Application,FedEx Services,afternoon,ID5305519,True,2,True,Ashish Bisht,3,Brad Moore,3,1,ITCC,12,2,607551.0
+Other,Server,Application,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Eli Smith,2,1,ITCC,11,2,1223971.0
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,4,3,8777.0
+Other,Other,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Christina Hanlin,2,1,ITCC,13,3,5216.0
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,3,Michael Kennemer,2,1,ITCC,10,1,2970.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,1,True,Logan Simmons,2,Christina Hanlin,4,1,ITCC,44,2,524741.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Ground,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,4,3,29566.0
+Other,Other,Application,FedEx Ground,afternoon,Other,True,3,True,Other,5,Other,1,1,ITCC,5,3,1008514.5
+Other,Scanner,Hardware,FedEx Express,night,ID5285658,True,2,True,Shafi Ahmed,3,Christopher Barber,2,1,ITCC,9,2,1140143.0
+Other,Scanner,Hardware,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,6,3,837017.5
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,FedEx Services,afternoon,Other,True,3,True,Anjali Sharma,5,Christopher Barber,1,1,ITCC,5,3,5514.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,3,True,Marconius Donahue,5,Other,2,1,ITCC,4,3,6336.0
+Other,Server,Application,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,1,ITCC,24,2,45035.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,night,ID3667964,True,3,True,DZundra Green,3,Christopher Barber,1,1,ITCC,5,1,1646.0
+Other,Communication Device,Network,FedEx Freight Inc.,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christina Hanlin,2,1,ITCC,34,3,17523.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,5,3,135126.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,Other,True,3,True,Sandrina Khongjee,5,Eli Smith,1,1,ITCC,4,3,4852.0
+Other,Scanner,Application,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,2,1,ITCC,16,3,396160.5
+Other,Server,Hardware,FedEx Services,morning,ID973921,True,2,True,Stephen Barch,3,Christina Hanlin,2,1,ITCC,8,2,345722.0
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Christopher Barber,1,1,ITCC,4,3,346919.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,ID973921,True,3,True,Stephen Barch,5,Eli Smith,1,1,ITCC,4,3,110740.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Express,afternoon,ID5305519,True,2,True,Ashish Bisht,2,Christopher Barber,1,1,ITCC,3,1,8794.0
+FXS_EIS_GLB_ProblemMgmt,Other,Hardware,FedEx Services,evening,ID3667964,True,3,True,DZundra Green,4,Christopher Barber,1,1,ITCC,4,2,18925.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,ID3667964,True,3,True,DZundra Green,3,Eli Smith,1,1,ITCC,3,1,2160.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Freight Inc.,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,1,1,ITCC,3,3,3895.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Freight Inc.,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,4,3,7032.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,ID3667964,True,3,True,DZundra Green,3,Eli Smith,1,1,ITCC,4,1,17259.0
+Other,Computer,Application,FedEx Express,night,ID5163721,True,2,True,Divakar Durgapal,3,Terri Hamilton,2,1,ITCC,41,2,12811.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,1,1,ITCC,4,3,3943.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,11000.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,afternoon,ID3667964,True,3,True,DZundra Green,5,Christopher Barber,1,1,ITCC,3,3,6856.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,3346.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Ground,morning,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,17613.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,afternoon,Other,True,3,True,Marconius Donahue,5,Other,1,1,ITCC,3,3,3335.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Freight Inc.,evening,ID3667964,True,3,True,DZundra Green,3,Other,1,1,ITCC,3,1,1711.0
+Other,Other,Application,FedEx Freight Inc.,night,ID5163721,True,3,True,Divakar Durgapal,5,Christina Hanlin,2,1,ITCC,10,3,4532.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Express,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,3,3,13321.0
+Other,Mainframe,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,11,3,866584.5
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Ground,night,Other,True,2,True,Sean Green,2,Christopher Barber,1,1,ITCC,4,1,20873.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,5450.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,3,3,28302.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Christopher Barber,1,1,ITCC,3,2,11081.0
+Other,Computer,Application,FedEx Services,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,2,1,ITCC,11,3,396896.0
+FXS_EIS_GLB_ProblemMgmt,Other,Hardware,FedEx Ground,morning,Other,True,2,True,Mandeep Khati,3,Christopher Barber,1,1,ITCC,5,2,13957.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,12677.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Christopher Barber,1,1,ITCC,3,2,90707.0
+Other,Communication Device,Hardware,FedEx Office,morning,ID973921,True,2,True,Stephen Barch,3,Brad Moore,2,1,ITCC,8,2,18148.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Office,morning,ID847287,True,3,True,Logan Simmons,5,Christopher Barber,1,1,ITCC,3,3,106011.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Freight Inc.,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,6141.0
+Other,Server,Application,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Other,2,1,ITCC,19,2,36470.0
+Other,Server,Application,FedEx Ground,evening,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,1,ITCC,9,2,660439.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,ID3667964,True,3,True,DZundra Green,3,Eli Smith,1,1,ITCC,4,1,26710.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,night,ID5163721,True,3,True,Divakar Durgapal,5,Eli Smith,1,1,ITCC,4,3,40475.0
+Other,Server,Hardware,FedEx Ground,night,ID5163721,True,2,True,Divakar Durgapal,3,Mark Duncan,2,1,ITCC,34,2,14771.0
+Other,Server,Infrastructure,FedEx Services,morning,Other,True,2,True,David Light,3,Terri Hamilton,3,1,ITCC,20,2,36731.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Express,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,32642.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,afternoon,ID5305519,True,2,True,Ashish Bisht,3,Christopher Barber,1,1,ITCC,3,2,4924.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,Other,True,3,True,Marconius Donahue,5,Christopher Barber,1,1,ITCC,3,3,10852.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,3,Christopher Barber,1,1,ITCC,3,2,6429.0
+Other,Server,Hardware,FedEx Services,night,ID3667964,True,2,True,DZundra Green,3,Christophe Gurley,2,1,ITCC,3,2,4857.0
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,FedEx Office,night,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,1,1,ITCC,3,2,2306.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,5301.0
+Other,Database,Hardware,FedEx Ground,morning,ID847287,True,3,True,Logan Simmons,5,Michael Kennemer,2,1,Standard,8,3,584181.0
+FXS_WASDRATINGTRACKING,Server,Hardware,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,2,Christopher Barber,2,1,ITCC,10,1,474718.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,morning,Other,True,3,True,Mandeep Khati,5,Randall Painter,1,1,ITCC,4,3,7028.0
+Other,Computer,Hardware,FedEx Freight Inc.,night,ID5285658,True,2,True,Shafi Ahmed,3,Christina Hanlin,2,1,ITCC,13,2,17436.0
+Other,Other,Application,FedEx Services,night,ID5163721,True,1,True,Divakar Durgapal,3,Randall Painter,2,1,ITCC,60,3,107465.0
+Other,Scanner,Hardware,FedEx Ground,morning,ID973921,True,2,True,Stephen Barch,3,Other,2,1,ITCC,6,2,25763.0
+Other,Server,Hardware,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,2,Mark Duncan,2,1,ITCC,10,1,48482.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,evening,ID3667964,True,2,True,DZundra Green,3,Brad Moore,1,1,ITCC,4,2,3425.0
+Other,Database,Hardware,FedEx Services,evening,Other,True,1,True,Anjali Sharma,2,Brad Moore,2,1,ITCC,16,2,8203.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,night,Other,True,3,True,Sandrina Khongjee,5,Christopher Barber,1,1,ITCC,3,3,20912.0
+Other,Other,Network,FedEx Ground,night,Other,True,3,False,Sandrina Khongjee,5,Other,0,1,Other,1,3,11202.0
+Other,Database,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Other,2,1,ITCC,10,3,447071.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,afternoon,ID5305519,True,2,True,Ashish Bisht,3,Christopher Barber,1,1,ITCC,3,2,72852.0
+Other,Server,Hardware,FedEx Office,evening,ID3667964,True,3,True,DZundra Green,3,Mark Duncan,2,1,ITCC,60,1,3972.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,Other,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,14961.0
+Other,Server,Application,FedEx Services,night,ID5163721,True,2,True,Divakar Durgapal,3,Christophe Gurley,2,1,ITCC,16,2,235922.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,1,1,ITCC,3,2,18172.0
+Other,Other,Application,FedEx Services,afternoon,ID836059,True,2,True,Khouri Mitchell,3,Christina Hanlin,3,1,ITCC,39,2,7776.0
+Other,Communication Device,Hardware,Other,afternoon,ID973921,True,2,True,Stephen Barch,3,Christopher Barber,2,1,ITCC,6,2,37719.0
+FXS_EIS_GLB_ProblemMgmt,Server,Security,Other,night,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,1,1,ITCC,3,2,10783.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,2914.0
+Other,Communication Device,Hardware,FedEx Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Christina Hanlin,2,1,ITCC,10,3,7094.0
+Other,Mainframe,Application,FedEx Services,afternoon,ID973921,True,2,True,Stephen Barch,3,Terri Hamilton,2,1,ITCC,32,2,30835.0
+Other,Server,Application,FedEx Ground,evening,ID3667964,True,2,True,DZundra Green,3,Mark Duncan,2,1,ITCC,18,2,8175.0
+Other,Server,Application,Other,morning,ID847287,True,2,True,Logan Simmons,3,Christopher Barber,2,1,ITCC,5,2,12485.0
+Other,Computer,Hardware,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,3,Brad Moore,2,1,ITCC,10,1,6232.0
+Other,Server,Application,FedEx Express,evening,ID5305519,True,2,True,Ashish Bisht,3,Eli Smith,2,1,ITCC,38,2,36979.0
+Other,Server,Network,FedEx Services,evening,ID5305519,True,2,True,Ashish Bisht,4,Christophe Gurley,2,1,ITCC,15,3,590693.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,morning,Other,True,3,True,David Light,3,Christopher Barber,1,1,ITCC,3,1,4948.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,3,1,ITCC,6,3,52893.0
+FXS_EIS_GLB_ProblemMgmt,Other,Application,FedEx Services,morning,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,14851.0
+Other,Scanner,Application,FedEx Ground,morning,Other,True,3,False,Other,5,Other,1,1,Standard,10,3,58002.0
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,FedEx Services,afternoon,ID836059,True,3,True,Khouri Mitchell,5,Christopher Barber,1,1,ITCC,3,3,28973.0
+Other,Server,Hardware,FedEx Ground,night,Other,True,2,True,David Light,3,Mark Duncan,2,1,ITCC,8,2,4983.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,morning,Other,True,3,True,Nivedita Roy,5,Christopher Barber,1,1,ITCC,3,3,10220.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,TNT Express,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,7115.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,Other,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,20508.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,11525.0
+Other,Server,Hardware,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Other,2,1,ITCC,6,3,24180.0
+Other,Other,Hardware,FedEx Ground,morning,Other,True,3,False,Other,5,Other,2,1,Standard,7,3,590938.5
+FXS_WASDRATINGTRACKING,Server,Hardware,FedEx Services,morning,ID847287,True,1,True,Logan Simmons,2,Christopher Barber,2,1,ITCC,7,2,2274.0
+Other,Other,Application,Other,night,ID5163721,True,2,True,Divakar Durgapal,3,Christina Hanlin,3,1,ITCC,50,2,9801.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Express,morning,Other,True,3,True,Mandeep Khati,5,Christopher Barber,1,1,ITCC,3,3,137096.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,morning,Other,True,3,True,Mandeep Khati,5,Other,1,1,ITCC,4,3,18394.0
+Other,Other,Hardware,FedEx Services,night,Other,True,2,True,David Light,3,Other,5,1,ITCC,19,2,3961.0
+Other,Computer,Hardware,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,8,3,29219.0
+Other,Communication Device,Hardware,FedEx Services,morning,ID836059,True,2,True,Khouri Mitchell,3,Christopher Barber,3,1,ITCC,10,2,8746.0
+Other,Server,Hardware,FedEx Services,afternoon,Other,True,2,True,Anjali Sharma,3,Christopher Barber,2,1,ITCC,6,2,3932.0
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,FedEx Services,afternoon,Other,True,3,True,Mandeep Khati,5,Other,1,1,ITCC,5,3,21447.0
+Other,Server,Application,FedEx Services,afternoon,Other,True,1,True,Marconius Donahue,1,Michael Kennemer,2,1,ITCC,29,1,5354.0
+Other,Server,Hardware,FedEx Services,night,Other,True,1,True,Marconius Donahue,2,Mark Duncan,2,1,ITCC,42,2,12450.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,night,ID5305519,True,3,True,Ashish Bisht,5,Christopher Barber,1,1,ITCC,3,3,18162.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,night,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,3,1,ITCC,7,2,2161.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,night,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,10648.0
+FXS_WASDRATINGTRACKING,Other,Application,FedEx Services,night,ID5163721,True,1,True,Divakar Durgapal,2,Christopher Barber,2,1,ITCC,5,2,2608.0
+Other,Server,Hardware,FedEx Ground,morning,Other,True,3,True,Nivedita Roy,5,Eli Smith,2,1,ITCC,11,3,307575.5
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christopher Barber,1,1,ITCC,3,3,3125.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,1,1,Standard,4,3,1917636.0
+Other,Database,Hardware,FedEx Ground,night,Other,True,2,True,David Light,3,Other,2,1,ITCC,5,2,14623.0
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,FedEx Freight Inc.,night,Other,True,3,True,Nivedita Roy,5,Other,1,1,ITCC,3,3,10274.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,morning,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,5026.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,FedEx Office,afternoon,Other,True,3,True,Mandeep Khati,5,Other,1,1,ITCC,6,3,16019.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,evening,ID3667964,True,2,True,DZundra Green,3,Christopher Barber,1,1,ITCC,4,2,4560.0
+FXS_EIS_GLB_ProblemMgmt,Other,Network,FedEx Services,evening,Other,True,2,True,Marconius Donahue,3,Christopher Barber,1,1,ITCC,3,2,24870.0
+Other,Server,Hardware,FedEx Ground,evening,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,1,ITCC,12,2,74500.5
+Other,Server,Hardware,FedEx Services,night,ID3667964,True,3,True,DZundra Green,3,Eli Smith,2,1,ITCC,6,1,7202.0
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,FedEx Ground,night,Other,True,3,True,Sandrina Khongjee,5,Christopher Barber,1,1,ITCC,3,3,55439.0
+FXS_EIS_GLB_ProblemMgmt,Communication Device,Hardware,FedEx Services,night,ID5285658,True,3,True,Shafi Ahmed,5,Christopher Barber,1,1,ITCC,3,3,8250.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Express,night,Other,True,3,True,Sandrina Khongjee,5,Other,1,1,ITCC,3,3,107498.0
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Hardware,FedEx Services,afternoon,ID847287,True,3,True,Logan Simmons,5,Christopher Barber,1,1,ITCC,4,3,14166.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,ID5163721,True,3,True,Divakar Durgapal,5,Christopher Barber,1,1,ITCC,3,3,18647.0
+Other,Server,Hardware,FedEx Services,afternoon,Other,True,1,True,Marconius Donahue,2,Christina Hanlin,2,1,ITCC,15,2,45424.0
+Other,Communication Device,Hardware,FedEx Ground,morning,Other,True,3,True,Sandrina Khongjee,5,Michael Kennemer,2,1,ITCC,4,3,6514.0
+Other,Server,Hardware,FedEx Services,morning,ID847287,True,2,True,Logan Simmons,2,Randall Painter,2,1,ITCC,23,1,2809.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Services,afternoon,Other,True,3,True,Mandeep Khati,5,Other,1,1,ITCC,2,3,8185.0
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,FedEx Office,evening,ID5305519,True,2,True,Ashish Bisht,2,Other,1,1,ITCC,2,1,31382.0
+Other,Server,Hardware,Other,afternoon,Other,False,1,True,Mandeep Khati,2,Christina Hanlin,4,1,ITCC,9,2,52851.0
+Other,Server,Application,FedEx Ground,morning,Other,True,3,False,Stephen Wolff,5,Other,1,1,Standard,2,3,8000.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Daniel Smith,0,0,Standard,7,3,133822712.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Daniel Smith,0,0,Standard,7,3,58326444.0
+Other,Computer,Application,Other,morning,Other,False,3,True,Other,5,Eli Smith,0,0,ITCC,9,3,590877.0
+Other,Database,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,1,0,Standard,9,3,16338265.0
+Other,Server,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,5,3,172622.0
+Other,Scanner,Application,Other,morning,Other,False,3,False,Other,5,Other,0,0,Standard,5,3,6675484.0
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,11,3,3029979.0
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,12,3,10088688.0
+Other,Network,Application,FedEx Services,afternoon,ID3667964,True,2,True,DZundra Green,3,Eli Smith,2,0,Standard,14,2,130130.0
+Other,Communication Device,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,5,3,84989.0
+Other,Other,Hardware,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Christina Hanlin,0,0,ITCC,7,3,2376723.0
+Other,Communication Device,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,0,0,ITCC,2,3,189354.0
+Other,Other,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Michael Kennemer,0,0,ITCC,4,3,1642564.0
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,Standard,5,3,254617.0
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Other,0,0,Proactive,6,2,10001488.0
+Other,Network,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,1,0,Proactive,8,3,4229569.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Christopher Barber,0,0,ITCC,5,3,2900570.0
+Other,Scanner,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Other,0,0,ITCC,9,2,5760946.0
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,Standard,2,3,4148558.0
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Brad Moore,0,0,ITCC,5,3,9657779.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,0,0,Standard,2,3,4050843.0
+Other,Other,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Mark Duncan,0,0,Standard,10,3,3421214.0
+Other,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Other,1,0,ITCC,3,2,2826250.0
+Other,Database,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,0,0,ITCC,5,3,12091157.0
+FXS_WASDRATINGTRACKING,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Eli Smith,0,0,ITCC,7,3,220016.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,ITCC,5,3,5244783.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Christophe Gurley,0,0,ITCC,4,3,2319529.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,Standard,3,3,856053.0
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Michael Kennemer,0,0,ITCC,4,3,6543187.0
+Other,Communication Device,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Mark Duncan,0,0,Standard,6,3,5249264.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Mark Duncan,0,0,Standard,42,2,3421171.0
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Christina Hanlin,0,0,ITCC,9,3,5160667.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,Standard,2,3,9558848.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Christopher Barber,0,0,ITCC,5,3,4103462.0
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,ITCC,5,3,4664512.0
+FSC_ITL3O2STIBCO,Server,Application,Other,afternoon,ID5069733,True,1,False,Admin-Arturo Reyes,1,Naveen Kumar,0,0,Standard,9,1,10609067.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Brad Moore,0,0,ITCC,3,3,322081.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,Admin-Arturo Reyes,2,Other,1,0,Standard,6,2,12609372.0
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Randall Painter,0,0,ITCC,10,2,9317499.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Terri Hamilton,0,0,ITCC,37,2,20446816.0
+Other,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,ITCC,2,3,1616138.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Christopher Barber,0,0,ITCC,6,2,4103424.0
+Other,Mainframe,Infrastructure,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,ITCC,3,3,12603514.0
+Other,Communication Device,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Randall Painter,0,0,ITCC,12,2,9317730.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Terri Hamilton,0,0,ITCC,5,2,5846109.0
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Randall Painter,0,0,ITCC,15,2,9317035.0
+FXS_APSCITL3OMSSTERLING,Network,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,1,0,ITCC,7,3,18716910.0
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Naveen Kumar,0,0,Standard,6,2,9069802.0
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,1,False,Admin-Arturo Reyes,2,Terri Hamilton,1,0,ITCC,39,2,20446752.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,Admin-Arturo Reyes,3,Naveen Kumar,0,0,Standard,6,3,5694785.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,2,Matthew Gonderinger,0,0,Standard,2,1,864208.0
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Other,0,0,ITCC,2,2,6393700.0
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Michael Kennemer,0,0,ITCC,5,3,1557091.0
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Randall Painter,0,0,ITCC,5,2,8857016.0
+FXS_APSCITL3OMSSTERLING,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,4,Other,1,0,Standard,7,3,18717506.0
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,ITCC,5,3,1638476.0
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Other,0,0,Standard,3,3,239993.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Greg Malek,2,0,Standard,11,2,426606.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,2,Naveen Kumar,0,0,Proactive,6,1,17429460.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,2,Naveen Kumar,0,0,Standard,6,1,7692138.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Greg Malek,1,0,Standard,3,3,8471250.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Greg Malek,1,0,Standard,5,3,18649744.0
+FXO_BR_US_BusinessReadiness,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,5,Greg Malek,1,0,Standard,5,3,10283015.0
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,2,False,Admin-Arturo Reyes,3,Christopher Barber,0,0,ITCC,9,2,10002878.0
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,Admin-Arturo Reyes,4,Other,0,0,Standard,4,2,11832801.0
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,Admin-Arturo Reyes,2,Naveen Kumar,0,0,ITCC,2,2,8445195.0
+Other,Other,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,1,0,Standard,8,3,12615189.0
+FSC_L3WMSSTERLINGLOFT,Database,Application,Other,morning,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,0,Standard,10,3,16502024.0
+Other,Server,Application,FedEx Services,morning,ID847287,True,3,True,Logan Simmons,5,Eli Smith,2,0,ITCC,9,3,60898.0
+Other,Server,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Proactive,5,3,340995.0
+Other,Mainframe,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,6,3,595369.0
+Other,Other,Hardware,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,3,3,167516.0
+Other,Server,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,3,3,383352.0
+Other,Network,Network,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,9,3,10656857.0
+Other,Database,Application,FedEx Services,evening,Other,True,2,True,Anjali Sharma,4,Eli Smith,2,0,ITCC,13,3,26903.0
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,3,3,703038.0
+Other,Network,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,3,3,165501.0
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,False,3,False,Naveen Kumar,5,Naveen Kumar,0,0,Standard,5,3,15805944.0
+Other,Database,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,2,3,11867.0
+Other,Server,Application,Other,afternoon,Other,False,2,False,Other,3,Other,0,0,Standard,4,2,7495385.0
+Other,Network,Inquiry / Help,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,2,3,121938.0
+Other,Server,Application,Other,night,Other,False,3,False,Other,5,Other,0,0,Standard,8,3,12913594.0
+Other,Scanner,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,13,3,578888.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,morning,Other,False,3,False,Greg Malek,5,Greg Malek,0,0,Standard,2,3,15194.0
+Other,Network,Application,Other,morning,Other,False,3,False,Other,5,Other,0,0,Standard,3,3,342751.0
+Other,Computer,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,1,0,Standard,8,3,2707438.0
+Other,Server,Application,Other,morning,Other,False,3,False,Stephen Wolff,5,Other,0,0,Standard,5,3,8562357.0
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Daniel Smith,0,0,Standard,4,3,611062.0
+Other,Server,Application,FedEx Express,morning,ID973921,False,3,True,Stephen Barch,4,Michael Kennemer,2,0,ITCC,11,2,1468720.0
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,Greg Malek,5,Greg Malek,0,0,Standard,2,3,3103488.0
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,Matthew Gonderinger,3,Matthew Gonderinger,0,0,Standard,4,2,591079.0
+Other,Database,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,6,3,2596014.0
+Other,Scanner,Network,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,3,3,111861.0
+Other,Other,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,5,3,3297813.0
+FXS_APSCITL3OMSSTERLING,Server,Application,Other,morning,Other,False,3,False,Sathya Easwaran,5,Other,0,0,Standard,6,3,4300795.0
+Other,Mainframe,Application,Other,morning,Other,False,3,False,Other,5,Other,0,0,Standard,10,3,2593858.0
+Other,Server,Environment,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,3,3,3191374.0
+Other,Server,Application,Other,afternoon,Other,False,3,False,Other,5,Other,0,0,Standard,8,3,596507.0
+Other,Other,Network,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,2,3,111041.0
+Other,Scanner,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,1,3,369584.0
+Other,Database,Application,Other,afternoon,Other,False,3,False,Michael Olton,5,Other,1,0,Standard,8,3,445355.0
+Other,Scanner,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,1,3,252775.0
+Other,Other,Hardware,Other,morning,Other,False,3,False,Other,5,Other,1,0,Standard,6,3,1400319.0
+Other,Other,Hardware,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,1,3,276008.0
+Other,Server,Application,Other,morning,Other,False,3,False,Michael Olton,5,Other,0,0,Standard,1,3,167592.0
+Other,Database,Application,Other,morning,Other,False,3,False,Other,5,Other,0,0,Standard,3,3,173123.0

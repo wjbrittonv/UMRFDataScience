@@ -1,0 +1,1625 @@
+'Assignment group','Business service',Category,Company,'Created Time','Created by','Has Parent',Impact,'Major Problem','Opened by',Priority,Type,Urgency
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Computer,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Network,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID5305519,True,2,False,'Ashish Bisht',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,Other,True,1,True,'Sean Green',2,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Infrastructure,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,'Communication Device',Application,Other,afternoon,ID973921,False,3,False,'Stephen Barch',3,Proactive,1
+Other,Server,Application,'FedEx Express',night,ID5163721,True,1,True,'Divakar Durgapal',2,ITCC,2
+Other,Database,Infrastructure,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Computer,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Sandrina Khongjee',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,1,True,'Stephen Barch',2,ITCC,2
+Other,Other,Application,'FedEx Services',night,ID5163721,True,1,True,'Divakar Durgapal',1,ITCC,1
+Other,Server,Hardware,'FedEx Express',morning,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+Other,'Communication Device','Inquiry / Help','FedEx Office',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FSC_ITL3O2STIBCO,Database,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Infrastructure,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,'Inquiry / Help','FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Computer,Application,'FedEx Freight Inc.',afternoon,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID973921,True,1,True,'Stephen Barch',2,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,morning,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+Other,Network,Application,'FedEx Services',evening,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,2,True,'Brad Moore',4,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,Standard,1
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,2,True,'Shafi Ahmed',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,True,3,False,'Naveen Kumar',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,True,3,False,'Naveen Kumar',5,Standard,3
+Other,Computer,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Other,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FSC_L3WMSSTERLINGLOFT,Other,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Network,Hardware,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Database,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Server,Hardware,'TNT Express',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID973921,False,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Network,Security,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Database,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Database,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Network,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Computer,Hardware,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Database,'Inquiry / Help','FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,Other,True,2,True,'Mandeep Khati',4,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',evening,Other,True,3,True,'Mandeep Khati',3,ITCC,1
+Other,Server,Hardware,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,'Inquiry / Help','FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,Other,True,1,False,'Marconius Donahue',3,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,evening,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,'Communication Device',Application,'FedEx Freight Inc.',morning,Other,True,3,True,'Herman Holeyfield',4,ITCC,2
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,Server,Hardware,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Computer,Application,'FedEx Freight Inc.',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',night,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Computer,Application,'FedEx Ground',morning,Other,True,3,True,Other,5,Standard,3
+Other,Network,Application,'FedEx Freight Inc.',morning,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Computer,Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Freight Inc.',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Freight Inc.',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_WASDRATINGTRACKING,Other,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',2,ITCC,1
+Other,Server,Application,'FedEx Services',night,ID3667964,True,1,True,'DZundra Green',2,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Other,Application,'FedEx Services',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Ground',night,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',evening,Other,True,2,True,'Marconius Donahue',2,ITCC,1
+Other,Other,Environment,'FedEx Services',evening,Other,True,2,True,'Marconius Donahue',2,ITCC,1
+Other,Database,Hardware,'FedEx Ground',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,2,True,'David Light',2,ITCC,1
+Other,Other,Hardware,'FedEx Freight Inc.',morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Other,Application,'FedEx Services',afternoon,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Mainframe,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Brad Moore',4,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Brad Moore',3,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Express',night,Other,True,3,False,Other,5,ITCC,3
+Other,Scanner,Hardware,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Database,Application,'FedEx Services',afternoon,ID5305519,True,3,False,'Ashish Bisht',5,ITCC,3
+Other,Database,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Database,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Network,Hardware,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Computer,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,False,'DZundra Green',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,'FedEx Services',evening,ID3667964,True,3,False,'DZundra Green',5,Standard,3
+Other,Network,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',2,ITCC,1
+Other,Database,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Database,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Sean Green',5,Other,3
+Other,Computer,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Services',afternoon,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Network,Hardware,'FedEx Services',evening,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Network,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,Standard,3
+Other,Server,Application,'FedEx Express',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,Standard,3
+Other,Scanner,Application,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+Other,Computer,Application,'FedEx Express',afternoon,Other,True,2,True,'Brad Moore',4,ITCC,3
+Other,Database,Application,'FedEx Ground',afternoon,Other,True,3,False,Other,5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,Other,4,Standard,2
+Other,Other,Hardware,'FedEx Express',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Network,Hardware,'FedEx Ground',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',4,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Database,'Inquiry / Help','FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Express',morning,ID5285658,True,3,False,'Shafi Ahmed',5,Standard,3
+Other,Computer,Network,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Ground',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Ground',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Scanner,Application,'FedEx Services',morning,ID5285658,True,3,False,'Shafi Ahmed',5,Standard,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+Other,Network,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',4,ITCC,2
+Other,Database,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Database,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,True,Other,4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',4,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,1,True,'Brad Moore',3,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,1,True,'Brad Moore',3,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'Brad Moore',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,1,True,'Brad Moore',3,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Brad Moore',4,ITCC,3
+Other,Network,Hardware,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Brad Moore',3,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,'Inquiry / Help','FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,False,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Express',morning,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Server,Application,'FedEx Express',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Scanner,Hardware,'FedEx Ground',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Hardware,'FedEx Services',morning,ID836059,True,3,False,'Khouri Mitchell',5,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Sean Green',3,ITCC,2
+Other,Network,Hardware,'FedEx Ground',night,ID5285658,True,3,False,'Shafi Ahmed',5,Other,3
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Computer,Application,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Server,Application,'FedEx Express',morning,ID5285658,False,3,True,'Shafi Ahmed',5,Standard,3
+Other,Mainframe,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',2,ITCC,1
+Other,Server,'Inquiry / Help','FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID5285658,True,1,True,'Shafi Ahmed',3,Standard,3
+Other,Server,Application,'FedEx Ground',afternoon,Other,True,1,True,'Anjali Sharma',3,ITCC,3
+Other,Network,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Express',afternoon,Other,True,1,True,'Anjali Sharma',2,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Computer,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Database,Application,'FedEx Ground',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID836059,True,1,True,'Khouri Mitchell',3,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,1,True,'Logan Simmons',3,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,1,True,'DZundra Green',2,ITCC,2
+Other,Database,Application,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Express',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Application,'FedEx Ground',afternoon,Other,True,3,False,Other,5,Standard,3
+Other,Network,Application,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Application,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Scanner,Application,'TNT Express',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Computer,Application,'FedEx Freight Inc.',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,1,True,'DZundra Green',2,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Scanner,Application,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Network,Application,Other,night,Other,True,2,True,'Sean Green',4,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Mainframe,Application,'FedEx Express',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,False,Other,5,Standard,3
+Other,Mainframe,Hardware,'FedEx Express',afternoon,ID973921,True,3,True,'Stephen Barch',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Ground',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,2,True,Other,4,ITCC,3
+Other,Computer,Application,Other,morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Network,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5305519,True,3,True,'Ashish Bisht',3,ITCC,1
+Other,Computer,'Inquiry / Help','FedEx Freight Inc.',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Scanner,Application,Other,afternoon,Other,False,3,False,Other,5,Proactive,3
+Other,Scanner,Hardware,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,4,Standard,2
+Other,Server,Application,'FedEx Services',morning,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Database,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Network,Application,'FedEx Services',night,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Network,Hardware,'FedEx Office',night,Other,True,2,True,'David Light',3,ITCC,2
+Other,Server,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Network,Application,'FedEx Services',morning,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Network,Hardware,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+FSC_ITL3O2STIBCO,Server,Application,Other,morning,Other,True,3,False,'Naveen Kumar',4,Standard,2
+Other,Server,'Inquiry / Help','FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Scanner,Hardware,'FedEx Services',morning,Other,True,3,True,'Herman Holeyfield',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Database,Application,'FedEx Services',evening,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Sean Green',5,ITCC,3
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',3,ITCC,1
+Other,Server,Hardware,'FedEx Services',night,Other,True,2,True,'Sean Green',3,ITCC,2
+Other,Computer,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',3,ITCC,1
+Other,Network,Hardware,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,False,'Stephen Barch',5,ITCC,3
+Other,Scanner,Hardware,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Network,Application,'FedEx Express',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',4,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,Other,True,2,True,'David Light',3,ITCC,2
+Other,Scanner,Hardware,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Express',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Database,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Computer,Application,'FedEx Office',night,Other,True,3,True,Other,4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'TNT Express',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Network,Application,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',4,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Network,Hardware,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Computer,Application,'FedEx Express',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Network,Application,'FedEx Express',morning,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Scanner,'Inquiry / Help',Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Ground',morning,Other,True,3,True,'Herman Holeyfield',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Server,Hardware,'FedEx Express',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Network,Hardware,'FedEx Services',afternoon,Other,True,3,True,'Sean Green',5,ITCC,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,Other,True,3,False,'Naveen Kumar',5,Standard,3
+FXS_WASDRATINGTRACKING,Network,Application,'FedEx Services',evening,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',3,ITCC,1
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,Other,True,3,False,Other,5,Standard,3
+Other,Other,'Inquiry / Help',Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,Other,True,2,True,'Nivedita Roy',4,ITCC,3
+Other,Server,Hardware,'FedEx Express',morning,ID5285658,True,3,True,'Shafi Ahmed',4,Standard,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Application,'FedEx Freight Inc.',afternoon,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+Other,Database,Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Network,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Network,Hardware,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',4,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Scanner,Application,'TNT Express',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID5285658,True,3,False,'Shafi Ahmed',5,Other,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID5285658,True,3,False,'Shafi Ahmed',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Network,Application,'FedEx Services',morning,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Server,Application,'TNT Express',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+FXS_WASDRATINGTRACKING,Network,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',afternoon,ID5285658,True,2,True,'Shafi Ahmed',4,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,ID5285658,True,2,True,'Shafi Ahmed',4,Standard,3
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,2,False,'Khouri Mitchell',4,ITCC,3
+Other,Server,Hardware,'FedEx Ground',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',4,Standard,2
+Other,Network,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+Other,Computer,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,1,False,Other,3,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Network,Hardware,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,Other,3
+Other,'Communication Device',Application,'FedEx Freight Inc.',afternoon,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Network,Hardware,'FedEx Services',morning,ID836059,True,1,True,'Khouri Mitchell',3,ITCC,3
+Other,Computer,Hardware,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,'Inquiry / Help','FedEx Services',morning,ID836059,True,3,False,'Khouri Mitchell',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Ground',evening,Other,True,2,True,'Anjali Sharma',4,ITCC,3
+Other,Scanner,Hardware,'FedEx Office',afternoon,Other,True,3,False,Other,5,Other,3
+Other,Computer,Application,'FedEx Ground',afternoon,ID836059,True,2,True,'Khouri Mitchell',4,ITCC,3
+Other,Scanner,Hardware,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Network,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,Standard,2
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,Standard,2
+Other,Computer,Application,'FedEx Express',morning,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Computer,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Network,Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Network,Hardware,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,'Communication Device',Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,Standard,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,Other,True,2,True,'Nivedita Roy',4,ITCC,3
+Other,Scanner,Application,'FedEx Ground',afternoon,Other,True,3,False,Other,5,Standard,3
+Other,Network,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Database,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',3,ITCC,1
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Network,Application,'FedEx Ground',afternoon,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Hardware,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,'Communication Device',Application,'FedEx Express',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Network,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,Other,3
+Other,'Communication Device',Application,'FedEx Ground',afternoon,Other,True,3,False,Other,5,Other,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,Server,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Express',night,Other,True,3,True,'David Light',4,ITCC,2
+Other,Other,Application,'FedEx Freight Inc.',night,Other,True,1,True,'Herman Holeyfield',3,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+FSC_ITL3O2STIBCO,Server,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Network,Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,Other,True,3,False,Other,5,ITCC,3
+Other,Database,Infrastructure,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,Other,4,ITCC,2
+Other,Network,Application,'FedEx Express',morning,Other,True,3,True,'David Light',4,ITCC,2
+Other,Network,Application,'FedEx Express',morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Express',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Network,Application,'FedEx Ground',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Database,Application,'FedEx Services',night,Other,True,3,True,'Herman Holeyfield',5,Other,3
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Network,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Database,Application,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',3,ITCC,1
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,False,'Divakar Durgapal',4,ITCC,2
+Other,Database,'Inquiry / Help','FedEx Express',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Database,Application,'TNT Express',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Network,Hardware,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Network,'Inquiry / Help','FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,Other,evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Computer,Application,'FedEx Ground',night,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,Computer,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Computer,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,1,True,'Logan Simmons',3,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,'Inquiry / Help','FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Office',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Scanner,Application,'FedEx Ground',evening,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Computer,Application,'FedEx Ground',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Scanner,Security,'FedEx Services',morning,Other,True,2,True,'David Light',3,ITCC,2
+Other,'Communication Device',Application,'FedEx Ground',morning,Other,True,3,True,'Herman Holeyfield',3,ITCC,1
+Other,Server,Application,'FedEx Services',evening,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Network,Network,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,'Communication Device',Application,Other,morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Network,Hardware,'FedEx Express',morning,Other,True,3,True,'Herman Holeyfield',4,ITCC,2
+Other,Server,Security,'FedEx Services',afternoon,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Security,'FedEx Express',afternoon,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Server,'Inquiry / Help','FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',3,ITCC,1
+Other,'Communication Device',Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Database,Application,'FedEx Express',morning,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,'Communication Device',Security,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Computer,Security,'FedEx Freight Inc.',afternoon,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Computer,Hardware,'FedEx Freight Inc.',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Computer,Application,'FedEx Express',morning,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+Other,Mainframe,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Network,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Security,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Application,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,evening,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Network,'Inquiry / Help','FedEx Services',evening,Other,True,3,True,'Marconius Donahue',4,ITCC,2
+Other,Server,Application,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,'Communication Device',Application,'FedEx Express',night,Other,True,3,False,Other,5,Other,3
+Other,Database,Security,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,Server,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Computer,Application,'FedEx Express',morning,ID847287,True,3,True,'Logan Simmons',4,ITCC,2
+Other,Database,Infrastructure,'FedEx Services',night,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',3,ITCC,1
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,Other,True,2,True,'Mandeep Khati',4,ITCC,3
+Other,Network,Application,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Network,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Computer,Security,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Database,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Network,Application,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,'Communication Device',Network,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,Proactive,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,evening,Other,False,3,False,'Naveen Kumar',4,Standard,2
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Sean Green',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Ground',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Database,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Network,Telephony,'FedEx Ground',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Network,Security,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,'Communication Device',Application,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Server,Hardware,'FedEx Freight Inc.',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,Other,True,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Other,Network,'FedEx Services',morning,ID836059,True,1,True,'Khouri Mitchell',2,ITCC,2
+Other,Other,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Network,Telephony,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,'Inquiry / Help','FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,'Communication Device',Infrastructure,'FedEx Freight Inc.',night,Other,True,3,True,'Nivedita Roy',3,ITCC,1
+Other,Network,Security,'FedEx Services',afternoon,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Database,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Other,Network,'FedEx Services',night,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Other,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Other,Application,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Express',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Other,Application,'FedEx Services',afternoon,Other,True,1,True,'Anjali Sharma',3,ITCC,3
+Other,Other,Hardware,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Other,Application,'FedEx Express',night,Other,True,3,True,'David Light',4,ITCC,2
+Other,Other,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Database,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Other,Application,Other,morning,ID836059,True,2,True,'Khouri Mitchell',4,ITCC,3
+Other,Server,Network,'FedEx Services',afternoon,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Other,Telephony,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',3,ITCC,1
+Other,Other,Network,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Infrastructure,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Server,Infrastructure,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Network,Network,'FedEx Services',evening,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,Scanner,Application,'FedEx Ground',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Telephony,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',2,ITCC,1
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Server,Application,'FedEx Express',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Server,Hardware,'FedEx Services',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+Other,Computer,Application,'FedEx Freight Inc.',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Database,Infrastructure,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Express',afternoon,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+Other,'Communication Device',Infrastructure,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Hardware,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Network,'FedEx Services',night,Other,True,3,True,'Sandrina Khongjee',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Other,Application,'FedEx Services',night,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Other,Application,'FedEx Services',morning,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Other,Application,'FedEx Services',night,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Marconius Donahue',4,ITCC,2
+Other,Server,Infrastructure,'FedEx Services',night,Other,True,2,True,'Sandrina Khongjee',3,ITCC,2
+Other,Computer,Hardware,'FedEx Office',morning,ID5163721,True,3,True,'Divakar Durgapal',5,Other,3
+Other,Server,Application,'FedEx Freight Inc.',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Ground',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Computer,Application,'FedEx Office',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',4,ITCC,2
+Other,Other,Environment,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,'Communication Device',Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Mainframe,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+Other,Server,Application,'FedEx Express',evening,Other,True,3,True,'Marconius Donahue',4,ITCC,2
+Other,Network,Network,'FedEx Services',afternoon,ID5305519,True,3,False,'Ashish Bisht',5,ITCC,3
+Other,Other,Hardware,'FedEx Ground',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Server,Network,'FedEx Services',afternoon,Other,True,3,True,'Nivedita Roy',4,ITCC,2
+Other,Computer,Application,'FedEx Ground',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Database,Application,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,'Communication Device',Network,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Other,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Database,Application,'FedEx Freight Inc.',morning,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Express',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',afternoon,ID3667964,True,2,False,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Ground',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Other,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Computer,Application,'FedEx Ground',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,'Communication Device',Application,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',2,ITCC,1
+Other,Server,Application,'FedEx Ground',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Server,Application,'FedEx Express',morning,ID5163721,True,3,True,'Divakar Durgapal',3,ITCC,1
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Freight Inc.',afternoon,Other,True,3,False,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Express',morning,Other,True,3,False,'David Light',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',afternoon,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Server,Application,'FedEx Express',night,Other,True,2,True,'Marconius Donahue',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'TNT Express',night,Other,True,3,True,'David Light',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Express',night,Other,True,3,True,'David Light',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Security,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Scanner,Application,'FedEx Ground',afternoon,Other,True,3,True,'Marconius Donahue',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,'FedEx Ground',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Server,Infrastructure,Other,night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Other,Infrastructure,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Computer,Application,'FedEx Freight Inc.',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Other,Application,'FedEx Services',night,Other,True,3,True,'Sandrina Khongjee',4,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5285658,True,1,True,'Shafi Ahmed',3,ITCC,3
+Other,Server,Application,'FedEx Services',evening,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+Other,Other,Network,'FedEx Express',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Computer,Network,'FedEx Freight Inc.',night,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,Other,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Server,Infrastructure,'FedEx Services',afternoon,Other,True,2,True,'Mandeep Khati',3,Standard,2
+Other,Server,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Other,Application,'FedEx Services',morning,Other,True,2,True,'Mandeep Khati',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',morning,ID973921,True,1,True,'Stephen Barch',2,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Network,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',evening,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,'Communication Device',Application,'FedEx Services',afternoon,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+Other,Computer,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',3,ITCC,1
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',morning,Other,True,2,True,'Brad Moore',2,ITCC,1
+Other,Server,Application,'FedEx Express',afternoon,Other,True,2,True,'Nivedita Roy',2,ITCC,1
+Other,Server,Infrastructure,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Other,Application,'FedEx Services',afternoon,Other,True,3,True,'Sean Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Ground',afternoon,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+Other,Other,Application,'FedEx Services',night,ID5285658,True,1,True,'Shafi Ahmed',2,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,'FedEx Services',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Scanner,Application,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',evening,ID5305519,True,1,True,'Ashish Bisht',2,ITCC,2
+Other,Server,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Scanner,Application,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Other,Application,'FedEx Services',morning,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+Other,Server,Hardware,'FedEx Express',night,Other,True,3,True,'David Light',5,ITCC,3
+Other,Server,Hardware,'FedEx Freight Inc.',morning,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+Other,Server,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',morning,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,Other,morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Mainframe,Hardware,'FedEx Services',night,ID5285658,True,1,True,'Shafi Ahmed',2,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,1,True,'Ashish Bisht',2,ITCC,2
+Other,Server,Network,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,Server,Application,'FedEx Services',morning,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+Other,Scanner,Hardware,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,1,True,'Logan Simmons',2,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Express',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Mainframe,Application,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Freight Inc.',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Server,Application,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Telephony,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Computer,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Other,Network,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',4,ITCC,3
+Other,Other,Network,'FedEx Services',night,Other,True,1,True,'Anjali Sharma',3,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Computer,Application,Other,afternoon,Other,False,2,False,Other,3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Server,Application,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Other,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,Server,Application,'FedEx Services',morning,ID847287,True,1,True,'Logan Simmons',2,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Ground',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Other,Application,'FedEx Ground',afternoon,Other,True,3,True,Other,5,ITCC,3
+Other,Scanner,Hardware,'FedEx Express',night,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Scanner,Hardware,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,'Communication Device',Network,'FedEx Freight Inc.',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Scanner,Application,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Express',afternoon,ID5305519,True,2,True,'Ashish Bisht',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Freight Inc.',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Freight Inc.',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,Computer,Application,'FedEx Express',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Ground',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',afternoon,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Freight Inc.',evening,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+Other,Other,Application,'FedEx Freight Inc.',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Express',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Mainframe,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Ground',night,Other,True,2,True,'Sean Green',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Computer,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Hardware,'FedEx Ground',morning,Other,True,2,True,'Mandeep Khati',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,'Communication Device',Hardware,'FedEx Office',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Office',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Freight Inc.',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Ground',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Hardware,'FedEx Ground',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+Other,Server,Infrastructure,'FedEx Services',morning,Other,True,2,True,'David Light',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID847287,True,3,False,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Express',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',afternoon,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Server,Hardware,'FedEx Services',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,'FedEx Office',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Database,Hardware,'FedEx Ground',morning,ID847287,True,3,True,'Logan Simmons',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Computer,Hardware,'FedEx Freight Inc.',night,ID5285658,True,2,True,'Shafi Ahmed',3,ITCC,2
+Other,Other,Application,'FedEx Services',night,ID5163721,True,1,True,'Divakar Durgapal',3,ITCC,3
+Other,Scanner,Hardware,'FedEx Ground',morning,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Database,Hardware,'FedEx Services',evening,Other,True,1,True,'Anjali Sharma',2,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Other,Network,'FedEx Ground',night,Other,True,3,False,'Sandrina Khongjee',5,Other,3
+Other,Database,Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',afternoon,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Server,Hardware,'FedEx Office',evening,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Network,Other,night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Other,Application,'FedEx Services',afternoon,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,'Communication Device',Hardware,Other,afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Security,Other,night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Mainframe,Application,'FedEx Services',afternoon,ID973921,True,2,True,'Stephen Barch',3,ITCC,2
+Other,Server,Application,'FedEx Ground',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Server,Application,Other,morning,ID847287,True,2,True,'Logan Simmons',3,ITCC,2
+Other,Computer,Hardware,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',3,ITCC,1
+Other,Server,Application,'FedEx Express',evening,ID5305519,True,2,True,'Ashish Bisht',3,ITCC,2
+Other,Server,Network,'FedEx Services',evening,ID5305519,True,2,True,'Ashish Bisht',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',morning,Other,True,3,True,'David Light',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Scanner,Application,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Hardware,'FedEx Ground',night,Other,True,2,True,'David Light',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'TNT Express',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Network,Other,night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Other,Hardware,'FedEx Ground',morning,Other,True,3,False,Other,5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',morning,ID847287,True,1,True,'Logan Simmons',2,ITCC,2
+Other,Other,Application,Other,night,ID5163721,True,2,True,'Divakar Durgapal',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Express',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Other,Hardware,'FedEx Services',night,Other,True,2,True,'David Light',3,ITCC,2
+Other,Computer,Hardware,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Services',morning,ID836059,True,2,True,'Khouri Mitchell',3,ITCC,2
+Other,Server,Hardware,'FedEx Services',afternoon,Other,True,2,True,'Anjali Sharma',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,'FedEx Services',afternoon,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Server,Application,'FedEx Services',afternoon,Other,True,1,True,'Marconius Donahue',1,ITCC,1
+Other,Server,Hardware,'FedEx Services',night,Other,True,1,True,'Marconius Donahue',2,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',night,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_WASDRATINGTRACKING,Other,Application,'FedEx Services',night,ID5163721,True,1,True,'Divakar Durgapal',2,ITCC,2
+Other,Server,Hardware,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Environment,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Database,Hardware,'FedEx Ground',night,Other,True,2,True,'David Light',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Database,Hardware,'FedEx Freight Inc.',night,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Office',afternoon,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Network,'FedEx Services',evening,Other,True,2,True,'Marconius Donahue',3,ITCC,2
+Other,Server,Hardware,'FedEx Ground',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Server,Hardware,'FedEx Services',night,ID3667964,True,3,True,'DZundra Green',3,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Hardware,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,Other,True,1,True,'Marconius Donahue',2,ITCC,2
+Other,'Communication Device',Hardware,'FedEx Ground',morning,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID847287,True,2,True,'Logan Simmons',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Office',evening,ID5305519,True,2,True,'Ashish Bisht',2,ITCC,1
+Other,Server,Hardware,Other,afternoon,Other,False,1,True,'Mandeep Khati',2,ITCC,2
+Other,Server,Application,'FedEx Ground',morning,Other,True,3,False,'Stephen Wolff',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,'Communication Device','Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Network,Application,Other,morning,Other,False,2,False,Other,3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,'Sathya Easwaran',4,Standard,2
+Other,Computer,Application,Other,morning,Other,False,3,True,Other,5,ITCC,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Scanner,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,'Communication Device',Hardware,'FedEx Services',afternoon,Other,False,3,True,'Sean Green',5,ITCC,3
+Other,Network,Application,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',3,Standard,2
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,4,Standard,2
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,'Sathya Easwaran',4,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,'TNT Express',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Network,Application,'FedEx Services',night,Other,False,3,True,'Anjali Sharma',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',night,ID5285658,True,3,True,'Shafi Ahmed',4,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,False,'DZundra Green',5,ITCC,3
+Other,Server,Hardware,Other,afternoon,Other,False,1,True,Other,1,Standard,1
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,False,'David Light',5,ITCC,3
+Other,'Communication Device',Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Server,Application,'FedEx Services',night,Other,True,3,True,'Sean Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Express',morning,Other,True,3,False,'Nivedita Roy',5,ITCC,3
+Other,Server,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,'Communication Device',Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+Other,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Proactive,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Proactive,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+Other,Scanner,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXS_WASDRATINGTRACKING,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXS_WASDRATINGTRACKING,Server,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',3,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,'Communication Device','Inquiry / Help',Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',3,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Scanner,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Network,'Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,'Inquiry / Help',Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',3,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Other,3
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,'Communication Device',Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FSC_ITL3O2STIBCO,Server,Application,Other,afternoon,ID5069733,True,1,False,'Admin-Arturo Reyes',1,Standard,1
+FXS_EIS_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',3,Standard,3
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Mainframe,Infrastructure,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,'Communication Device',Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Other,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FXS_APSCITL3OMSSTERLING,Network,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,'Communication Device','Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Mainframe,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',3,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FSC_L3WMSSTERLINGLOFT,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Other,2
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,ITCC,1
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+FXS_APSCITL3OMSSTERLING,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+Other,Network,'Inquiry / Help',Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Proactive,1
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+Other,Network,Hardware,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Standard,1
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_BR_US_BusinessReadiness,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Network,'Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,'Inquiry / Help',Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Proactive,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FSC_L3WMSSTERLINGLOFT,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,ITCC,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,'Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Standard,1
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,Standard,1
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Other,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Other,2
+FSC_ITL3O2STIBCO,Server,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+Other,Network,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,ITCC,1
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Other,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Proactive,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,'Inquiry / Help',Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXS_SDESK_GLB_ProblemMgmt,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Proactive,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Other,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,True,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FSC_ITL3O2STIBCO,Database,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Proactive,2
+Other,Server,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Proactive,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Proactive,1
+FXS_SDESK_GLB_ProblemMgmt,Computer,'Inquiry / Help',Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Scanner,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,Proactive,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Proactive,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Scanner,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',3,Proactive,1
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,Proactive,2
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',2,Proactive,1
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,'Communication Device',Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,Standard,3
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_ITL3O2STIBCO,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+Other,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Standard,1
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',1,Standard,1
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Network,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Scanner,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+Other,Server,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',4,ITCC,2
+Other,Server,Application,Other,afternoon,ID5069733,False,1,False,'Admin-Arturo Reyes',2,ITCC,2
+Other,Network,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,ID5069733,False,2,False,'Admin-Arturo Reyes',4,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Proactive,3
+Other,Server,Application,'FedEx Services',evening,Other,False,3,True,'Anjali Sharma',5,Other,3
+Other,Server,Application,'FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Computer,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,True,3,False,'Sathya Easwaran',4,Standard,2
+Other,Other,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,True,3,False,'Sathya Easwaran',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Hardware,'FedEx Services',afternoon,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,Other,evening,ID3667964,False,2,False,'DZundra Green',4,ITCC,3
+Other,Server,Application,'FedEx Office',morning,Other,True,3,True,'David Light',5,ITCC,3
+Other,Other,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,morning,Other,False,2,True,'Matthew Gonderinger',3,Standard,2
+FSC_L3WMSSTERLINGLOFT,Database,Application,Other,morning,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Server,Application,Other,afternoon,Other,False,1,False,Other,2,Standard,2
+Other,Server,Application,'FedEx Services',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Proactive,3
+Other,Mainframe,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID5305519,True,3,False,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,False,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,False,3,False,'DZundra Green',5,ITCC,3
+Other,Other,Hardware,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,True,3,False,'Sathya Easwaran',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,'FedEx Services',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Network,Application,'FedEx Services',afternoon,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Application,'FedEx Express',afternoon,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+FXS_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,Other,False,3,False,Other,4,Standard,2
+Other,Mainframe,Hardware,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,'FedEx Services',night,Other,False,3,True,'Herman Holeyfield',5,ITCC,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Network,Network,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',4,Standard,2
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,Other,5,Proactive,3
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID5285658,False,3,True,'Shafi Ahmed',5,Standard,3
+Other,Database,Application,'FedEx Services',evening,Other,True,2,True,'Anjali Sharma',4,ITCC,3
+Other,Mainframe,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',night,ID5285658,True,3,True,'Shafi Ahmed',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,'Sathya Easwaran',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,ID5069733,False,3,False,'Admin-Arturo Reyes',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Hardware,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Hardware,Other,afternoon,Other,False,2,False,Other,3,Standard,2
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,2,False,Other,4,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+Other,Computer,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Network,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,True,3,False,Other,5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,True,3,False,Other,4,Standard,2
+FSC_L3WMSSTERLINGLOFT,Computer,Application,Other,morning,Other,False,3,False,'Naveen Kumar',5,Standard,3
+Other,Network,Application,Other,night,Other,True,1,False,Other,2,Standard,2
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,'Sathya Easwaran',4,Standard,2
+Other,Other,Hardware,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Database,Application,Other,afternoon,Other,False,1,True,Other,1,ITCC,1
+FXS_SDESK_GLB_ProblemMgmt,'Communication Device','Inquiry / Help',Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXO_BR_US_BusinessReadiness,Database,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',2,Standard,1
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,1,False,'Matthew Gonderinger',2,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,Other,afternoon,Other,False,2,False,Other,3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Network,Hardware,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Services',night,Other,False,3,True,'Nivedita Roy',5,ITCC,3
+Other,Network,'Inquiry / Help',Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',night,ID5163721,False,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Scanner,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXS_WASDRATINGTRACKING,Server,'Inquiry / Help','FedEx Services',evening,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,Other,morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,'Inquiry / Help','FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,morning,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'TNT Express',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',night,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Database,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+Other,Network,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Computer,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+Other,Computer,Application,'FedEx Ground',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,afternoon,Other,False,2,False,Other,2,Standard,1
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Server,Application,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Application,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,morning,Other,False,3,False,'Greg Malek',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,morning,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,'FedEx Express',night,Other,True,3,False,'Nivedita Roy',5,ITCC,3
+FXO_BR_US_BusinessReadiness,Database,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',morning,Other,True,3,True,'David Light',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Express',morning,ID973921,False,3,True,'Stephen Barch',4,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Network,Hardware,'FedEx Express',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',evening,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Server,Hardware,Other,afternoon,Other,False,1,True,Other,1,Standard,1
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID3667964,True,3,True,'DZundra Green',5,ITCC,3
+Other,Database,Application,Other,afternoon,Other,False,2,False,Other,3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',4,Standard,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',4,Standard,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',4,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,morning,Other,False,3,False,'Matthew Gonderinger',4,Standard,2
+FXO_BR_US_BusinessReadiness,Scanner,Hardware,Other,morning,Other,False,2,False,'Matthew Gonderinger',2,Standard,1
+Other,Server,Hardware,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Network,Application,'FedEx Services',night,Other,True,3,False,Other,4,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Computer,Application,'FedEx Ground',night,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+Other,Computer,Application,'FedEx Freight Inc.',afternoon,ID5305519,True,3,True,'Ashish Bisht',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Application,Other,evening,ID3667964,True,3,True,'DZundra Green',4,Standard,2
+Other,Computer,Application,Other,morning,Other,False,3,False,'Stephen Wolff',5,Standard,3
+FXO_BR_US_BusinessReadiness,Other,'Inquiry / Help',Other,morning,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Computer,Application,Other,morning,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_BR_US_BusinessReadiness,Scanner,Hardware,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Database,Infrastructure,Other,morning,Other,False,3,False,'Brad Moore',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,Other,morning,Other,False,3,False,'Brad Moore',5,ITCC,3
+Other,Computer,Hardware,'FedEx Ground',morning,Other,True,3,True,'Nivedita Roy',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Scanner,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Scanner,Network,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+Other,Other,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Scanner,Hardware,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+Other,Other,Application,'FedEx Express',night,ID5285658,True,1,True,'Shafi Ahmed',2,ITCC,2
+Other,Server,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Database,Application,'FedEx Express',night,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Server,Application,'FedEx Services',morning,ID5285658,True,3,True,'Shafi Ahmed',4,ITCC,2
+Other,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_APSCITL3OMSSTERLING,Server,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,Computer,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'FedEx Services',morning,Other,True,2,True,'Nivedita Roy',4,ITCC,3
+Other,Computer,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Server,Application,Other,afternoon,Other,False,1,False,Other,3,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Mainframe,Application,Other,morning,Other,False,1,False,Other,2,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID973921,False,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Application,'FedEx Express',night,ID5163721,True,1,True,'Divakar Durgapal',2,ITCC,2
+FXO_SDESK_GLB_ProblemMgmt,'Communication Device',Application,Other,morning,Other,False,2,False,Other,2,Standard,1
+Other,Database,Infrastructure,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',4,ITCC,2
+Other,Database,Infrastructure,'FedEx Ground',morning,Other,True,3,True,'Mandeep Khati',4,ITCC,2
+Other,Other,Infrastructure,'FedEx Services',morning,ID836059,True,2,True,'Khouri Mitchell',2,ITCC,1
+Other,Computer,Infrastructure,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,2,False,'Matthew Gonderinger',3,Standard,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',4,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',morning,ID973921,True,2,True,'Stephen Barch',2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',night,Other,True,2,True,'Marconius Donahue',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Hardware,'FedEx Services',morning,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',afternoon,ID3667964,True,2,True,'DZundra Green',2,ITCC,1
+Other,Other,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,'Communication Device',Application,Other,morning,Other,False,2,False,Other,2,Standard,1
+Other,Mainframe,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',morning,ID847287,True,3,True,'Logan Simmons',5,ITCC,3
+Other,Server,Environment,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',afternoon,Other,True,3,True,'Anjali Sharma',5,ITCC,3
+Other,Server,Application,Other,morning,Other,False,3,False,Other,5,Proactive,3
+Other,Server,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Infrastructure,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Infrastructure,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Infrastructure,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Infrastructure,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Computer,Hardware,'FedEx Freight Inc.',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Server,Hardware,'FedEx Express',night,ID5163721,True,3,True,'Divakar Durgapal',5,ITCC,3
+Other,'Communication Device',Hardware,'FedEx Express',night,ID5163721,False,3,False,'Divakar Durgapal',5,Other,3
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',morning,Other,True,2,True,'David Light',3,ITCC,2
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Express',evening,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+Other,Other,Network,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',afternoon,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,Scanner,Hardware,'TNT Express',night,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+FXS_EIS_GLB_ProblemMgmt,'Communication Device',Hardware,'FedEx Services',night,Other,False,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Scanner,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,afternoon,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Services',afternoon,Other,True,3,True,'Marconius Donahue',5,ITCC,3
+Other,Server,Infrastructure,'FedEx Services',afternoon,Other,True,1,True,'Marconius Donahue',2,ITCC,2
+Other,Scanner,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',afternoon,ID973921,True,3,True,'Stephen Barch',5,ITCC,3
+Other,Mainframe,Application,Other,night,Other,False,3,False,Other,5,Proactive,3
+Other,Server,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Mainframe,Hardware,'FedEx Services',morning,ID973921,True,1,True,'Stephen Barch',2,ITCC,2
+FXS_SDESK_GLB_ProblemMgmt,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Standard,3
+Other,Server,Application,'FedEx Services',morning,Other,True,3,True,Other,5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Computer,Security,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Application,'TNT Express',morning,Other,True,3,True,'Mandeep Khati',5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,morning,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Other,Hardware,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Other,Hardware,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Computer,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Server,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Michael Olton',5,Standard,3
+FXO_SDESK_GLB_ProblemMgmt,'Communication Device',Application,Other,afternoon,Other,False,2,False,Other,2,Standard,1
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Server,Hardware,Other,morning,Other,False,3,False,Other,5,Proactive,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',night,Other,True,2,True,Other,2,ITCC,1
+FXS_EIS_GLB_ProblemMgmt,Computer,Hardware,'FedEx Ground',morning,ID836059,True,3,True,'Khouri Mitchell',5,ITCC,3
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,Other,5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+Other,Database,Application,Other,morning,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+FXS_WASDRATINGTRACKING,Server,Hardware,'FedEx Services',evening,Other,True,2,True,'Sean Green',3,ITCC,2
+FXS_APSCITL3OMSSTERLING,Database,Application,Other,night,Other,False,3,False,'Sathya Easwaran',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',morning,Other,True,1,True,'David Light',1,ITCC,1
+Other,Computer,Application,Other,afternoon,Other,False,3,False,Other,5,Proactive,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Hardware,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Server,Hardware,'FedEx Services',evening,ID3667964,True,2,True,'DZundra Green',3,ITCC,2
+Other,Database,Hardware,'FedEx Express',afternoon,ID3667964,True,2,True,'DZundra Green',4,ITCC,3
+Other,Database,Application,'FedEx Express',morning,Other,True,2,True,'Sandrina Khongjee',3,ITCC,2
+Other,Server,Application,Other,evening,Other,False,3,False,Other,5,ITCC,3
+FXO_SDESK_GLB_ProblemMgmt,Other,Application,Other,afternoon,Other,False,3,False,'Greg Malek',5,Standard,3
+FXS_EIS_GLB_ProblemMgmt,Other,Application,'FedEx Freight Inc.',night,Other,True,3,True,'Sandrina Khongjee',5,ITCC,3
+Other,Database,Application,Other,morning,Other,False,3,False,Other,5,Standard,3
